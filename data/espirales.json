@@ -1,112 +1,111 @@
 {
+  "A11": {
+    "coleccion": "OP15 Adventure on Kamis Island",
+    "cartas": [
+      {"nombre": "#1 Enel (MANGA ALT ART) [SEC/SP] {OP15-118}", "precio": "950€", "imagen": "images/cartas/op-15/OP-15_1.jpg"},
+      {"nombre": "#2 Boa Hancock (Devil Fruit Pattern) [SP] {OP12-014}", "precio": "320€", "imagen": "images/cartas/op-15/OP-15_2.jpg"},
+      {"nombre": "#3 Monkey D. Luffy (Devil Fruit Pattern) [SP] {ST26-005}", "precio": "225€", "imagen": "images/cartas/op-15/OP-15_3.jpg"},
+      {"nombre": "#4 Gum Gum Golden Rifle (ALT ART) [R/P] {OP15-116}s", "precio": "200€", "imagen": "images/cartas/op-15/OP-15_4.jpg"},
+      {"nombre": "#5 Jamboule (ALT ART) [R/P] {OP15-077}", "precio": "170€", "imagen": "images/cartas/op-15/OP-15_5.jpg"},
+      {"nombre": "#6 Trafalgar Law (Devil Fruit Pattern) [SP] {OP13-031}", "precio": "145€", "imagen": "images/cartas/op-15/OP-15_6.jpg"},
+      {"nombre": "#7 Enel (Devil Fruit Pattern) [SP] {EB02-052}", "precio": "135€", "imagen": "images/cartas/op-15/OP-15_7.jpg"},
+      {"nombre": "#8 Sabo (Devil Fruit Pattern) [SP] {P-105}", "precio": "110€", "imagen": "images/cartas/op-15/OP-15_8.jpg"},
+      {"nombre": "#9 Edward Newgate (Devil Fruit Pattern) [SP] {OP13-042}", "precio": "80€", "imagen": "images/cartas/op-15/OP-15_9.jpg"},
+      {"nombre": "#10 Roronoa Zoro (ALT ART) [SR/P] {OP15-113}", "precio": "75€", "imagen": "images/cartas/op-15/OP-15_10.jpg"}
+    ]
+  },
+
   "A12": {
     "coleccion": "OP05 Awakening of the New Era",
     "cartas": [
-      {
-        "nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)",
-        "precio": "2500.00€",
-        "imagen": "images/cartas/op-05/OP-05_1.png"
-      },
-      {
-        "nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)",
-        "precio": "1900.00€",
-        "imagen": "images/cartas/op-05/OP-05_2.png"
-      },
-      {
-        "nombre": "#3 Eustass \"Captain\" Kid (OP05-074) (V.3)",
-        "precio": "399.00€",
-        "imagen": "images/cartas/op-05/OP-05_3.png"
-      },
-      {
-        "nombre": "#4 Trafalgar Law (OP05-069) (V.3)",
-        "precio": "325.00€",
-        "imagen": "images/cartas/op-05/OP-05_4.png"
-      },
-      {
-        "nombre": "#5 Nami (OP01-016)",
-        "precio": "119.99€",
-        "imagen": "images/cartas/op-05/OP-05_5.png"
-      },
-      {
-        "nombre": "#6 Enel (OP05-100) (V.3)",
-        "precio": "69.00€",
-        "imagen": "images/cartas/op-05/OP-05_6.png"
-      },
-      {
-        "nombre": "#7 Monkey.D.Luffy (OP05-119) (V.2)",
-        "precio": "60.00€",
-        "imagen": "images/cartas/op-05/OP-05_7.png"
-      },
-      {
-        "nombre": "#8 Uta (OP02-120)",
-        "precio": "60.00€",
-        "imagen": "images/cartas/op-05/OP-05_8.png"
-      },
-      {
-        "nombre": "#9 Yamato (OP01-121)",
-        "precio": "58.99€",
-        "imagen": "images/cartas/op-05/OP-05_9.png"
-      },
-      {
-        "nombre": "#10 Kaido (OP04-044)",
-        "precio": "38.00€",
-        "imagen": "images/cartas/op-05/OP-05_10.png"
-      }
+      {"nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)", "precio": "2500.00€", "imagen": "images/cartas/op-05/OP-05_1.png"},
+      {"nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)", "precio": "1900.00€", "imagen": "images/cartas/op-05/OP-05_2.png"},
+      {"nombre": "#3 Eustass \"Captain\" Kid (OP05-074) (V.3)", "precio": "399.00€", "imagen": "images/cartas/op-05/OP-05_3.png"},
+      {"nombre": "#4 Trafalgar Law (OP05-069) (V.3)", "precio": "325.00€", "imagen": "images/cartas/op-05/OP-05_4.png"},
+      {"nombre": "#5 Nami (OP01-016)", "precio": "119.99€", "imagen": "images/cartas/op-05/OP-05_5.png"},
+      {"nombre": "#6 Enel (OP05-100) (V.3)", "precio": "69.00€", "imagen": "images/cartas/op-05/OP-05_6.png"},
+      {"nombre": "#7 Monkey.D.Luffy (OP05-119) (V.2)", "precio": "60.00€", "imagen": "images/cartas/op-05/OP-05_7.png"},
+      {"nombre": "#8 Uta (OP02-120)", "precio": "60.00€", "imagen": "images/cartas/op-05/OP-05_8.png"},
+      {"nombre": "#9 Yamato (OP01-121)", "precio": "58.99€", "imagen": "images/cartas/op-05/OP-05_9.png"},
+      {"nombre": "#10 Kaido (OP04-044)", "precio": "38.00€", "imagen": "images/cartas/op-05/OP-05_10.png"}
     ]
   },
-  "A11": {
-    "coleccion": "OP15 Adventure on Kami’s Island",
+
+  "A13": {
+    "coleccion": "OP15 Adventure on Kamis Island",
     "cartas": [
-      {
-        "nombre": "#1 Enel (OP15-118) (V.3)",
-        "precio": "1100.00€",
-        "imagen": "images/cartas/op-15/OP-05_1.png"
-      },
-      {
-        "nombre": "#2 Boa Hancock (OP12-014)",
-        "precio": "377.00€",
-        "imagen": "images/cartas/op-15/OP-05_2.png"
-      },
-      {
-        "nombre": "#3 Monkey.D.Luffy (ST26-005)",
-        "precio": "269.00€",
-        "imagen": "images/cartas/op-15/OP-05_3.png"
-      },
-      {
-        "nombre": "#4 Gum-Gum Golden Rifle (OP15-116) (V.2)",
-        "precio": "185.00€",
-        "imagen": "images/cartas/op-15/OP-05_4.png"
-      },
-      {
-        "nombre": "#5 Trafalgar Law (OP13-031)",
-        "precio": "175.00€",
-        "imagen": "images/cartas/op-15/OP-05_5.png"
-      },
-      {
-        "nombre": "#6 Lightning Dragon (OP15-077) (V.2)",
-        "precio": "170.00€",
-        "imagen": "images/cartas/op-15/OP-05_6.png"
-      },
-      {
-        "nombre": "#7 Enel (EB02-052)",
-        "precio": "145.00€",
-        "imagen": "images/cartas/op-15/OP-05_7.png"
-      },
-      {
-        "nombre": "#8 Edward.Newgate (OP13-042)",
-        "precio": "119.99€",
-        "imagen": "images/cartas/op-15/OP-05_8.png"
-      },
-      {
-        "nombre": "#9 Sabo (P-105)",
-        "precio": "105.00€",
-        "imagen": "images/cartas/op-15/OP-05_9.png"
-      },
-      {
-        "nombre": "#10 Monkey.D.Luffy (OP15-119) (V.2)",
-        "precio": "85.00€",
-        "imagen": "images/cartas/op-15/OP-05_10.png"
-      }
+      {"nombre": "#1 Enel (MANGA ALT ART) [SEC/SP] {OP15-118}", "precio": "950€", "imagen": "images/cartas/op-15/OP-15_1.jpg"},
+      {"nombre": "#2 Boa Hancock (Devil Fruit Pattern) [SP] {OP12-014}", "precio": "320€", "imagen": "images/cartas/op-15/OP-15_2.jpg"},
+      {"nombre": "#3 Monkey D. Luffy (Devil Fruit Pattern) [SP] {ST26-005}", "precio": "225€", "imagen": "images/cartas/op-15/OP-15_3.jpg"},
+      {"nombre": "#4 Gum Gum Golden Rifle (ALT ART) [R/P] {OP15-116}s", "precio": "200€", "imagen": "images/cartas/op-15/OP-15_4.jpg"},
+      {"nombre": "#5 Jamboule (ALT ART) [R/P] {OP15-077}", "precio": "170€", "imagen": "images/cartas/op-15/OP-15_5.jpg"},
+      {"nombre": "#6 Trafalgar Law (Devil Fruit Pattern) [SP] {OP13-031}", "precio": "145€", "imagen": "images/cartas/op-15/OP-15_6.jpg"},
+      {"nombre": "#7 Enel (Devil Fruit Pattern) [SP] {EB02-052}", "precio": "135€", "imagen": "images/cartas/op-15/OP-15_7.jpg"},
+      {"nombre": "#8 Sabo (Devil Fruit Pattern) [SP] {P-105}", "precio": "110€", "imagen": "images/cartas/op-15/OP-15_8.jpg"},
+      {"nombre": "#9 Edward Newgate (Devil Fruit Pattern) [SP] {OP13-042}", "precio": "80€", "imagen": "images/cartas/op-15/OP-15_9.jpg"},
+      {"nombre": "#10 Roronoa Zoro (ALT ART) [SR/P] {OP15-113}", "precio": "75€", "imagen": "images/cartas/op-15/OP-15_10.jpg"}
+    ]
+  },
+
+  "A14": {
+    "coleccion": "OP15 Adventure on Kamis Island",
+    "cartas": [
+      {"nombre": "#1 Enel (MANGA ALT ART) [SEC/SP] {OP15-118}", "precio": "950€", "imagen": "images/cartas/op-15/OP-15_1.jpg"},
+      {"nombre": "#2 Boa Hancock (Devil Fruit Pattern) [SP] {OP12-014}", "precio": "320€", "imagen": "images/cartas/op-15/OP-15_2.jpg"},
+      {"nombre": "#3 Monkey D. Luffy (Devil Fruit Pattern) [SP] {ST26-005}", "precio": "225€", "imagen": "images/cartas/op-15/OP-15_3.jpg"},
+      {"nombre": "#4 Gum Gum Golden Rifle (ALT ART) [R/P] {OP15-116}s", "precio": "200€", "imagen": "images/cartas/op-15/OP-15_4.jpg"},
+      {"nombre": "#5 Jamboule (ALT ART) [R/P] {OP15-077}", "precio": "170€", "imagen": "images/cartas/op-15/OP-15_5.jpg"},
+      {"nombre": "#6 Trafalgar Law (Devil Fruit Pattern) [SP] {OP13-031}", "precio": "145€", "imagen": "images/cartas/op-15/OP-15_6.jpg"},
+      {"nombre": "#7 Enel (Devil Fruit Pattern) [SP] {EB02-052}", "precio": "135€", "imagen": "images/cartas/op-15/OP-15_7.jpg"},
+      {"nombre": "#8 Sabo (Devil Fruit Pattern) [SP] {P-105}", "precio": "110€", "imagen": "images/cartas/op-15/OP-15_8.jpg"},
+      {"nombre": "#9 Edward Newgate (Devil Fruit Pattern) [SP] {OP13-042}", "precio": "80€", "imagen": "images/cartas/op-15/OP-15_9.jpg"},
+      {"nombre": "#10 Roronoa Zoro (ALT ART) [SR/P] {OP15-113}", "precio": "75€", "imagen": "images/cartas/op-15/OP-15_10.jpg"}
+    ]
+  },
+
+  "A15": {
+    "coleccion": "OP15 Adventure on Kamis Island",
+    "cartas": [
+      {"nombre": "#1 Enel (MANGA ALT ART) [SEC/SP] {OP15-118}", "precio": "950€", "imagen": "images/cartas/op-15/OP-15_1.jpg"},
+      {"nombre": "#2 Boa Hancock (Devil Fruit Pattern) [SP] {OP12-014}", "precio": "320€", "imagen": "images/cartas/op-15/OP-15_2.jpg"},
+      {"nombre": "#3 Monkey D. Luffy (Devil Fruit Pattern) [SP] {ST26-005}", "precio": "225€", "imagen": "images/cartas/op-15/OP-15_3.jpg"},
+      {"nombre": "#4 Gum Gum Golden Rifle (ALT ART) [R/P] {OP15-116}s", "precio": "200€", "imagen": "images/cartas/op-15/OP-15_4.jpg"},
+      {"nombre": "#5 Jamboule (ALT ART) [R/P] {OP15-077}", "precio": "170€", "imagen": "images/cartas/op-15/OP-15_5.jpg"},
+      {"nombre": "#6 Trafalgar Law (Devil Fruit Pattern) [SP] {OP13-031}", "precio": "145€", "imagen": "images/cartas/op-15/OP-15_6.jpg"},
+      {"nombre": "#7 Enel (Devil Fruit Pattern) [SP] {EB02-052}", "precio": "135€", "imagen": "images/cartas/op-15/OP-15_7.jpg"},
+      {"nombre": "#8 Sabo (Devil Fruit Pattern) [SP] {P-105}", "precio": "110€", "imagen": "images/cartas/op-15/OP-15_8.jpg"},
+      {"nombre": "#9 Edward Newgate (Devil Fruit Pattern) [SP] {OP13-042}", "precio": "80€", "imagen": "images/cartas/op-15/OP-15_9.jpg"},
+      {"nombre": "#10 Roronoa Zoro (ALT ART) [SR/P] {OP15-113}", "precio": "75€", "imagen": "images/cartas/op-15/OP-15_10.jpg"}
+    ]
+  },
+  "A16": {
+    "coleccion": "OP05 Awakening of the New Era",
+    "cartas": [
+      {"nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)", "precio": "2500.00€", "imagen": "images/cartas/op-05/OP-05_1.png"},
+      {"nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)", "precio": "1900.00€", "imagen": "images/cartas/op-05/OP-05_2.png"},
+      {"nombre": "#3 Eustass \"Captain\" Kid (OP05-074) (V.3)", "precio": "399.00€", "imagen": "images/cartas/op-05/OP-05_3.png"},
+      {"nombre": "#4 Trafalgar Law (OP05-069) (V.3)", "precio": "325.00€", "imagen": "images/cartas/op-05/OP-05_4.png"},
+      {"nombre": "#5 Nami (OP01-016)", "precio": "119.99€", "imagen": "images/cartas/op-05/OP-05_5.png"},
+      {"nombre": "#6 Enel (OP05-100) (V.3)", "precio": "69.00€", "imagen": "images/cartas/op-05/OP-05_6.png"},
+      {"nombre": "#7 Monkey.D.Luffy (OP05-119) (V.2)", "precio": "60.00€", "imagen": "images/cartas/op-05/OP-05_7.png"},
+      {"nombre": "#8 Uta (OP02-120)", "precio": "60.00€", "imagen": "images/cartas/op-05/OP-05_8.png"},
+      {"nombre": "#9 Yamato (OP01-121)", "precio": "58.99€", "imagen": "images/cartas/op-05/OP-05_9.png"},
+      {"nombre": "#10 Kaido (OP04-044)", "precio": "38.00€", "imagen": "images/cartas/op-05/OP-05_10.png"}
+    ]
+  },
+  "A21": {
+    "coleccion": "OP05 Awakening of the New Era",
+    "cartas": [
+      {"nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)", "precio": "2500.00€", "imagen": "images/cartas/op-05/OP-05_1.png"},
+      {"nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)", "precio": "1900.00€", "imagen": "images/cartas/op-05/OP-05_2.png"},
+      {"nombre": "#3 Eustass \"Captain\" Kid (OP05-074) (V.3)", "precio": "399.00€", "imagen": "images/cartas/op-05/OP-05_3.png"},
+      {"nombre": "#4 Trafalgar Law (OP05-069) (V.3)", "precio": "325.00€", "imagen": "images/cartas/op-05/OP-05_4.png"},
+      {"nombre": "#5 Nami (OP01-016)", "precio": "119.99€", "imagen": "images/cartas/op-05/OP-05_5.png"},
+      {"nombre": "#6 Enel (OP05-100) (V.3)", "precio": "69.00€", "imagen": "images/cartas/op-05/OP-05_6.png"},
+      {"nombre": "#7 Monkey.D.Luffy (OP05-119) (V.2)", "precio": "60.00€", "imagen": "images/cartas/op-05/OP-05_7.png"},
+      {"nombre": "#8 Uta (OP02-120)", "precio": "60.00€", "imagen": "images/cartas/op-05/OP-05_8.png"},
+      {"nombre": "#9 Yamato (OP01-121)", "precio": "58.99€", "imagen": "images/cartas/op-05/OP-05_9.png"},
+      {"nombre": "#10 Kaido (OP04-044)", "precio": "38.00€", "imagen": "images/cartas/op-05/OP-05_10.png"}
     ]
   }
 }
