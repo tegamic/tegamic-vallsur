@@ -1,91 +1,66 @@
 {
-  "A11": {
-    "coleccion": "OP15 Adventure on Kamis Island",
-    "cartas": [
-      {
-        "nombre": "#1 Enel (MANGA ALT ART) [SEC/SP] {OP15-118}",
-        "precio": "950€",
-        "imagen": "images/cartas/op-15/OP-15_1.jpg"
-      },
-      {
-        "nombre": "#2 Boa Hancock (Devil Fruit Pattern) [SP] {OP12-014}",
-        "precio": "320€",
-        "imagen": "images/cartas/op-15/OP-15_2.jpg"
-      },
-      {
-        "nombre": "#3 Monkey D. Luffy (Devil Fruit Pattern) [SP] {ST26-005}",
-        "precio": "225€",
-        "imagen": "images/cartas/op-15/OP-15_3.jpg"
-      },
-      {
-        "nombre": "#4 Gum Gum Golden Rifle (ALT ART) [R/P] {OP15-116}s",
-        "precio": "200€",
-        "imagen": "images/cartas/op-15/OP-15_4.jpg"
-      },
-      {
-        "nombre": "#5 Jamboule (ALT ART) [R/P] {OP15-077}",
-        "precio": "170€",
-        "imagen": "images/cartas/op-15/OP-15_5.jpg"
-      },
-      {
-        "nombre": "#6 Trafalgar Law (Devil Fruit Pattern) [SP] {OP13-031}",
-        "precio": "145€",
-        "imagen": "images/cartas/op-15/OP-15_6.jpg"
-      },
-      {
-        "nombre": "#7 Enel (Devil Fruit Pattern) [SP] {EB02-052}",
-        "precio": "135€",
-        "imagen": "images/cartas/op-15/OP-15_7.jpg"
-      },
-      {
-        "nombre": "#8 Sabo (Devil Fruit Pattern) [SP] {P-105}",
-        "precio": "110€",
-        "imagen": "images/cartas/op-15/OP-15_8.jpg"
-      },
-      {
-        "nombre": "#9 Edward Newgate (Devil Fruit Pattern) [SP] {OP13-042}",
-        "precio": "80€",
-        "imagen": "images/cartas/op-15/OP-15_9.jpg"
-      },
-      {
-        "nombre": "#10 Roronoa Zoro (ALT ART) [SR/P] {OP15-113}",
-        "precio": "75€",
-        "imagen": "images/cartas/op-15/OP-15_10.jpg"
-      }
-    ]
-  },
-   "A12": {
+  "A12": {
     "coleccion": "OP05 Awakening of the New Era",
     "cartas": [
       {
-        "nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)",
-        "precio": "2.600€",
-        "imagen": "images/cartas/op-05/OP-05_1.jpg"
+        "nombre": "#1 OP05-JP Monkey.D.Luffy (ST01-012) (V.2)",
+        "precio": "2500.00€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733465/733465.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/MonkeyDLuffy-ST01-012-V2"
       },
       {
-        "nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)",
-        "precio": "1.900€",
-        "imagen": "images/cartas/op-05/OP-05_2.jpg"
+        "nombre": "#2 OP05-JP Monkey.D.Luffy (OP05-119) (V.3)",
+        "precio": "1900.00€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733463/733463.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/MonkeyDLuffy-OP05-119-V3"
       },
       {
-        "nombre": "#3 Eustass 'Captain' Kid (OP05-074) (V.3)",
-        "precio": "400€",
-        "imagen": "images/cartas/op-05/OP-05_3.jpg"
+        "nombre": "#3 OP05-JP Eustass\"Captain\"Kid (OP05-074) (V.3)",
+        "precio": "399.00€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733384/733384.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/EustassCaptainKid-OP05-074-V3"
       },
       {
-        "nombre": "#4 Trafalgar Law (OP05-069) (V.3)",
-        "precio": "350€",
-        "imagen": "images/cartas/op-05/OP-05_4.jpg"
+        "nombre": "#4 OP05-JP Trafalgar Law (OP05-069) (V.3)",
+        "precio": "325.00€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733377/733377.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Trafalgar-Law-OP05-069-V3"
       },
       {
-        "nombre": "#5 Nami (OP01-016)",
-        "precio": "125€",
-        "imagen": "images/cartas/op-05/OP-05_5.jpg"
+        "nombre": "#5 OP05-JP Nami (OP01-016)",
+        "precio": "119.99€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733268/733268.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Nami-OP01-016"
       },
       {
-        "nombre": "#6 Enel (OP05-100) (V.3)",
-        "precio": "76€",
-        "imagen": "images/cartas/op-05/OP-05_6.jpg"
+        "nombre": "#6 OP05-JP Enel (OP05-100) (V.3)",
+        "precio": "69.00€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733440/733440.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Enel-OP05-100-V3"
+      },
+      {
+        "nombre": "#7 OP05-JP Monkey.D.Luffy (OP05-119) (V.2)",
+        "precio": "60.00€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733462/733462.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/MonkeyDLuffy-OP05-119-V2"
+      },
+      {
+        "nombre": "#8 OP05-JP Uta (OP02-120)",
+        "precio": "60.00€",
+        "imagen": "https://product-images.s3.cardmarket.com/1621/OP05-JP/733270/733270.png",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Uta-OP02-120"
+      },
+      {
+        "nombre": "#9 OP05-JP Yamato (OP01-121)",
+        "precio": "58.99€",
+        "imagen": "https://www.cardmarket.com/img/transparent.gif",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Yamato-OP01-121"
+      },
+      {
+        "nombre": "#10 OP05-JP Kaido (OP04-044)",
+        "precio": "38.00€",
+        "imagen": "https://www.cardmarket.com/img/transparent.gif",
+        "link": "https://www.cardmarket.com/en/OnePiece/Products/Singles/Awakening-of-the-New-Era-Japanese/Kaido-OP04-044"
       }
     ]
   }
