@@ -78,34 +78,14 @@
         "imagen": "images/cartas/op-05/OP-05_4.jpg"
       },
       {
-        "nombre": "#5 Nami R‑SP Special Art",
-        "precio": "150€",
+        "nombre": "#5 Nami (OP01-016)",
+        "precio": "125€",
         "imagen": "images/cartas/op-05/OP-05_5.jpg"
       },
       {
-        "nombre": "#6 Enel SR‑SP",
-        "precio": "125€",
+        "nombre": "#6 Enel (OP05-100) (V.3)",
+        "precio": "76€",
         "imagen": "images/cartas/op-05/OP-05_6.jpg"
-      },
-      {
-        "nombre": "#7 Luffy (Comic Parallel SEC)",
-        "precio": "100€",
-        "imagen": "images/cartas/op-05/OP-05_7.jpg"
-      },
-      {
-        "nombre": "#8 Uta SEC‑SP",
-        "precio": " ninety €",
-        "imagen": "images/cartas/op-05/OP-05_8.jpg"
-      },
-      {
-        "nombre": "#9 Yamato SEC‑SP",
-        "precio": "75€",
-        "imagen": "images/cartas/op-05/OP-05_9.jpg"
-      },
-      {
-        "nombre": "#10 Kaido SR‑SP",
-        "precio": "60€",
-        "imagen": "images/cartas/op-05/OP-05_10.jpg"
       }
     ]
   }
