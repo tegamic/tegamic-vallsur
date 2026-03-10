@@ -4,18 +4,53 @@
     "cartas": [
       {
         "nombre": "#1 Enel (MANGA ALT ART) [SEC/SP] {OP15-118}",
-        "precio": "950€",
-        "imagen": "images/cartas/op-15/OP15cartamascara.jpg"
+        "precio": "760€",
+        "imagen": "images/cartas/op-15/OP-15_1.jpg"
       },
-       {
+      {
         "nombre": "#2 Boa Hancock (Devil Fruit Pattern) [SP] {OP12-014}",
-        "precio": "320€",
+        "precio": "290€",
         "imagen": "images/cartas/op-15/OP-15_2.jpg"
       },
       {
         "nombre": "#3 Monkey D. Luffy (Devil Fruit Pattern) [SP] {ST26-005}",
-        "precio": "320€",
+        "precio": "210€",
         "imagen": "images/cartas/op-15/OP-15_3.jpg"
+      },
+      {
+        "nombre": "#4 Gum Gum Golden Rifle (ALT ART) [R/P] {OP15-116}",
+        "precio": "180€",
+        "imagen": "images/cartas/op-15/OP-15_4.jpg"
+      },
+      {
+        "nombre": "#5 Jamboule (ALT ART) [R/P] {OP15-077}",
+        "precio": "140€",
+        "imagen": "images/cartas/op-15/OP-15_5.jpg"
+      },
+      {
+        "nombre": "#6 Trafalgar Law (Devil Fruit Pattern) [SP] {OP13-031}",
+        "precio": "135€",
+        "imagen": "images/cartas/op-15/OP-15_6.jpg"
+      },
+      {
+        "nombre": "#7 Enel (Devil Fruit Pattern) [SP] {EB02-052}",
+        "precio": "125€",
+        "imagen": "images/cartas/op-15/OP-15_7.jpg"
+      },
+      {
+        "nombre": "#8 Sabo (Devil Fruit Pattern) [SP] {P-105}",
+        "precio": "100€",
+        "imagen": "images/cartas/op-15/OP-15_8.jpg"
+      },
+      {
+        "nombre": "#9 Edward Newgate (Devil Fruit Pattern) [SP] {OP13-042}",
+        "precio": "70€",
+        "imagen": "images/cartas/op-15/OP-15_9.jpg"
+      },
+      {
+        "nombre": "#10 Roronoa Zoro (ALT ART) [SR/P] {OP15-113}",
+        "precio": "65€",
+        "imagen": "images/cartas/op-15/OP-15_10.jpg"
       }
     ]
   }
