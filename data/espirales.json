@@ -603,5 +603,225 @@
         "imagen": "images/cartas/op-09/op-09_10.png"
       }
     ]
+  },
+  "A26": {
+    "coleccion": "OP-10 Royal Blood",
+    "cartas": [
+      {
+        "nombre": "#1 Trafalgar Law (OP10-119) (V.3)",
+        "precio": "280.00€",
+        "imagen": "images/cartas/op-10/op-10_1.png"
+      },
+      {
+        "nombre": "#2 Edward.Newgate (ST15-002)",
+        "precio": "67.99€",
+        "imagen": "images/cartas/op-10/op-10_2.png"
+      },
+      {
+        "nombre": "#3 Sengoku (OP07-046)",
+        "precio": "53.00€",
+        "imagen": "images/cartas/op-10/op-10_3.png"
+      },
+      {
+        "nombre": "#4 Sanji (ST14-003)",
+        "precio": "34.90€",
+        "imagen": "images/cartas/op-10/op-10_4.png"
+      },
+      {
+        "nombre": "#5 Uso-Hachi (ST18-001)",
+        "precio": "32.00€",
+        "imagen": "images/cartas/op-10/op-10_5.png"
+      },
+      {
+        "nombre": "#6 Charlotte Pudding (ST12-012)",
+        "precio": "22.00€",
+        "imagen": "images/cartas/op-10/op-10_6.png"
+      },
+      {
+        "nombre": "#7 Divine Departure (OP10-019) (V.2)",
+        "precio": "17.65€",
+        "imagen": "images/cartas/op-10/op-10_7.png"
+      },
+      {
+        "nombre": "#8 Urouge (OP07-021)",
+        "precio": "15.00€",
+        "imagen": "images/cartas/op-10/op-10_8.png"
+      },
+      {
+        "nombre": "#9 Charlotte Flampe (EB01-056)",
+        "precio": "13.50€",
+        "imagen": "images/cartas/op-10/op-10_9.png"
+      },
+      {
+        "nombre": "#10 Monkey.D.Luffy (OP10-118) (V.2)",
+        "precio": "7.85€",
+        "imagen": "images/cartas/op-10/op-10_10.png"
+      }
+    ]
+  },
+  "A31": {
+    "coleccion": "OP-10 Royal Blood",
+    "cartas": [
+      {
+        "nombre": "#1 Trafalgar Law (OP10-119) (V.3)",
+        "precio": "280.00€",
+        "imagen": "images/cartas/op-10/op-10_1.png"
+      },
+      {
+        "nombre": "#2 Edward.Newgate (ST15-002)",
+        "precio": "67.99€",
+        "imagen": "images/cartas/op-10/op-10_2.png"
+      },
+      {
+        "nombre": "#3 Sengoku (OP07-046)",
+        "precio": "53.00€",
+        "imagen": "images/cartas/op-10/op-10_3.png"
+      },
+      {
+        "nombre": "#4 Sanji (ST14-003)",
+        "precio": "34.90€",
+        "imagen": "images/cartas/op-10/op-10_4.png"
+      },
+      {
+        "nombre": "#5 Uso-Hachi (ST18-001)",
+        "precio": "32.00€",
+        "imagen": "images/cartas/op-10/op-10_5.png"
+      },
+      {
+        "nombre": "#6 Charlotte Pudding (ST12-012)",
+        "precio": "22.00€",
+        "imagen": "images/cartas/op-10/op-10_6.png"
+      },
+      {
+        "nombre": "#7 Divine Departure (OP10-019) (V.2)",
+        "precio": "17.65€",
+        "imagen": "images/cartas/op-10/op-10_7.png"
+      },
+      {
+        "nombre": "#8 Urouge (OP07-021)",
+        "precio": "15.00€",
+        "imagen": "images/cartas/op-10/op-10_8.png"
+      },
+      {
+        "nombre": "#9 Charlotte Flampe (EB01-056)",
+        "precio": "13.50€",
+        "imagen": "images/cartas/op-10/op-10_9.png"
+      },
+      {
+        "nombre": "#10 Monkey.D.Luffy (OP10-118) (V.2)",
+        "precio": "7.85€",
+        "imagen": "images/cartas/op-10/op-10_10.png"
+      }
+    ]
+  },
+  "A32": {
+    "coleccion": "OP-10 Royal Blood",
+    "cartas": [
+      {
+        "nombre": "#1 Trafalgar Law (OP10-119) (V.3)",
+        "precio": "280.00€",
+        "imagen": "images/cartas/op-10/op-10_1.png"
+      },
+      {
+        "nombre": "#2 Edward.Newgate (ST15-002)",
+        "precio": "67.99€",
+        "imagen": "images/cartas/op-10/op-10_2.png"
+      },
+      {
+        "nombre": "#3 Sengoku (OP07-046)",
+        "precio": "53.00€",
+        "imagen": "images/cartas/op-10/op-10_3.png"
+      },
+      {
+        "nombre": "#4 Sanji (ST14-003)",
+        "precio": "34.90€",
+        "imagen": "images/cartas/op-10/op-10_4.png"
+      },
+      {
+        "nombre": "#5 Uso-Hachi (ST18-001)",
+        "precio": "32.00€",
+        "imagen": "images/cartas/op-10/op-10_5.png"
+      },
+      {
+        "nombre": "#6 Charlotte Pudding (ST12-012)",
+        "precio": "22.00€",
+        "imagen": "images/cartas/op-10/op-10_6.png"
+      },
+      {
+        "nombre": "#7 Divine Departure (OP10-019) (V.2)",
+        "precio": "17.65€",
+        "imagen": "images/cartas/op-10/op-10_7.png"
+      },
+      {
+        "nombre": "#8 Urouge (OP07-021)",
+        "precio": "15.00€",
+        "imagen": "images/cartas/op-10/op-10_8.png"
+      },
+      {
+        "nombre": "#9 Charlotte Flampe (EB01-056)",
+        "precio": "13.50€",
+        "imagen": "images/cartas/op-10/op-10_9.png"
+      },
+      {
+        "nombre": "#10 Monkey.D.Luffy (OP10-118) (V.2)",
+        "precio": "7.85€",
+        "imagen": "images/cartas/op-10/op-10_10.png"
+      }
+    ]
+  },
+  "A34": {
+    "coleccion": "OP-10 Royal Blood",
+    "cartas": [
+      {
+        "nombre": "#1 Trafalgar Law (OP10-119) (V.3)",
+        "precio": "280.00€",
+        "imagen": "images/cartas/op-10/op-10_1.png"
+      },
+      {
+        "nombre": "#2 Edward.Newgate (ST15-002)",
+        "precio": "67.99€",
+        "imagen": "images/cartas/op-10/op-10_2.png"
+      },
+      {
+        "nombre": "#3 Sengoku (OP07-046)",
+        "precio": "53.00€",
+        "imagen": "images/cartas/op-10/op-10_3.png"
+      },
+      {
+        "nombre": "#4 Sanji (ST14-003)",
+        "precio": "34.90€",
+        "imagen": "images/cartas/op-10/op-10_4.png"
+      },
+      {
+        "nombre": "#5 Uso-Hachi (ST18-001)",
+        "precio": "32.00€",
+        "imagen": "images/cartas/op-10/op-10_5.png"
+      },
+      {
+        "nombre": "#6 Charlotte Pudding (ST12-012)",
+        "precio": "22.00€",
+        "imagen": "images/cartas/op-10/op-10_6.png"
+      },
+      {
+        "nombre": "#7 Divine Departure (OP10-019) (V.2)",
+        "precio": "17.65€",
+        "imagen": "images/cartas/op-10/op-10_7.png"
+      },
+      {
+        "nombre": "#8 Urouge (OP07-021)",
+        "precio": "15.00€",
+        "imagen": "images/cartas/op-10/op-10_8.png"
+      },
+      {
+        "nombre": "#9 Charlotte Flampe (EB01-056)",
+        "precio": "13.50€",
+        "imagen": "images/cartas/op-10/op-10_9.png"
+      },
+      {
+        "nombre": "#10 Monkey.D.Luffy (OP10-118) (V.2)",
+        "precio": "7.85€",
+        "imagen": "images/cartas/op-10/op-10_10.png"
+      }
+    ]
   }
 }
