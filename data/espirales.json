@@ -53,5 +53,60 @@
         "imagen": "images/cartas/op-15/OP-15_10.jpg"
       }
     ]
+  },
+   "A12": {
+    "coleccion": "OP05 Awakening of the New Era",
+    "cartas": [
+      {
+        "nombre": "#1 Monkey.D.Luffy (ST01-012) (V.2)",
+        "precio": "2.600€",
+        "imagen": "images/cartas/op-05/OP-05_1.jpg"
+      },
+      {
+        "nombre": "#2 Monkey.D.Luffy (OP05-119) (V.3)",
+        "precio": "1.900€",
+        "imagen": "images/cartas/op-05/OP-05_2.jpg"
+      },
+      {
+        "nombre": "#3 Eustass 'Captain' Kid (OP05-074) (V.3)",
+        "precio": "400€",
+        "imagen": "images/cartas/op-05/OP-05_3.jpg"
+      },
+      {
+        "nombre": "#4 Eustass 'Captain' Kid SR‑SP (Manga Rare)",
+        "precio": "750€",
+        "imagen": "images/cartas/op-05/OP-05_4.jpg"
+      },
+      {
+        "nombre": "#5 Nami R‑SP Special Art",
+        "precio": "150€",
+        "imagen": "images/cartas/op-05/OP-05_5.jpg"
+      },
+      {
+        "nombre": "#6 Enel SR‑SP",
+        "precio": "125€",
+        "imagen": "images/cartas/op-05/OP-05_6.jpg"
+      },
+      {
+        "nombre": "#7 Luffy (Comic Parallel SEC)",
+        "precio": "100€",
+        "imagen": "images/cartas/op-05/OP-05_7.jpg"
+      },
+      {
+        "nombre": "#8 Uta SEC‑SP",
+        "precio": " ninety €",
+        "imagen": "images/cartas/op-05/OP-05_8.jpg"
+      },
+      {
+        "nombre": "#9 Yamato SEC‑SP",
+        "precio": "75€",
+        "imagen": "images/cartas/op-05/OP-05_9.jpg"
+      },
+      {
+        "nombre": "#10 Kaido SR‑SP",
+        "precio": "60€",
+        "imagen": "images/cartas/op-05/OP-05_10.jpg"
+      }
+    ]
   }
 }
