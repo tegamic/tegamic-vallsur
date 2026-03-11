@@ -29,7 +29,7 @@ async function mostrarEspiral(id) {
     const espiral = json[id];
 
     if (!espiral) {
-      resultado.innerHTML = "<p>No hay datos para este carril</p>";
+      resultado.innerHTML = "<p>Aún no hay datos para este carril. Estamos trabajando en ello. Puedes consultar los precios de los carriles A11 hasta A36.</p>";
       return;
     }
 
