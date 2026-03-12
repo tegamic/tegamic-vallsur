@@ -54,6 +54,61 @@
       }
     ]
   },
+  "A12": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Boa Hancock (OP07-051) (V.3)",
+        "precio": "670.00€",
+        "imagen": "images/cartas/op-07/op-07_1.png"
+      },
+      {
+        "nombre": "#2 Rebecca (OP04-092)",
+        "precio": "139.00€",
+        "imagen": "images/cartas/op-07/op-07_2.png"
+      },
+      {
+        "nombre": "#3 O-Nami (OP06-101)",
+        "precio": "95.00€",
+        "imagen": "images/cartas/op-07/op-07_3.png"
+      },
+      {
+        "nombre": "#4 Boa Hancock (OP07-038) (V.2)",
+        "precio": "41.50€",
+        "imagen": "images/cartas/op-07/op-07_4.png"
+      },
+      {
+        "nombre": "#5 Donquixote Doflamingo (OP01-073)",
+        "precio": "29.85€",
+        "imagen": "images/cartas/op-07/op-07_5.png"
+      },
+      {
+        "nombre": "#6 Eustass \"Captain\" Kid (OP05-074)",
+        "precio": "20.48€",
+        "imagen": "images/cartas/op-07/op-07_6.png"
+      },
+      {
+        "nombre": "#7 Jewelry Bonney (OP07-019) (V.2)",
+        "precio": "19.98€",
+        "imagen": "images/cartas/op-07/op-07_7.png"
+      },
+      {
+        "nombre": "#8 Issho (OP03-078)",
+        "precio": "16.45€",
+        "imagen": "images/cartas/op-07/op-07_8.png"
+      },
+      {
+        "nombre": "#9 Izo (OP03-003)",
+        "precio": "15.45€",
+        "imagen": "images/cartas/op-07/op-07_9.png"
+      },
+      {
+        "nombre": "#10 Okiku (OP01-035)",
+        "precio": "14.85€",
+        "imagen": "images/cartas/op-07/op-07_10.png"
+      }
+    ]
+  },
   "A13": {
     "coleccion": "",
     "cartas": [
