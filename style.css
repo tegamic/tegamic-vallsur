@@ -83,3 +83,8 @@ border-radius:8px;
   height: auto;
   display: block;
 }
+
+#maquina button.activo {
+  background-color: #d1c407;
+  color: #ffffff;
+}

@@ -24,6 +24,13 @@ combinaciones.forEach(combo => {
 
 const yaRenderizadas = new Set();
 
+function seleccionarBoton(boton) {
+  document.querySelectorAll("#maquina button").forEach(btn => {
+    btn.classList.remove("activo");
+  });
+  boton.classList.add("activo");
+}
+
 espirales.forEach(id => {
   if (yaRenderizadas.has(id)) return;
 
@@ -34,11 +41,17 @@ espirales.forEach(id => {
     combo.ids.forEach(x => yaRenderizadas.add(x));
     btn.innerText = combo.label;
     btn.classList.add("espiral-doble");
-    btn.onclick = () => mostrarEspiralCombinada(combo);
+    btn.onclick = () => {
+      seleccionarBoton(btn);
+      mostrarEspiralCombinada(combo);
+    };
   } else {
     yaRenderizadas.add(id);
     btn.innerText = id;
-    btn.onclick = () => mostrarEspiral(id);
+    btn.onclick = () => {
+      seleccionarBoton(btn);
+      mostrarEspiral(id);
+    };
   }
 
   maquina.appendChild(btn);
