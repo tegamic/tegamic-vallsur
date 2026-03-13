@@ -1,6 +1,6 @@
 body{
 font-family: Arial;
-background:#111;
+background:#8d8d8d;
 color:white;
 text-align:center;
 }
@@ -16,7 +16,7 @@ margin:30px;
 button{
 padding:15px;
 font-size:16px;
-background:#ffcc00;
+background:#f50d81;
 border:none;
 border-radius:8px;
 cursor:pointer;
@@ -45,4 +45,41 @@ border-radius:8px;
 
 .espiral-doble {
   grid-column: span 2;
+}
+
+#maquina button {
+  background: #f50d81;
+  color: white;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+.logo {
+  display: block;
+  margin: 20px auto;
+  max-width: 300px;
+}
+
+.aviso {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background-color: #fff3cd;
+  color: #7a5900;
+  border: 2px solid #f5c542;
+  border-radius: 12px;
+  padding: 12px 18px;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 10px auto 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.instagram-icon {
+  width: 20px;
+  height: auto;
+  display: block;
 }
