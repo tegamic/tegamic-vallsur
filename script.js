@@ -16,6 +16,9 @@ const combinaciones = [
 
 const maquina = document.getElementById("maquina");
 const resultado = document.getElementById("resultado");
+const botonRanking = document.getElementById("boton-ranking");
+const ranking = document.getElementById("ranking");
+const rankingCartas = document.getElementById("ranking-cartas");
 
 const espiralesCombinadas = new Map();
 combinaciones.forEach(combo => {
@@ -23,6 +26,7 @@ combinaciones.forEach(combo => {
 });
 
 const yaRenderizadas = new Set();
+let rankingCargado = false;
 
 function seleccionarBoton(boton) {
   document.querySelectorAll("#maquina button").forEach(btn => {
@@ -77,6 +81,102 @@ function renderCarta(carta) {
   `;
 }
 
+function renderBotonesEspirales(espirales) {
+  return espirales.map(id => {
+    const combo = espiralesCombinadas.get(id);
+
+    if (combo) {
+      return `
+        <button class="boton-espiral-ranking espiral-doble" onclick="abrirEspiralDesdeRanking('${combo.label}')">
+          ${combo.label}
+        </button>
+      `;
+    }
+
+    return `
+      <button class="boton-espiral-ranking" onclick="abrirEspiralDesdeRanking('${id}')">
+        ${id}
+      </button>
+    `;
+  }).join("");
+}
+
+function abrirEspiralDesdeRanking(idOLabel) {
+  const botones = document.querySelectorAll("#maquina button");
+
+  botones.forEach(btn => {
+    if (btn.innerText === idOLabel) {
+      btn.click();
+      btn.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  });
+}
+
+function parsePrecio(precio) {
+  return Number(precio.replace("€", "").replace(",", "."));
+}
+
+function agruparCartasPorValor(json) {
+  const mapa = new Map();
+
+  Object.entries(json).forEach(([espiralId, datosEspiral]) => {
+    if (!datosEspiral.cartas) return;
+
+    datosEspiral.cartas.forEach(carta => {
+      const clave = `${carta.nombre}|${carta.precio}|${carta.imagen}`;
+
+      if (!mapa.has(clave)) {
+        mapa.set(clave, {
+          ...carta,
+          valorNumerico: parsePrecio(carta.precio),
+          espirales: [espiralId]
+        });
+      } else {
+        mapa.get(clave).espirales.push(espiralId);
+      }
+    });
+  });
+
+  return Array.from(mapa.values());
+}
+
+async function mostrarRanking(top = 10) {
+  try {
+    const json = await cargarDatos();
+    const cartasUnicas = agruparCartasPorValor(json);
+
+    cartasUnicas.sort((a, b) => b.valorNumerico - a.valorNumerico);
+
+    const topCartas = cartasUnicas.slice(0, top);
+
+    let html = "";
+
+    topCartas.forEach((carta, index) => {
+      html += `
+        <div class="ranking-carta">
+          <div class="ranking-posicion">#${index + 1}</div>
+          <img src="${carta.imagen}" alt="${carta.nombre}" loading="lazy">
+          <div class="ranking-info">
+            <h3>${carta.nombre}</h3>
+            <p class="ranking-precio">${carta.precio}</p>
+            <div class="ranking-espirales">
+  <span>Sale en:</span>
+  <div class="ranking-espirales-botones">
+    ${renderBotonesEspirales(carta.espirales)}
+  </div>
+</div>
+          </div>
+        </div>
+      `;
+    });
+
+    rankingCartas.innerHTML = html;
+  } catch (error) {
+    console.error(error);
+    rankingCartas.innerHTML = "<p>Error al cargar el ranking</p>";
+  }
+}
+
 async function mostrarEspiral(id) {
   try {
     const json = await cargarDatos();
@@ -87,7 +187,7 @@ async function mostrarEspiral(id) {
       return;
     }
 
-    let html = `<h2>${id} ${espiral.coleccion}</h2>`;
+    let html = `<h2>${id} ${espiral.coleccion || ""}</h2>`;
 
     espiral.cartas.forEach(carta => {
       html += renderCarta(carta);
@@ -128,4 +228,21 @@ async function mostrarEspiralCombinada(combo) {
     console.error(error);
     resultado.innerHTML = "<p>Error al cargar los datos</p>";
   }
+}
+
+if (botonRanking && ranking && rankingCartas) {
+  botonRanking.addEventListener("click", async () => {
+    if (ranking.style.display === "none" || ranking.style.display === "") {
+      ranking.style.display = "block";
+      botonRanking.textContent = "Ocultar ranking";
+
+      if (!rankingCargado) {
+        await mostrarRanking(10);
+        rankingCargado = true;
+      }
+    } else {
+      ranking.style.display = "none";
+      botonRanking.textContent = "Ver ranking de cartas más valiosas";
+    }
+  });
 }
