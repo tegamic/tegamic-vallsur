@@ -4,7 +4,7 @@ const espirales = [
   "A31","A32","A33","A34","A35","A36",
   "A41","A42","A43","A44","A45","A46",
   "A51","A52","A53","A54","A55","A56",
-  "A61","A62","A63","A64","A65","A66"
+  "A61","A62","A63","A64","A66"
 ];
 
 const maquina = document.getElementById("maquina");
