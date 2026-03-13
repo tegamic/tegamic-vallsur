@@ -160,7 +160,7 @@ async function mostrarRanking(top = 10) {
             <h3>${carta.nombre}</h3>
             <p class="ranking-precio">${carta.precio}</p>
             <div class="ranking-espirales">
-  <span>Sale en:</span>
+  <span>Puede salir en:</span>
   <div class="ranking-espirales-botones">
     ${renderBotonesEspirales(carta.espirales)}
   </div>
@@ -242,7 +242,7 @@ if (botonRanking && ranking && rankingCartas) {
       }
     } else {
       ranking.style.display = "none";
-      botonRanking.textContent = "Ver ranking de cartas más valiosas";
+      botonRanking.textContent = "Ver ranking de 10 cartas más valiosas que pueden salir en la máquina";
     }
   });
 }
