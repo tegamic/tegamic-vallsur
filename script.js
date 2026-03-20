@@ -58,7 +58,7 @@ function renderCarta(carta) {
 
       <div class="precios-carta">
         <div class="precio-normal">
-          <span class="precio-label">Valor raw</span>
+          <span class="precio-label">Valor base</span>
           <b>${carta.precio || "Info no disponible"}</b>
         </div>
 
