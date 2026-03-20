@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 20px;
   background: #888888;
+  color: white;
   text-align: center;
   font-family: Arial, sans-serif;
 }
@@ -101,7 +102,7 @@ h1 {
 }
 
 #maquina button.activo {
-  background-color: #111;
+  background-color: #f5c400;
   color: white;
 }
 
