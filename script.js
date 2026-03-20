@@ -112,11 +112,11 @@ async function mostrarEspiral(id) {
     const ciudad = await obtenerCiudadActual();
     const espiral = ciudad.espirales[id];
 
-    if (!espiral) {
-      resultado.innerHTML = "<p>Aún no hay datos para este carril. Estamos trabajando en ello.</p>";
+    if (!espiral || !espiral.cartas || espiral.cartas.length === 0) {
+      resultado.innerHTML = '<p class="aviso">Aún no hay datos para este carril. Estamos trabajando en ello.</p>';
       return;
     }
-
+    
     let html = `<h2>${id} ${espiral.coleccion || ""}</h2>`;
 
     espiral.cartas.forEach(carta => {
@@ -140,7 +140,7 @@ async function mostrarEspiralCombinada(combo) {
 
     combo.ids.forEach(id => {
       const espiral = json[id];
-      if (!espiral) return;
+      if (!espiral || !espiral.cartas || espiral.cartas.length === 0) return;
 
       hayDatos = true;
 
@@ -150,7 +150,7 @@ async function mostrarEspiralCombinada(combo) {
     });
 
     if (!hayDatos) {
-      resultado.innerHTML = "<p>Aún no hay datos para este carril. Estamos trabajando en ello.</p>";
+      resultado.innerHTML = '<p class="aviso">Aún no hay datos para este carril. Estamos trabajando en ello.</p>';
       return;
     }
 
