@@ -286,3 +286,50 @@ h2 {
   width: 20px;
   height: 20px;
 }
+
+.precios-carta {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.precio-label {
+  display: block;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+
+.precio-normal {
+  background: #f3f3f3;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.precio-normal .precio-label {
+  color: #333;
+}
+
+.precio-normal b {
+  color: #111;
+  font-size: 20px;
+}
+
+.precio-psa10 {
+  background: linear-gradient(135deg, #b8860b, #d4af37, #f5d76e, #c99700);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.precio-psa10 .precio-label,
+.precio-psa10 b {
+  color: white;
+}
+
+.precio-psa10 b {
+  font-size: 20px;
+}

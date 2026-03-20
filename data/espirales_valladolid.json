@@ -58,54 +58,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Charizard ex (sv3 134)",
-        "precio": "85.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_1.png"
+        "nombre": "#1 Charizard ex #134",
+        "precio": "$154.60",
+        "precio_psa_10": "$424.99",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_1.png"
       },
       {
-        "nombre": "#2 Charizard ex (sv3 139)",
-        "precio": "22.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_2.png"
+        "nombre": "#2 Charizard ex #139",
+        "precio": "$47.89",
+        "precio_psa_10": "$132.47",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_2.png"
       },
       {
-        "nombre": "#3 Pidgeot ex (sv3 136)",
-        "precio": "18.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_3.png"
+        "nombre": "#3 Pidgeot ex #136",
+        "precio": "$23.45",
+        "precio_psa_10": "$55.00",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_3.png"
       },
       {
-        "nombre": "#4 Ninetales (sv3 110)",
-        "precio": "7.49€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_4.png"
+        "nombre": "#4 Charizard ex #125",
+        "precio": "$18.59",
+        "precio_psa_10": "$70.69",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_4.png"
       },
       {
-        "nombre": "#5 Cleffa (sv3 113)",
-        "precio": "7.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_5.png"
+        "nombre": "#5 Poppy #138",
+        "precio": "$12.92",
+        "precio_psa_10": "$33.50",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_5.png"
       },
       {
-        "nombre": "#6 Basic Fire Energy (sv3 141)",
-        "precio": "6.50€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_6.png"
+        "nombre": "#6 Artazon #140",
+        "precio": "$11.07",
+        "precio_psa_10": "$25.58",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_6.png"
       },
       {
-        "nombre": "#7 Artazon (sv3 140)",
-        "precio": "4.99€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_7.png"
+        "nombre": "#7 Fire Energy #141",
+        "precio": "$10.90",
+        "precio_psa_10": "$39.99",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_7.png"
       },
       {
-        "nombre": "#8 Eiscue ex (sv3 133)",
-        "precio": "4.95€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_8.png"
+        "nombre": "#8 Ninetales #110",
+        "precio": "$10.55",
+        "precio_psa_10": "$56.72",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_8.png"
       },
       {
-        "nombre": "#9 Geeta (sv3 137)",
-        "precio": "3.50€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_9.png"
+        "nombre": "#9 Cleffa #113",
+        "precio": "$10.46",
+        "precio_psa_10": "$61.60",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_9.png"
       },
       {
-        "nombre": "#10 Revavroom ex (sv3 135)",
-        "precio": "3.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_10.png"
+        "nombre": "#10 Geeta #137",
+        "precio": "$9.73",
+        "precio_psa_10": "$33.25",
+        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_10.png"
       }
     ]
   },
@@ -168,109 +178,129 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Team Rocket's Mewtwo ex (sv10 125)",
-        "precio": "118.00€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_1.png"
+        "nombre": "#1 Team Rocket's Mewtwo ex #125",
+        "precio": "$274.37",
+        "precio_psa_10": "$490.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_1.png"
       },
       {
-        "nombre": "#2 Team Rocket's Moltres ex (sv10 124)",
-        "precio": "56.00€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_2.png"
+        "nombre": "#2 Team Rocket's Moltres ex #124",
+        "precio": "$97.63",
+        "precio_psa_10": "$158.75",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_2.png"
       },
       {
-        "nombre": "#3 Team Rocket's Nidoking ex (sv10 126)",
-        "precio": "21.99€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_3.png"
+        "nombre": "#3 Team Rocket's Nidoking ex #126",
+        "precio": "$62.66",
+        "precio_psa_10": "$100.98",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_3.png"
       },
       {
-        "nombre": "#4 Team Rocket's Crobat ex (sv10 127)",
-        "precio": "19.99€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_4.png"
+        "nombre": "#4 Team Rocket's Crobat ex #127",
+        "precio": "$45.00",
+        "precio_psa_10": "$80.50",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_4.png"
       },
       {
-        "nombre": "#5 Team Rocket's Mewtwo ex (sv10 130)",
-        "precio": "18.95€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_5.png"
+        "nombre": "#5 Team Rocket's Mewtwo ex #130",
+        "precio": "$41.49",
+        "precio_psa_10": "$76.22",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_5.png"
       },
       {
-        "nombre": "#6 Team Rocket's Ariana (sv10 128)",
-        "precio": "8.00€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_6.png"
+        "nombre": "#6 Team Rocket's Giovanni #129",
+        "precio": "$19.99",
+        "precio_psa_10": "$80.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_6.png"
       },
       {
-        "nombre": "#7 Team Rocket's Giovanni (sv10 129)",
-        "precio": "7.99€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_7.png"
+        "nombre": "#7 Team Rocket's Ariana #128",
+        "precio": "$19.27",
+        "precio_psa_10": "$92.50",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_7.png"
       },
       {
-        "nombre": "#8 Team Rocket's Mewtwo ex (sv10 114)",
-        "precio": "6.30€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_8.png"
+        "nombre": "#8 Team Rocket's Mewtwo ex #114",
+        "precio": "$18.99",
+        "precio_psa_10": "$68.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_8.png"
       },
       {
-        "nombre": "#9 Team Rocket's Crobat ex (sv10 131)",
-        "precio": "4.00€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_9.png"
+        "nombre": "#9 Team Rocket's Crobat ex #131",
+        "precio": "$17.42",
+        "precio_psa_10": "$41.75",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_9.png"
       },
       {
-        "nombre": "#10 Team Rocket's Giovanni (sv10 121)",
-        "precio": "2.95€",
-        "imagen": "images/cartas/the-glory-of-the-team-rocket/the-glory-of-the-team-rocket_10.png"
+        "nombre": "#10 Jamming Tower #132",
+        "precio": "$12.72",
+        "precio_psa_10": "$30.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_10.png"
       }
     ]
   },
   "A15": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Umbreon VMAX (s6a 095)",
-        "precio": "479.99€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_1.png"
+       {
+        "nombre": "#1 Umbreon VMAX #95",
+        "precio": "$1,995.45",
+        "precio_psa_10": "$4,057.51",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_1.png"
       },
       {
-        "nombre": "#2 Sylveon VMAX (s6a 093)",
-        "precio": "140.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_2.png"
+        "nombre": "#2 Sylveon VMAX #93",
+        "precio": "$579.19",
+        "precio_psa_10": "$1,164.69",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_2.png"
       },
       {
-        "nombre": "#3 Leafeon VMAX (s6a 089)",
-        "precio": "115.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_3.png"
+        "nombre": "#3 Glaceon VMAX #91",
+        "precio": "$336.07",
+        "precio_psa_10": "$754.00",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_3.png"
       },
       {
-        "nombre": "#4 Glaceon VMAX (s6a 091)",
-        "precio": "80.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_4.png"
+        "nombre": "#4 Leafeon VMAX #89",
+        "precio": "$330.00",
+        "precio_psa_10": "$599.94",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_4.png"
       },
       {
-        "nombre": "#5 Umbreon V (s6a 085)",
-        "precio": "65.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_5.png"
+        "nombre": "#5 Umbreon V #85",
+        "precio": "$230.56",
+        "precio_psa_10": "$481.00",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_5.png"
       },
       {
-        "nombre": "#6 Vaporeon V (s6a 075)",
-        "precio": "40.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_6.png"
+        "nombre": "#6 Sealed Promo Box",
+        "precio": "$229.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_6.png"
       },
       {
-        "nombre": "#7 Sylveon V (s6a 083)",
-        "precio": "40.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_7.png"
+        "nombre": "#7 Espeon V #81",
+        "precio": "$119.28",
+        "precio_psa_10": "$200.26",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_7.png"
       },
       {
-        "nombre": "#8 Espeon V (s6a 081)",
-        "precio": "39.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_8.png"
+        "nombre": "#8 Sylveon V #83",
+        "precio": "$112.76",
+        "precio_psa_10": "$219.79",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_8.png"
       },
       {
-        "nombre": "#9 Glaceon V (s6a 077)",
-        "precio": "33.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_9.png"
+        "nombre": "#9 Glaceon V #77",
+        "precio": "$102.30",
+        "precio_psa_10": "$175.78",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_9.png"
       },
       {
-        "nombre": "#10 Leafeon V (s6a 071)",
-        "precio": "32.00€",
-        "imagen": "images/cartas/eevee-heroes/eevee-heroes_10.png"
+        "nombre": "#10 Vaporeon V #75",
+        "precio": "$101.83",
+        "precio_psa_10": "$190.39",
+        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_10.png"
       }
     ]
   },
@@ -333,54 +363,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Rayquaza VMAX (s7R 083)",
-        "precio": "350.00€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_1.png"
+        "nombre": "#1 Rayquaza VMAX #83",
+        "precio": "$1,250.00",
+        "precio_psa_10": "$3,822.58",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_1.png"
       },
       {
-        "nombre": "#2 Dragonite V (s7R 074)",
-        "precio": "87.00€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_2.png"
+        "nombre": "#2 Rayquaza V #76",
+        "precio": "$329.57",
+        "precio_psa_10": "$1,129.18",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_2.png"
       },
       {
-        "nombre": "#3 Rayquaza V (s7R 076)",
-        "precio": "70.00€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_3.png"
+        "nombre": "#3 Dragonite V #74",
+        "precio": "$257.24",
+        "precio_psa_10": "$654.61",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_3.png"
       },
       {
-        "nombre": "#4 Rayquaza VMAX (s7R 082)",
-        "precio": "11.00€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_4.png"
+        "nombre": "#4 Rayquaza VMAX #82",
+        "precio": "$54.41",
+        "precio_psa_10": "$180.67",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_4.png"
       },
       {
-        "nombre": "#5 Gyarados VMAX (s7R 081)",
-        "precio": "9.99€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_5.png"
+        "nombre": "#5 Lightning Energy #90",
+        "precio": "$23.83",
+        "precio_psa_10": "$39.73",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_5.png"
       },
       {
-        "nombre": "#6 Rayquaza V (s7R 075)",
-        "precio": "8.00€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_6.png"
+        "nombre": "#6 Medicham V #72",
+        "precio": "$21.71",
+        "precio_psa_10": "$74.10",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_6.png"
       },
       {
-        "nombre": "#7 Medicham V (s7R 072)",
-        "precio": "7.00€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_7.png"
+        "nombre": "#7 Gyarados VMAX #81",
+        "precio": "$20.50",
+        "precio_psa_10": "$88.92",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_7.png"
       },
       {
-        "nombre": "#8 Lightning Energy (s7R 090)",
-        "precio": "5.00€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_8.png"
+        "nombre": "#8 Shauna #77",
+        "precio": "$18.62",
+        "precio_psa_10": "$66.25",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_8.png"
       },
       {
-        "nombre": "#9 Froslass (s7R 087)",
-        "precio": "4.90€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_9.png"
+        "nombre": "#9 Rayquaza V #75",
+        "precio": "$18.44",
+        "precio_psa_10": "$104.20",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_9.png"
       },
       {
-        "nombre": "#10 Dragonite V (s7R 073)",
-        "precio": "4.80€",
-        "imagen": "images/cartas/BLUE-SKY-COREANO/BLUE-SKY-COREANO_10.png"
+        "nombre": "#10 Zinnia's Resolve #79",
+        "precio": "$17.50",
+        "precio_psa_10": "$56.00",
+        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_10.png"
       }
     ]
   },
@@ -498,54 +538,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Gengar ex (m2a 240)",
-        "precio": "175.88€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_1.png"
+        "nombre": "#1 Mega Gengar ex #240",
+        "precio": "$319.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
       },
       {
-        "nombre": "#2 Mega Dragonite ex (m2a 250)",
-        "precio": "150.00€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_2.png"
+        "nombre": "#2 Mega Dragonite ex #250",
+        "precio": "$206.65",
+        "precio_psa_10": "$610.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
       },
       {
-        "nombre": "#3 Mega Dragonite ex (m2a 246)",
-        "precio": "119.99€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_3.png"
+        "nombre": "#3 Mega Dragonite ex #246",
+        "precio": "$185.37",
+        "precio_psa_10": "$418.05",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
       },
       {
-        "nombre": "#4 Pikachu ex (m2a 234)",
-        "precio": "104.90€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_4.png"
+        "nombre": "#4 Pikachu ex #234",
+        "precio": "$181.00",
+        "precio_psa_10": "$541.82",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
       },
       {
-        "nombre": "#5 Team Rocket's Mewtwo ex (m2a 237)",
-        "precio": "74.95€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_5.png"
+        "nombre": "#5 Team Rocket's Mewtwo ex #237",
+        "precio": "$107.37",
+        "precio_psa_10": "$290.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
       },
       {
-        "nombre": "#6 N's Zoroark ex (m2a 242)",
-        "precio": "55.00€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_6.png"
+        "nombre": "#6 N's Zoroark ex #242",
+        "precio": "$65.24",
+        "precio_psa_10": "$169.50",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
       },
       {
-        "nombre": "#7 Iono's Bellibolt ex (m2a 236)",
-        "precio": "28.00€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_7.png"
+        "nombre": "#7 Iono's Bellibolt ex #236",
+        "precio": "$48.10",
+        "precio_psa_10": "$145.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
       },
       {
-        "nombre": "#8 Marnie's Grimmsnarl ex (m2a 243)",
-        "precio": "26.00€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_8.png"
+        "nombre": "#8 Canari #248",
+        "precio": "$39.94",
+        "precio_psa_10": "$205.01",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
       },
       {
-        "nombre": "#9 Steven's Metagross ex (m2a 245)",
-        "precio": "25.00€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_9.png"
+        "nombre": "#9 Mega Charizard X ex #223",
+        "precio": "$37.55",
+        "precio_psa_10": "$162.78",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
       },
       {
-        "nombre": "#10 Mega Charizard X ex (m2a 223)",
-        "precio": "23.55€",
-        "imagen": "images/cartas/MEGA-DREAM-COREANO/MEGA-DREAM-COREANO_10.png"
+        "nombre": "#10 Marnie's Grimmsnarl ex #243",
+        "precio": "$35.30",
+        "precio_psa_10": "$120.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
       }
     ]
   },

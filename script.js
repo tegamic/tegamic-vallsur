@@ -29,7 +29,25 @@ async function obtenerCiudadActual() {
 }
 
 function parsePrecio(precio) {
-  return Number(precio.replace("€", "").replace(",", "."));
+  if (!precio) return 0;
+
+  let limpio = String(precio).trim().replace(/[^\d.,-]/g, "");
+
+  const tieneComa = limpio.includes(",");
+  const tienePunto = limpio.includes(".");
+
+  if (tieneComa && tienePunto) {
+    if (limpio.lastIndexOf(",") > limpio.lastIndexOf(".")) {
+      limpio = limpio.replace(/\./g, "").replace(",", ".");
+    } else {
+      limpio = limpio.replace(/,/g, "");
+    }
+  } else if (tieneComa && !tienePunto) {
+    limpio = limpio.replace(",", ".");
+  }
+
+  const valor = Number(limpio);
+  return Number.isNaN(valor) ? 0 : valor;
 }
 
 function renderCarta(carta) {
@@ -37,7 +55,18 @@ function renderCarta(carta) {
     <div class="carta">
       <img src="${carta.imagen}" alt="${carta.nombre}" loading="lazy">
       <p>${carta.nombre}</p>
-      <b>${carta.precio}</b>
+
+      <div class="precios-carta">
+        <div class="precio-normal">
+          <span class="precio-label">Valor raw</span>
+          <b>${carta.precio || "Info no disponible"}</b>
+        </div>
+
+        <div class="precio-psa10">
+          <span class="precio-label">Valor PSA 10</span>
+          <b>${carta.precio_psa_10 || "Info no disponible"}</b>
+        </div>
+      </div>
     </div>
   `;
 }
