@@ -259,3 +259,30 @@ h2 {
   font-size: 20px;
   line-height: 1;
 }
+
+.rrss {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.instagram-boton {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: linear-gradient(135deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+  color: white;
+  text-decoration: none;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 700;
+  padding: 12px 18px;
+  border-radius: 12px;
+}
+
+.instagram-boton:hover {
+  opacity: 0.9;
+}
+
+.instagram-icon {
+  width: 20px;
+  height: 20px;
+}
