@@ -2,7 +2,6 @@ body {
   margin: 0;
   padding: 20px;
   background: #888888;
-  color: white;
   text-align: center;
   font-family: Arial, sans-serif;
 }
@@ -245,5 +244,13 @@ h1 {
 
 .ciudad-btn.activo {
   background: #f5c400;
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
   color: white;
 }
