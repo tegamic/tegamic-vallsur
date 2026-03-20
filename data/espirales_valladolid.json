@@ -54,6 +54,61 @@
       }
     ]
   },
+  "A12": {
+    "coleccion": "",
+    "cartas": [
+      {
+        "nombre": "#1 Charizard ex (sv3 134)",
+        "precio": "85.00€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_1.png"
+      },
+      {
+        "nombre": "#2 Charizard ex (sv3 139)",
+        "precio": "22.00€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_2.png"
+      },
+      {
+        "nombre": "#3 Pidgeot ex (sv3 136)",
+        "precio": "18.00€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_3.png"
+      },
+      {
+        "nombre": "#4 Ninetales (sv3 110)",
+        "precio": "7.49€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_4.png"
+      },
+      {
+        "nombre": "#5 Cleffa (sv3 113)",
+        "precio": "7.00€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_5.png"
+      },
+      {
+        "nombre": "#6 Basic Fire Energy (sv3 141)",
+        "precio": "6.50€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_6.png"
+      },
+      {
+        "nombre": "#7 Artazon (sv3 140)",
+        "precio": "4.99€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_7.png"
+      },
+      {
+        "nombre": "#8 Eiscue ex (sv3 133)",
+        "precio": "4.95€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_8.png"
+      },
+      {
+        "nombre": "#9 Geeta (sv3 137)",
+        "precio": "3.50€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_9.png"
+      },
+      {
+        "nombre": "#10 Revavroom ex (sv3 135)",
+        "precio": "3.00€",
+        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_10.png"
+      }
+    ]
+  },
   "A13": {
     "coleccion": "",
     "cartas": [
@@ -714,6 +769,10 @@
       }
     ]
   },
+  "A33": {
+    "coleccion": "",
+    "cartas": []
+  },
   "A34": {
     "coleccion": "",
     "cartas": [
@@ -1099,6 +1158,10 @@
       }
     ]
   },
+  "A45": {
+    "coleccion": "",
+    "cartas": []
+  },
   "A46": {
     "coleccion": "",
     "cartas": [
@@ -1374,6 +1437,10 @@
       }
     ]
   },
+  "A55": {
+    "coleccion": "",
+    "cartas": []
+  },
   "A56": {
     "coleccion": "",
     "cartas": [
@@ -1539,6 +1606,18 @@
       }
     ]
   },
+  "A63": {
+    "coleccion": "",
+    "cartas": []
+  },
+  "A64": {
+    "coleccion": "",
+    "cartas": []
+  },
+  "A65": {
+    "coleccion": "",
+    "cartas": []
+  },
   "A66": {
     "coleccion": "",
     "cartas": [
@@ -1591,61 +1670,6 @@
         "nombre": "#10 Mega Feraligatr ex (ASC 274)",
         "precio": "60.00€",
         "imagen": "images/cartas/ascended-heroes-english/ascended-heroes-english_10.png"
-      }
-    ]
-  },
-  "A12": {
-    "coleccion": "",
-    "cartas": [
-      {
-        "nombre": "#1 Charizard ex (sv3 134)",
-        "precio": "85.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_1.png"
-      },
-      {
-        "nombre": "#2 Charizard ex (sv3 139)",
-        "precio": "22.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_2.png"
-      },
-      {
-        "nombre": "#3 Pidgeot ex (sv3 136)",
-        "precio": "18.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_3.png"
-      },
-      {
-        "nombre": "#4 Ninetales (sv3 110)",
-        "precio": "7.49€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_4.png"
-      },
-      {
-        "nombre": "#5 Cleffa (sv3 113)",
-        "precio": "7.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_5.png"
-      },
-      {
-        "nombre": "#6 Basic Fire Energy (sv3 141)",
-        "precio": "6.50€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_6.png"
-      },
-      {
-        "nombre": "#7 Artazon (sv3 140)",
-        "precio": "4.99€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_7.png"
-      },
-      {
-        "nombre": "#8 Eiscue ex (sv3 133)",
-        "precio": "4.95€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_8.png"
-      },
-      {
-        "nombre": "#9 Geeta (sv3 137)",
-        "precio": "3.50€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_9.png"
-      },
-      {
-        "nombre": "#10 Revavroom ex (sv3 135)",
-        "precio": "3.00€",
-        "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_10.png"
       }
     ]
   }

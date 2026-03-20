@@ -1,40 +1,44 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<title>Catálogo de cartas más valiosas que pueden salir en cada carril</title>
-<link rel="stylesheet" href="style.css">
-<link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>Catálogo de cartas más valiosas que pueden salir en cada carril</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap" rel="stylesheet">
 </head>
 
 <body>
 
-<img src="images/cartas/logo-tegamic/LOGOTEGAMICPNG.PNG" alt="Tegamic Logo" class="logo">
-
-<p class="aviso">
-  La web será actualizada hoy, 19 de marzo. Hasta entonces la información puede no ser precisa.
-</p>
-
-<p class="aviso">
-  Importante: algunos carriles pueden incluir sobres sorpresa de Pokémon.
-  <a href="https://instagram.com/tegamic" target="_blank" class="instagram-link">
-    <img src="images/cartas/logo-instagram/social.png" alt="Instagram Logo" class="instagram-icon">
-  </a>
-</p>
-
-<button id="boton-ranking">Ver ranking de 10 cartas más valiosas que pueden salir en la máquina</button>
-
-<div id="ranking" style="display: none;">
-  <h2>Ranking de cartas más valiosas</h2>
-  <div id="ranking-cartas"></div>
+  <div class="selector-ciudad">
+  <button class="ciudad-btn activo" data-ciudad="valladolid">Valladolid</button>
+  <button class="ciudad-btn" data-ciudad="zamora">Zamora</button>
 </div>
 
-<div id="maquina"></div>
-<h3>Selecciona un carril para ver las cartas más valiosas que pueden salir en la máquina</h3>
-<div id="resultado">
+  <img src="images/cartas/logo-tegamic/LOGOTEGAMICPNG.PNG" alt="Tegamic Logo" class="logo">
 
-</div>
+  <h1 id="titulo-ciudad">CC Vallsur</h1>
 
-<script src="script.js"></script>
+  <p class="aviso">
+    Importante: algunos carriles pueden incluir sobres sorpresa de Pokémon.
+    <a href="https://instagram.com/tegamic" target="_blank" class="instagram-link">
+      <img src="images/cartas/logo-instagram/social.png" alt="Instagram Logo" class="instagram-icon">
+    </a>
+  </p>
+
+  <button id="boton-ranking">Ver ranking de cartas más valiosas</button>
+
+  <div id="ranking" style="display: none;">
+    <h2>Ranking de cartas más valiosas</h2>
+    <div id="ranking-cartas"></div>
+  </div>
+
+  <div id="maquina"></div>
+
+  <div id="resultado">
+    <h2>Selecciona un carril para ver las cartas más valiosas</h2>
+  </div>
+
+  <script src="script.js"></script>
 
 </body>
+</html>

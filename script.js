@@ -1,74 +1,35 @@
-const espirales = [
-  "A11","A12","A13","A14","A15","A16",
-  "A21","A22","A23","A24","A25","A26",
-  "A31","A32","A33","A34","A35","A36",
-  "A41","A42","A43","A44","A45","A46",
-  "A51","A52","A53","A54","A55","A56",
-  "A61","A62","A63","A64","A65","A66"
-];
-
-const combinaciones = [
-  {
-    ids: ["A65", "A66"],
-    label: "A66"
-  }
-];
+let datosMaquinas = null;
+let ciudadActual = "valladolid";
+let rankingCargado = false;
 
 const maquina = document.getElementById("maquina");
 const resultado = document.getElementById("resultado");
 const botonRanking = document.getElementById("boton-ranking");
 const ranking = document.getElementById("ranking");
 const rankingCartas = document.getElementById("ranking-cartas");
+const tituloCiudad = document.getElementById("titulo-ciudad");
+const botonesCiudad = document.querySelectorAll(".ciudad-btn");
 
-const espiralesCombinadas = new Map();
-combinaciones.forEach(combo => {
-  combo.ids.forEach(id => espiralesCombinadas.set(id, combo));
-});
+async function cargarDatosMaquinas() {
+  if (datosMaquinas) return datosMaquinas;
 
-const yaRenderizadas = new Set();
-let rankingCargado = false;
-
-function seleccionarBoton(boton) {
-  document.querySelectorAll("#maquina button").forEach(btn => {
-    btn.classList.remove("activo");
-  });
-  boton.classList.add("activo");
-}
-
-espirales.forEach(id => {
-  if (yaRenderizadas.has(id)) return;
-
-  const combo = espiralesCombinadas.get(id);
-  const btn = document.createElement("button");
-
-  if (combo) {
-    combo.ids.forEach(x => yaRenderizadas.add(x));
-    btn.innerText = combo.label;
-    btn.classList.add("espiral-doble");
-    btn.onclick = () => {
-      seleccionarBoton(btn);
-      mostrarEspiralCombinada(combo);
-    };
-  } else {
-    yaRenderizadas.add(id);
-    btn.innerText = id;
-    btn.onclick = () => {
-      seleccionarBoton(btn);
-      mostrarEspiral(id);
-    };
-  }
-
-  maquina.appendChild(btn);
-});
-
-async function cargarDatos() {
-  const response = await fetch("data/espirales.json");
+  const response = await fetch("data/maquinas.json");
 
   if (!response.ok) {
     throw new Error(`Error cargando JSON: ${response.status}`);
   }
 
-  return await response.json();
+  datosMaquinas = await response.json();
+  return datosMaquinas;
+}
+
+async function obtenerCiudadActual() {
+  const datos = await cargarDatosMaquinas();
+  return datos[ciudadActual];
+}
+
+function parsePrecio(precio) {
+  return Number(precio.replace("€", "").replace(",", "."));
 }
 
 function renderCarta(carta) {
@@ -81,106 +42,75 @@ function renderCarta(carta) {
   `;
 }
 
-function renderBotonesEspirales(espirales) {
-  return espirales.map(id => {
-    const combo = espiralesCombinadas.get(id);
-
-    if (combo) {
-      return `
-        <button class="boton-espiral-ranking espiral-doble" onclick="abrirEspiralDesdeRanking('${combo.label}')">
-          ${combo.label}
-        </button>
-      `;
-    }
-
-    return `
-      <button class="boton-espiral-ranking" onclick="abrirEspiralDesdeRanking('${id}')">
-        ${id}
-      </button>
-    `;
-  }).join("");
+function seleccionarBoton(boton) {
+  document.querySelectorAll("#maquina button").forEach(btn => {
+    btn.classList.remove("activo");
+  });
+  boton.classList.add("activo");
 }
 
-function abrirEspiralDesdeRanking(idOLabel) {
-  const botones = document.querySelectorAll("#maquina button");
-
-  botones.forEach(btn => {
-    if (btn.innerText === idOLabel) {
-      btn.click();
-      btn.scrollIntoView({ behavior: "smooth", block: "center" });
-    }
+function actualizarBotonesCiudad() {
+  botonesCiudad.forEach(btn => {
+    btn.classList.toggle("activo", btn.dataset.ciudad === ciudadActual);
   });
 }
 
-function parsePrecio(precio) {
-  return Number(precio.replace("€", "").replace(",", "."));
-}
-
-function agruparCartasPorValor(json) {
+function construirMapaCombinaciones(combinaciones) {
   const mapa = new Map();
 
-  Object.entries(json).forEach(([espiralId, datosEspiral]) => {
-    if (!datosEspiral.cartas) return;
-
-    datosEspiral.cartas.forEach(carta => {
-      const clave = `${carta.nombre}|${carta.precio}|${carta.imagen}`;
-
-      if (!mapa.has(clave)) {
-        mapa.set(clave, {
-          ...carta,
-          valorNumerico: parsePrecio(carta.precio),
-          espirales: [espiralId]
-        });
-      } else {
-        mapa.get(clave).espirales.push(espiralId);
-      }
-    });
+  combinaciones.forEach(combo => {
+    combo.ids.forEach(id => mapa.set(id, combo));
   });
 
-  return Array.from(mapa.values());
+  return mapa;
 }
 
-async function mostrarRanking(top = 10) {
-  try {
-    const json = await cargarDatos();
-    const cartasUnicas = agruparCartasPorValor(json);
+async function renderizarMaquina() {
+  const ciudad = await obtenerCiudadActual();
+  const espirales = ciudad.espiralesOrden || [];
+  const combinaciones = ciudad.combinaciones || [];
+  const espiralesCombinadas = construirMapaCombinaciones(combinaciones);
 
-    cartasUnicas.sort((a, b) => b.valorNumerico - a.valorNumerico);
-
-    const topCartas = cartasUnicas.slice(0, top);
-
-    let html = "";
-
-    topCartas.forEach((carta, index) => {
-      html += `
-        <div class="ranking-carta">
-          <div class="ranking-posicion">#${index + 1}</div>
-          <img src="${carta.imagen}" alt="${carta.nombre}" loading="lazy">
-          <div class="ranking-info">
-            <h3>${carta.nombre}</h3>
-            <p class="ranking-precio">${carta.precio}</p>
-            <div class="ranking-espirales">
-  <span>Puede salir en:</span>
-  <div class="ranking-espirales-botones">
-    ${renderBotonesEspirales(carta.espirales)}
-  </div>
-</div>
-          </div>
-        </div>
-      `;
-    });
-
-    rankingCartas.innerHTML = html;
-  } catch (error) {
-    console.error(error);
-    rankingCartas.innerHTML = "<p>Error al cargar el ranking</p>";
+  if (tituloCiudad) {
+    tituloCiudad.textContent = ciudad.titulo || ciudad.nombre || ciudadActual;
   }
+
+  maquina.innerHTML = "";
+  resultado.innerHTML = `<h2>Selecciona un carril para ver las cartas más valiosas</h2>`;
+
+  const yaRenderizadas = new Set();
+
+  espirales.forEach(id => {
+    if (yaRenderizadas.has(id)) return;
+
+    const combo = espiralesCombinadas.get(id);
+    const btn = document.createElement("button");
+
+    if (combo) {
+      combo.ids.forEach(x => yaRenderizadas.add(x));
+      btn.innerText = combo.label;
+      btn.classList.add("espiral-doble");
+      btn.onclick = () => {
+        seleccionarBoton(btn);
+        mostrarEspiralCombinada(combo);
+      };
+    } else {
+      yaRenderizadas.add(id);
+      btn.innerText = id;
+      btn.onclick = () => {
+        seleccionarBoton(btn);
+        mostrarEspiral(id);
+      };
+    }
+
+    maquina.appendChild(btn);
+  });
 }
 
 async function mostrarEspiral(id) {
   try {
-    const json = await cargarDatos();
-    const espiral = json[id];
+    const ciudad = await obtenerCiudadActual();
+    const espiral = ciudad.espirales[id];
 
     if (!espiral) {
       resultado.innerHTML = "<p>Aún no hay datos para este carril. Estamos trabajando en ello.</p>";
@@ -202,7 +132,8 @@ async function mostrarEspiral(id) {
 
 async function mostrarEspiralCombinada(combo) {
   try {
-    const json = await cargarDatos();
+    const ciudad = await obtenerCiudadActual();
+    const json = ciudad.espirales;
 
     let html = `<h2>${combo.label}</h2>`;
     let hayDatos = false;
@@ -230,6 +161,134 @@ async function mostrarEspiralCombinada(combo) {
   }
 }
 
+function agruparCartasPorValor(json) {
+  const mapa = new Map();
+
+  Object.entries(json).forEach(([espiralId, datosEspiral]) => {
+    if (!datosEspiral.cartas) return;
+
+    datosEspiral.cartas.forEach(carta => {
+      const clave = `${carta.nombre}|${carta.precio}|${carta.imagen}`;
+
+      if (!mapa.has(clave)) {
+        mapa.set(clave, {
+          ...carta,
+          valorNumerico: parsePrecio(carta.precio),
+          espirales: [espiralId]
+        });
+      } else {
+        mapa.get(clave).espirales.push(espiralId);
+      }
+    });
+  });
+
+  return Array.from(mapa.values());
+}
+
+async function renderBotonesEspirales(espirales) {
+  const ciudad = await obtenerCiudadActual();
+  const combinaciones = ciudad.combinaciones || [];
+  const espiralesCombinadas = construirMapaCombinaciones(combinaciones);
+
+  const unicos = [];
+  const vistos = new Set();
+
+  espirales.forEach(id => {
+    const combo = espiralesCombinadas.get(id);
+    const label = combo ? combo.label : id;
+
+    if (!vistos.has(label)) {
+      vistos.add(label);
+      unicos.push(label);
+    }
+  });
+
+  return unicos.map(label => `
+    <button class="boton-espiral-ranking" onclick="abrirEspiralDesdeRanking('${label}')">
+      ${label}
+    </button>
+  `).join("");
+}
+
+async function mostrarRanking(top = 10) {
+  try {
+    const ciudad = await obtenerCiudadActual();
+    const cartasUnicas = agruparCartasPorValor(ciudad.espirales);
+
+    cartasUnicas.sort((a, b) => b.valorNumerico - a.valorNumerico);
+
+    const topCartas = cartasUnicas.slice(0, top);
+
+    let html = "";
+
+    for (let index = 0; index < topCartas.length; index++) {
+      const carta = topCartas[index];
+      const botones = await renderBotonesEspirales(carta.espirales);
+
+      html += `
+        <div class="ranking-carta">
+          <div class="ranking-posicion">#${index + 1}</div>
+          <img src="${carta.imagen}" alt="${carta.nombre}" loading="lazy">
+          <div class="ranking-info">
+            <h3>${carta.nombre}</h3>
+            <p class="ranking-precio">${carta.precio}</p>
+            <div class="ranking-espirales">
+              <span>Sale en:</span>
+              <div class="ranking-espirales-botones">
+                ${botones}
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    rankingCartas.innerHTML = html;
+  } catch (error) {
+    console.error(error);
+    rankingCartas.innerHTML = "<p>Error al cargar el ranking</p>";
+  }
+}
+
+window.abrirEspiralDesdeRanking = function(idOLabel) {
+  const botones = document.querySelectorAll("#maquina button");
+
+  botones.forEach(btn => {
+    if (btn.innerText === idOLabel) {
+      btn.click();
+      btn.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  });
+};
+
+async function cambiarCiudad(nuevaCiudad) {
+  ciudadActual = nuevaCiudad;
+  rankingCargado = false;
+
+  if (ranking) {
+    ranking.style.display = "none";
+  }
+
+  if (botonRanking) {
+    botonRanking.textContent = "Ver ranking de cartas más valiosas";
+  }
+
+  if (rankingCartas) {
+    rankingCartas.innerHTML = "";
+  }
+
+  actualizarBotonesCiudad();
+  await renderizarMaquina();
+}
+
+botonesCiudad.forEach(btn => {
+  btn.addEventListener("click", async () => {
+    const nuevaCiudad = btn.dataset.ciudad;
+    if (nuevaCiudad === ciudadActual) return;
+    await cambiarCiudad(nuevaCiudad);
+  });
+});
+
 if (botonRanking && ranking && rankingCartas) {
   botonRanking.addEventListener("click", async () => {
     if (ranking.style.display === "none" || ranking.style.display === "") {
@@ -242,7 +301,18 @@ if (botonRanking && ranking && rankingCartas) {
       }
     } else {
       ranking.style.display = "none";
-      botonRanking.textContent = "Ver ranking de 10 cartas más valiosas que pueden salir en la máquina";
+      botonRanking.textContent = "Ver ranking de cartas más valiosas";
     }
   });
 }
+
+(async function init() {
+  try {
+    await cargarDatosMaquinas();
+    actualizarBotonesCiudad();
+    await renderizarMaquina();
+  } catch (error) {
+    console.error(error);
+    resultado.innerHTML = "<p>Error al inicializar la web</p>";
+  }
+})();
