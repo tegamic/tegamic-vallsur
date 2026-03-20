@@ -3658,71 +3658,71 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Charizard VMAX #308",
-        "precio": "$120.00",
-        "precio_psa_10": "$217.11",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_1.png"
+        "nombre": "#1 Pikachu #205",
+        "precio": "$184.62",
+        "precio_psa_10": "$396.10",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_1.png"
       },
       {
-        "nombre": "#2 Charizard V #307",
-        "precio": "$80.84",
-        "precio_psa_10": "$177.00",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_2.png"
+        "nombre": "#2 Giratina VSTAR #261",
+        "precio": "$158.75",
+        "precio_psa_10": "$246.20",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_2.png"
       },
       {
-        "nombre": "#3 Marnie #198",
-        "precio": "$60.00",
-        "precio_psa_10": "$160.00",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_3.png"
+        "nombre": "#3 Arceus VSTAR #262",
+        "precio": "$89.27",
+        "precio_psa_10": "$168.32",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_3.png"
       },
       {
-        "nombre": "#4 Poke Kid #197",
-        "precio": "$22.50",
-        "precio_psa_10": "$63.85",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_4.png"
+        "nombre": "#4 Charizard VSTAR #212",
+        "precio": "$72.62",
+        "precio_psa_10": "$179.99",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_4.png"
       },
       {
-        "nombre": "#5 Skyla #195",
-        "precio": "$19.77",
-        "precio_psa_10": "$64.81",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_5.png"
+        "nombre": "#5 Mewtwo VSTAR #221",
+        "precio": "$71.51",
+        "precio_psa_10": "$160.11",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_5.png"
       },
       {
-        "nombre": "#6 Gengar #71",
-        "precio": "$12.00",
-        "precio_psa_10": "$67.54",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_6.png"
+        "nombre": "#6 Origin Forme Dialga VSTAR #260",
+        "precio": "$65.60",
+        "precio_psa_10": "$107.50",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_6.png"
       },
       {
-        "nombre": "#7 Zacian V #329",
-        "precio": "$11.34",
-        "precio_psa_10": "$35.94",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_7.png"
+        "nombre": "#7 Origin Forme Palkia VSTAR #259",
+        "precio": "$59.50",
+        "precio_psa_10": "$102.50",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_7.png"
       },
       {
-        "nombre": "#8 Suicune #221",
-        "precio": "$9.99",
-        "precio_psa_10": "$36.98",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_8.png"
+        "nombre": "#8 Charizard V #211",
+        "precio": "$35.83",
+        "precio_psa_10": "$95.92",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_8.png"
       },
       {
-        "nombre": "#9 Ditto V #323",
-        "precio": "$9.50",
-        "precio_psa_10": "$45.00",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_9.png"
+        "nombre": "#9 Leafeon VSTAR #210",
+        "precio": "$35.74",
+        "precio_psa_10": "$76.00",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_9.png"
       },
       {
-        "nombre": "#10 Lapras VMAX #312",
-        "precio": "$8.98",
-        "precio_psa_10": "$35.99",
-        "imagen": "images/cartas/pokemon-japanese-shiny-star-v/pokemon-japanese-shiny-star-v_10.png"
+        "nombre": "#10 Glaceon VSTAR #217",
+        "precio": "$31.90",
+        "precio_psa_10": "$65.79",
+        "imagen": "images/cartas/pokemon-japanese-vstar-universe/pokemon-japanese-vstar-universe_10.png"
       }
     ]
   },
   "A64": {
     "coleccion": "",
     "cartas": [
-       {
+      {
         "nombre": "#1 Pikachu ex #132",
         "precio": "$242.24",
         "precio_psa_10": "$514.43",
@@ -3851,7 +3851,8 @@
   },
   "A66": {
     "coleccion": "",
-    "cartas": [{
+    "cartas": [
+      {
         "nombre": "#1 Mega Charizard X Ex #116",
         "precio": "$575.33",
         "precio_psa_10": "$2,239.02",
