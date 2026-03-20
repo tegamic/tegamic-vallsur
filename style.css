@@ -254,3 +254,8 @@ h1 {
 h2 {
   color: white;
 }
+
+.warning-icon {
+  font-size: 20px;
+  line-height: 1;
+}
