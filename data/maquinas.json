@@ -1239,64 +1239,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Charizard V #103",
-        "precio": "$145.43",
-        "precio_psa_10": "$341.83",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_1.png"
+        "nombre": "#1 Son Goku [Super Alternate Art] FB01-139",
+        "precio": "$561.38",
+        "precio_psa_10": "$2,600.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_1.png"
       },
       {
-        "nombre": "#2 Charizard VSTAR #118",
-        "precio": "$52.00",
-        "precio_psa_10": "$153.51",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_2.png"
+        "nombre": "#2 Son Gohan: Childhood [Alternate Art] FB01-140",
+        "precio": "$203.75",
+        "precio_psa_10": "$237.47",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_2.png"
       },
       {
-        "nombre": "#3 Arceus V #112",
-        "precio": "$50.03",
-        "precio_psa_10": "$116.64",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_3.png"
+        "nombre": "#3 Son Goku [Alternate Art] FB01-139",
+        "precio": "$114.49",
+        "precio_psa_10": "$162.28",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_3.png"
       },
       {
-        "nombre": "#4 Charizard V #102",
-        "precio": "$26.80",
-        "precio_psa_10": "$72.90",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_4.png"
+        "nombre": "#4 Goku Black [Alternate Art] FB01-035",
+        "precio": "$72.99",
+        "precio_psa_10": "$101.28",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_4.png"
       },
       {
-        "nombre": "#5 Ultra Ball #126",
-        "precio": "$26.50",
-        "precio_psa_10": "$44.00",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_5.png"
+        "nombre": "#5 Son Gohan: Childhood [Alternate Art Holo] FB01-071",
+        "precio": "$70.00",
+        "precio_psa_10": "$120.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_5.png"
       },
       {
-        "nombre": "#6 Cynthia's Ambition #114",
-        "precio": "$19.99",
-        "precio_psa_10": "$57.00",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_6.png"
+        "nombre": "#6 Trunks: Future [Alternate Art] FB01-036",
+        "precio": "$55.00",
+        "precio_psa_10": "$77.84",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_6.png"
       },
       {
-        "nombre": "#7 Arceus VSTAR #125",
-        "precio": "$15.63",
-        "precio_psa_10": "$46.91",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_7.png"
+        "nombre": "#7 Son Goku [Alternate Art] FB01-001",
+        "precio": "$50.43",
+        "precio_psa_10": "$73.85",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_7.png"
       },
       {
-        "nombre": "#8 Lumineon V #105",
-        "precio": "$15.49",
-        "precio_psa_10": "$40.02",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_8.png"
+        "nombre": "#8 Cooler [Alternate Art] FB01-105",
+        "precio": "$32.98",
+        "precio_psa_10": "$30.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_8.png"
       },
       {
-        "nombre": "#9 Arceus VSTAR #120",
-        "precio": "$13.43",
-        "precio_psa_10": "$43.16",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_9.png"
+        "nombre": "#9 Android 17 [Alternate Art Holo] FB01-070",
+        "precio": "$29.92",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_9.png"
       },
       {
-        "nombre": "#10 Cynthia's Ambition #122",
-        "precio": "$11.50",
-        "precio_psa_10": "$39.03",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_10.png"
+        "nombre": "#10 Trunks : Future [Dokkan Battle Alternate Art] FB01-049",
+        "precio": "$27.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_10.png"
       }
     ]
   },
