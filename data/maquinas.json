@@ -1372,66 +1372,6 @@
   "A46": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Zekrom ex #174",
-        "precio": "$226.55",
-        "precio_psa_10": "$447.50",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_1.png"
-      },
-      {
-        "nombre": "#2 Zekrom Ex #169",
-        "precio": "$132.99",
-        "precio_psa_10": "$198.25",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_2.png"
-      },
-      {
-        "nombre": "#3 Seismitoad #109",
-        "precio": "$54.09",
-        "precio_psa_10": "$110.50",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_3.png"
-      },
-      {
-        "nombre": "#4 N's Plot #173",
-        "precio": "$48.34",
-        "precio_psa_10": "$163.06",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_4.png"
-      },
-      {
-        "nombre": "#5 Kyurem Ex #168",
-        "precio": "$31.90",
-        "precio_psa_10": "$62.75",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_5.png"
-      },
-      {
-        "nombre": "#6 Serperior ex #167",
-        "precio": "$22.48",
-        "precio_psa_10": "$62.85",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_6.png"
-      },
-      {
-        "nombre": "#7 Meloetta Ex #170",
-        "precio": "$19.99",
-        "precio_psa_10": "$61.46",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_7.png"
-      },
-      {
-        "nombre": "#8 Genesect Ex #172",
-        "precio": "$18.49",
-        "precio_psa_10": "$67.45",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_8.png"
-      },
-      {
-        "nombre": "#9 Victini [Master Ball] #12",
-        "precio": "$15.59",
-        "precio_psa_10": "$73.31",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_9.png"
-      },
-      {
-        "nombre": "#10 Victini #97",
-        "precio": "$13.00",
-        "precio_psa_10": "$51.25",
-        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_10.png"
-      }
     ]
   },
   "A51": {
