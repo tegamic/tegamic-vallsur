@@ -2071,65 +2071,65 @@
   "A14": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Bianca's Sincerity #97",
-        "precio": "$40.28",
-        "precio_psa_10": "$121.45",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_1.png"
+     {
+        "nombre": "#1 Trafalgar Law [Manga Alternate Art] OP10-119",
+        "precio": "$378.80",
+        "precio_psa_10": "$1,056.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_1.png"
       },
       {
-        "nombre": "#2 Iron Crown ex #94",
-        "precio": "$25.25",
-        "precio_psa_10": "$49.25",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_2.png"
+        "nombre": "#2 Sugar OP10-003",
+        "precio": "$37.21",
+        "precio_psa_10": "$7.50",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_2.png"
       },
       {
-        "nombre": "#3 Iron Leaves ex #93",
-        "precio": "$20.27",
-        "precio_psa_10": "$40.00",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_3.png"
+        "nombre": "#3 Divine Departure [Alternate Art] OP10-019",
+        "precio": "$35.00",
+        "precio_psa_10": "$92.29",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_3.png"
       },
       {
-        "nombre": "#4 Iron Boulder ex #95",
-        "precio": "$12.48",
-        "precio_psa_10": "$42.67",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_4.png"
+        "nombre": "#4 Monkey.D.Luffy [Alternate Art] OP10-118",
+        "precio": "$23.49",
+        "precio_psa_10": "$99.46",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_4.png"
       },
       {
-        "nombre": "#5 Deerling #73",
-        "precio": "$11.30",
-        "precio_psa_10": "$47.50",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_5.png"
+        "nombre": "#5 Usopp OP10-042",
+        "precio": "$22.91",
+        "precio_psa_10": "$29.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_5.png"
       },
       {
-        "nombre": "#6 Salvatore #96",
-        "precio": "$9.63",
-        "precio_psa_10": "$50.00",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_6.png"
+        "nombre": "#6 Usopp [Playmat Limited Edition] OP10-042",
+        "precio": "$22.69",
+        "precio_psa_10": "$94.58",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_6.png"
       },
       {
-        "nombre": "#7 Sawsbuck #74",
-        "precio": "$9.02",
-        "precio_psa_10": "$46.00",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_7.png"
+        "nombre": "#7 Trafalgar Law [Alternate Art] OP10-119",
+        "precio": "$17.12",
+        "precio_psa_10": "$81.33",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_7.png"
       },
       {
-        "nombre": "#8 Iron Leaves ex #98",
-        "precio": "$7.69",
-        "precio_psa_10": "$32.92",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_8.png"
+        "nombre": "#8 Usopp [Alternate Art] OP10-042",
+        "precio": "$12.13",
+        "precio_psa_10": "$84.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_8.png"
       },
       {
-        "nombre": "#9 Litten #75",
-        "precio": "$6.75",
-        "precio_psa_10": "$44.99",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_9.png"
+        "nombre": "#9 Trafalgar Law [Alternate Art] OP10-022",
+        "precio": "$12.00",
+        "precio_psa_10": "$41.00",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_9.png"
       },
       {
-        "nombre": "#10 Bianca's Sincerity #92",
-        "precio": "$5.56",
-        "precio_psa_10": "$48.50",
-        "imagen": "images/cartas/pokemon-japanese-cyber-judge/pokemon-japanese-cyber-judge_10.png"
+        "nombre": "#10 Tashigi [Alternate Art] OP10-032",
+        "precio": "$10.50",
+        "precio_psa_10": "$23.52",
+        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_10.png"
       }
     ]
   },
@@ -2330,7 +2330,66 @@
   },
   "A22": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [{
+        "nombre": "#1 Umbreon Ex #217",
+        "precio": "$328.00",
+        "precio_psa_10": "$520.00",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_1.png"
+      },
+      {
+        "nombre": "#2 Sylveon Ex #212",
+        "precio": "$107.28",
+        "precio_psa_10": "$185.00",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_2.png"
+      },
+      {
+        "nombre": "#3 Leafeon Ex #200",
+        "precio": "$57.18",
+        "precio_psa_10": "$109.99",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_3.png"
+      },
+      {
+        "nombre": "#4 Espeon Ex #211",
+        "precio": "$57.15",
+        "precio_psa_10": "$113.51",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_4.png"
+      },
+      {
+        "nombre": "#5 Vaporeon Ex #205",
+        "precio": "$52.67",
+        "precio_psa_10": "$107.50",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_5.png"
+      },
+      {
+        "nombre": "#6 Umbreon [Master Ball] #92",
+        "precio": "$49.99",
+        "precio_psa_10": "$143.32",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_6.png"
+      },
+      {
+        "nombre": "#7 Glaceon Ex #206",
+        "precio": "$48.50",
+        "precio_psa_10": "$107.50",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_7.png"
+      },
+      {
+        "nombre": "#8 Flareon Ex #202",
+        "precio": "$46.39",
+        "precio_psa_10": "$95.99",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_8.png"
+      },
+      {
+        "nombre": "#9 Pikachu Ex #236",
+        "precio": "$44.25",
+        "precio_psa_10": "$141.50",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_9.png"
+      },
+      {
+        "nombre": "#10 Jolteon Ex #209",
+        "precio": "$40.13",
+        "precio_psa_10": "$99.99",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_10.png"
+      }]
   },
   "A23": {
     "coleccion": "",
@@ -2466,64 +2525,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Ice Rider Calyrex VMAX #85",
-        "precio": "$110.01",
-        "precio_psa_10": "$372.78",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_1.png"
+        "nombre": "#1 Charizard EX #201",
+        "precio": "$359.09",
+        "precio_psa_10": "$661.69",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_1.png"
       },
       {
-        "nombre": "#2 Galarian Rapidash V #75",
-        "precio": "$39.35",
-        "precio_psa_10": "$75.50",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_2.png"
+        "nombre": "#2 Gengar [Master Ball] #94",
+        "precio": "$272.52",
+        "precio_psa_10": "$862.74",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_2.png"
       },
       {
-        "nombre": "#3 Tornadus V #79",
-        "precio": "$29.99",
-        "precio_psa_10": "$55.81",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_3.png"
+        "nombre": "#3 Pikachu [Master Ball] #25",
+        "precio": "$195.88",
+        "precio_psa_10": "$578.30",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_3.png"
       },
       {
-        "nombre": "#4 Water Energy #95",
-        "precio": "$28.21",
-        "precio_psa_10": "$80.52",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_4.png"
+        "nombre": "#4 Mew EX #205",
+        "precio": "$153.04",
+        "precio_psa_10": "$315.90",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_4.png"
       },
       {
-        "nombre": "#5 Ice Rider Calyrex V #73",
-        "precio": "$26.09",
-        "precio_psa_10": "$46.00",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_5.png"
+        "nombre": "#5 Blastoise EX #202",
+        "precio": "$129.99",
+        "precio_psa_10": "$222.61",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_5.png"
       },
       {
-        "nombre": "#6 Flannery #80",
-        "precio": "$16.20",
-        "precio_psa_10": "$50.00",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_6.png"
+        "nombre": "#6 Venusaur EX #200",
+        "precio": "$93.82",
+        "precio_psa_10": "$189.00",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_6.png"
       },
       {
-        "nombre": "#7 Ice Rider Calyrex VMAX #84",
-        "precio": "$10.72",
-        "precio_psa_10": "$27.18",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_7.png"
+        "nombre": "#7 Zapdos EX #204",
+        "precio": "$89.36",
+        "precio_psa_10": "$210.44",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_7.png"
       },
       {
-        "nombre": "#8 Melony #83",
-        "precio": "$8.99",
-        "precio_psa_10": "$28.25",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_8.png"
+        "nombre": "#8 Dragonite [Master Ball] #149",
+        "precio": "$66.52",
+        "precio_psa_10": "$150.12",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_8.png"
       },
       {
-        "nombre": "#9 Melony #91",
-        "precio": "$8.91",
-        "precio_psa_10": "$30.25",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_9.png"
+        "nombre": "#9 Haunter [Master Ball] #93",
+        "precio": "$60.50",
+        "precio_psa_10": "$146.25",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_9.png"
       },
       {
-        "nombre": "#10 Flannery #88",
-        "precio": "$8.66",
-        "precio_psa_10": "$28.25",
-        "imagen": "images/cartas/silver-lance-pricecharting/silver-lance-pricecharting_10.png"
+        "nombre": "#10 Psyduck [Master Ball] #54",
+        "precio": "$60.18",
+        "precio_psa_10": "$120.48",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_10.png"
       }
     ]
   },
