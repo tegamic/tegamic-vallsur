@@ -248,7 +248,66 @@
   "A14": {
     "coleccion": "",
     "cartas": [
-      
+      {
+        "nombre": "#1 Mega Greninja Ex #120",
+        "precio": "$501.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_1.png"
+      },
+      {
+        "nombre": "#2 Mega Greninja Ex #144",
+        "precio": "$316.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_2.png"
+      },
+      {
+        "nombre": "#3 Cinccino Ex #117",
+        "precio": "$40.12",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_3.png"
+      },
+      {
+        "nombre": "#4 Mega Floette Ex #115",
+        "precio": "$28.63",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_4.png"
+      },
+      {
+        "nombre": "#5 Mega Greninja Ex #98",
+        "precio": "$27.16",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_5.png"
+      },
+      {
+        "nombre": "#6 Mega Dragalge Ex #116",
+        "precio": "$25.32",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_6.png"
+      },
+      {
+        "nombre": "#7 Roxie's Performance #119",
+        "precio": "$24.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_7.png"
+      },
+      {
+        "nombre": "#8 AZ's Tranquility #118",
+        "precio": "$17.92",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_8.png"
+      },
+      {
+        "nombre": "#9 Froakie #86",
+        "precio": "$11.73",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_9.png"
+      },
+      {
+        "nombre": "#10 Emma #111",
+        "precio": "$10.49",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_10.png"
+      }
     ]
   },
   "A15": {
@@ -1588,64 +1647,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Terapagos ex #130",
-        "precio": "$26.45",
-        "precio_psa_10": "$60.69",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_1.png"
+        "nombre": "#1 Mega Greninja Ex #120",
+        "precio": "$501.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_1.png"
       },
       {
-        "nombre": "#2 Dachsbun ex #129",
-        "precio": "$22.82",
-        "precio_psa_10": "$60.00",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_2.png"
+        "nombre": "#2 Mega Greninja Ex #144",
+        "precio": "$316.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_2.png"
       },
       {
-        "nombre": "#3 Lacey #131",
-        "precio": "$22.17",
-        "precio_psa_10": "$81.69",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_3.png"
+        "nombre": "#3 Cinccino Ex #117",
+        "precio": "$40.12",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_3.png"
       },
       {
-        "nombre": "#4 Hydrapple ex #127",
-        "precio": "$18.25",
-        "precio_psa_10": "$47.81",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_4.png"
+        "nombre": "#4 Mega Floette Ex #115",
+        "precio": "$28.63",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_4.png"
       },
       {
-        "nombre": "#5 Briar #132",
-        "precio": "$13.59",
-        "precio_psa_10": "$55.21",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_5.png"
+        "nombre": "#5 Mega Greninja Ex #98",
+        "precio": "$27.16",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_5.png"
       },
       {
-        "nombre": "#6 Galvantula ex #128",
-        "precio": "$13.25",
-        "precio_psa_10": "$39.98",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_6.png"
+        "nombre": "#6 Mega Dragalge Ex #116",
+        "precio": "$25.32",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_6.png"
       },
       {
-        "nombre": "#7 Terapagos ex #133",
-        "precio": "$9.12",
-        "precio_psa_10": "$30.50",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_7.png"
+        "nombre": "#7 Roxie's Performance #119",
+        "precio": "$24.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_7.png"
       },
       {
-        "nombre": "#8 Area Zero Underdepths #135",
-        "precio": "$7.25",
-        "precio_psa_10": "$42.85",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_8.png"
+        "nombre": "#8 AZ's Tranquility #118",
+        "precio": "$17.92",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_8.png"
       },
       {
-        "nombre": "#9 Bravery Charm #134",
-        "precio": "$5.50",
-        "precio_psa_10": "$53.17",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_9.png"
+        "nombre": "#9 Froakie #86",
+        "precio": "$11.73",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_9.png"
       },
       {
-        "nombre": "#10 Lacey #124",
-        "precio": "$5.00",
-        "precio_psa_10": "$36.34",
-        "imagen": "images/cartas/pokemon-japanese-stellar-miracle/pokemon-japanese-stellar-miracle_10.png"
+        "nombre": "#10 Emma #111",
+        "precio": "$10.49",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_10.png"
       }
     ]
   },
