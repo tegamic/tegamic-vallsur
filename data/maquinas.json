@@ -1190,7 +1190,66 @@
   },
   "A45": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [{
+        "nombre": "#1 Son Goku [Super Alternate Art] FB05-119",
+        "precio": "$545.42",
+        "precio_psa_10": "$5,154.64",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_1.png"
+      },
+      {
+        "nombre": "#2 Son Goku [Super Alternate Art] SB01-023",
+        "precio": "$369.55",
+        "precio_psa_10": "$80.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_2.png"
+      },
+      {
+        "nombre": "#3 Son Goku [Alternate Art] FB05-119",
+        "precio": "$268.33",
+        "precio_psa_10": "$813.57",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_3.png"
+      },
+      {
+        "nombre": "#4 Son Goku: Childhood [Alternate Art] SB01-053",
+        "precio": "$226.22",
+        "precio_psa_10": "$422.50",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_4.png"
+      },
+      {
+        "nombre": "#5 Chi-Chi [Alternate Art] SB01-019",
+        "precio": "$201.25",
+        "precio_psa_10": "$644.59",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_5.png"
+      },
+      {
+        "nombre": "#6 Majin Buu: Evil [Alternate Art] SB01-036",
+        "precio": "$170.35",
+        "precio_psa_10": "$639.50",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_6.png"
+      },
+      {
+        "nombre": "#7 Son Goku [Alternate Art] SB01-023",
+        "precio": "$148.99",
+        "precio_psa_10": "$486.14",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_7.png"
+      },
+      {
+        "nombre": "#8 Son Goku: Childhood [Gold Holo] FB06-025",
+        "precio": "$142.99",
+        "precio_psa_10": "$275.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_8.png"
+      },
+      {
+        "nombre": "#9 Bulma [Gold Holo] SB01-045",
+        "precio": "$139.72",
+        "precio_psa_10": "$127.50",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_9.png"
+      },
+      {
+        "nombre": "#10 Cell [Gold Holo] SB01-001",
+        "precio": "$128.48",
+        "precio_psa_10": "$200.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_10.png"
+      }]
   },
   "A46": {
     "coleccion": "",
@@ -1266,64 +1325,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Uta [Manga] EB03-061",
-        "precio": "$700.00",
-        "precio_psa_10": "$756.50",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_1.png"
+        "nombre": "#1 Mega Lucario Ex #92",
+        "precio": "$258.95",
+        "precio_psa_10": "$531.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_1.png"
       },
       {
-        "nombre": "#2 Boa Hancock [SP] EB03-026",
-        "precio": "$425.00",
-        "precio_psa_10": "$1,194.24",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_2.png"
+        "nombre": "#2 Lillie's Determination #91",
+        "precio": "$148.99",
+        "precio_psa_10": "$490.89",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_2.png"
       },
       {
-        "nombre": "#3 Nami [SP] EB03-053",
-        "precio": "$421.90",
-        "precio_psa_10": "$660.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_3.png"
+        "nombre": "#3 Mega Lucario ex #88",
+        "precio": "$67.19",
+        "precio_psa_10": "$118.20",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_3.png"
       },
       {
-        "nombre": "#4 Nico Robin [SP] EB03-055",
-        "precio": "$284.02",
-        "precio_psa_10": "$313.48",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_4.png"
+        "nombre": "#4 Mega Venusaur ex #87",
+        "precio": "$50.00",
+        "precio_psa_10": "$79.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_4.png"
       },
       {
-        "nombre": "#5 Uta [SP] EB03-003",
-        "precio": "$256.10",
-        "precio_psa_10": "$250.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_5.png"
+        "nombre": "#5 Mega Absol Ex #89",
+        "precio": "$27.37",
+        "precio_psa_10": "$90.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_5.png"
       },
       {
-        "nombre": "#6 Nefeltari Vivi [SP] EB03-024",
-        "precio": "$255.12",
-        "precio_psa_10": "$322.61",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_6.png"
+        "nombre": "#6 Lillie's Determination #86",
+        "precio": "$25.76",
+        "precio_psa_10": "$132.50",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_6.png"
       },
       {
-        "nombre": "#7 Perona [SP] EB03-045",
-        "precio": "$123.96",
-        "precio_psa_10": "$346.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_7.png"
+        "nombre": "#7 Mega Lucario Ex #78",
+        "precio": "$10.24",
+        "precio_psa_10": "$48.73",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_7.png"
       },
       {
-        "nombre": "#8 DON!! Card [Heroines Special Gold]",
-        "precio": "$113.14",
-        "precio_psa_10": "$199.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_8.png"
+        "nombre": "#8 Bulbasaur #64",
+        "precio": "$10.08",
+        "precio_psa_10": "$44.71",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_8.png"
       },
       {
-        "nombre": "#9 Vinsmoke Reiju [SP] EB03-031",
-        "precio": "$102.98",
-        "precio_psa_10": "$594.47",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_9.png"
+        "nombre": "#9 Mega Venusaur Ex #76",
+        "precio": "$9.56",
+        "precio_psa_10": "$40.00",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_9.png"
       },
       {
-        "nombre": "#10 Koala [SP] EB03-042",
-        "precio": "$98.05",
-        "precio_psa_10": "$646.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-heroines-edition/one-piece-japanese-extra-booster-heroines-edition_10.png"
+        "nombre": "#10 Lt. Surge's Deal #90",
+        "precio": "$7.00",
+        "precio_psa_10": "$53.50",
+        "imagen": "images/cartas/mega-brave-pricecharting/mega-brave-pricecharting_10.png"
       }
     ]
   },
