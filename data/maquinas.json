@@ -2660,64 +2660,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Charizard V #103",
-        "precio": "$145.43",
-        "precio_psa_10": "$341.83",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_1.png"
+        "nombre": "#1 Mega Gengar ex #240",
+        "precio": "$319.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
       },
       {
-        "nombre": "#2 Charizard VSTAR #118",
-        "precio": "$52.00",
-        "precio_psa_10": "$153.51",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_2.png"
+        "nombre": "#2 Mega Dragonite ex #250",
+        "precio": "$206.65",
+        "precio_psa_10": "$610.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
       },
       {
-        "nombre": "#3 Arceus V #112",
-        "precio": "$50.03",
-        "precio_psa_10": "$116.64",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_3.png"
+        "nombre": "#3 Mega Dragonite ex #246",
+        "precio": "$185.37",
+        "precio_psa_10": "$418.05",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
       },
       {
-        "nombre": "#4 Charizard V #102",
-        "precio": "$26.80",
-        "precio_psa_10": "$72.90",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_4.png"
+        "nombre": "#4 Pikachu ex #234",
+        "precio": "$181.00",
+        "precio_psa_10": "$541.82",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
       },
       {
-        "nombre": "#5 Ultra Ball #126",
-        "precio": "$26.50",
-        "precio_psa_10": "$44.00",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_5.png"
+        "nombre": "#5 Team Rocket's Mewtwo ex #237",
+        "precio": "$107.37",
+        "precio_psa_10": "$290.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
       },
       {
-        "nombre": "#6 Cynthia's Ambition #114",
-        "precio": "$19.99",
-        "precio_psa_10": "$57.00",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_6.png"
+        "nombre": "#6 N's Zoroark ex #242",
+        "precio": "$65.24",
+        "precio_psa_10": "$169.50",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
       },
       {
-        "nombre": "#7 Arceus VSTAR #125",
-        "precio": "$15.63",
-        "precio_psa_10": "$46.91",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_7.png"
+        "nombre": "#7 Iono's Bellibolt ex #236",
+        "precio": "$48.10",
+        "precio_psa_10": "$145.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
       },
       {
-        "nombre": "#8 Lumineon V #105",
-        "precio": "$15.49",
-        "precio_psa_10": "$40.02",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_8.png"
+        "nombre": "#8 Canari #248",
+        "precio": "$39.94",
+        "precio_psa_10": "$205.01",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
       },
       {
-        "nombre": "#9 Arceus VSTAR #120",
-        "precio": "$13.43",
-        "precio_psa_10": "$43.16",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_9.png"
+        "nombre": "#9 Mega Charizard X ex #223",
+        "precio": "$37.55",
+        "precio_psa_10": "$162.78",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
       },
       {
-        "nombre": "#10 Cynthia's Ambition #122",
-        "precio": "$11.50",
-        "precio_psa_10": "$39.03",
-        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_10.png"
+        "nombre": "#10 Marnie's Grimmsnarl ex #243",
+        "precio": "$35.30",
+        "precio_psa_10": "$120.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
       }
     ]
   },
