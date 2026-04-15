@@ -3408,64 +3408,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Miriam #105",
-        "precio": "$95.00",
-        "precio_psa_10": "$240.73",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_1.png"
+        "nombre": "#1 Latias EX #87",
+        "precio": "$128.51",
+        "precio_psa_10": "$189.95",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_1.png"
       },
       {
-        "nombre": "#2 Miraidon EX #102",
-        "precio": "$39.99",
-        "precio_psa_10": "$64.91",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_2.png"
+        "nombre": "#2 Lisia's Appeal #91",
+        "precio": "$72.50",
+        "precio_psa_10": "$238.59",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_2.png"
       },
       {
-        "nombre": "#3 Miriam #100",
-        "precio": "$18.32",
-        "precio_psa_10": "$48.25",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_3.png"
+        "nombre": "#3 Alolan Exeggutor ex #89",
+        "precio": "$21.72",
+        "precio_psa_10": "$56.00",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_3.png"
       },
       {
-        "nombre": "#4 Lightning Energy #108",
-        "precio": "$15.16",
-        "precio_psa_10": "$19.24",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_4.png"
+        "nombre": "#4 Latios #70",
+        "precio": "$10.29",
+        "precio_psa_10": "$50.65",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_4.png"
       },
       {
-        "nombre": "#5 Miraidon EX #106",
-        "precio": "$12.55",
-        "precio_psa_10": "$47.00",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_5.png"
+        "nombre": "#5 Lisia's Appeal #86",
+        "precio": "$10.00",
+        "precio_psa_10": "$87.51",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_5.png"
       },
       {
-        "nombre": "#6 Drowzee #86",
-        "precio": "$10.89",
-        "precio_psa_10": "$59.99",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_6.png"
+        "nombre": "#6 Alolan Exeggutor ex #92",
+        "precio": "$8.42",
+        "precio_psa_10": "$37.50",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_6.png"
       },
       {
-        "nombre": "#7 Spidops EX #101",
-        "precio": "$10.81",
-        "precio_psa_10": "$37.92",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_7.png"
+        "nombre": "#7 Archaludon ex #88",
+        "precio": "$8.25",
+        "precio_psa_10": "$34.50",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_7.png"
       },
       {
-        "nombre": "#8 Rare Candy #107",
-        "precio": "$9.99",
-        "precio_psa_10": "$41.98",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_8.png"
+        "nombre": "#8 Drayton #90",
+        "precio": "$7.69",
+        "precio_psa_10": "$33.00",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_8.png"
       },
       {
-        "nombre": "#9 Slowpoke #82",
-        "precio": "$9.78",
-        "precio_psa_10": "$51.00",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_9.png"
+        "nombre": "#9 Jet Energy #94",
+        "precio": "$6.76",
+        "precio_psa_10": "$22.50",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_9.png"
       },
       {
-        "nombre": "#10 Arven #104",
-        "precio": "$9.51",
-        "precio_psa_10": "$28.09",
-        "imagen": "images/cartas/pokemon-japanese-violet-ex/pokemon-japanese-violet-ex_10.png"
+        "nombre": "#10 Latias EX #78",
+        "precio": "$5.45",
+        "precio_psa_10": "$37.62",
+        "imagen": "images/cartas/pokemon-japanese-paradise-dragona/pokemon-japanese-paradise-dragona_10.png"
       }
     ]
   },
