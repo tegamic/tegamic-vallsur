@@ -2149,64 +2149,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Rayquaza VMAX #83",
-        "precio": "$1,250.00",
-        "precio_psa_10": "$3,822.58",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_1.png"
+        "nombre": "#1 Zekrom ex #174",
+        "precio": "$226.55",
+        "precio_psa_10": "$447.50",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_1.png"
       },
       {
-        "nombre": "#2 Rayquaza V #76",
-        "precio": "$329.57",
-        "precio_psa_10": "$1,129.18",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_2.png"
+        "nombre": "#2 Zekrom Ex #169",
+        "precio": "$132.99",
+        "precio_psa_10": "$198.25",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_2.png"
       },
       {
-        "nombre": "#3 Dragonite V #74",
-        "precio": "$257.24",
-        "precio_psa_10": "$654.61",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_3.png"
+        "nombre": "#3 Seismitoad #109",
+        "precio": "$54.09",
+        "precio_psa_10": "$110.50",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_3.png"
       },
       {
-        "nombre": "#4 Rayquaza VMAX #82",
-        "precio": "$54.41",
-        "precio_psa_10": "$180.67",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_4.png"
+        "nombre": "#4 N's Plot #173",
+        "precio": "$48.34",
+        "precio_psa_10": "$163.06",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_4.png"
       },
       {
-        "nombre": "#5 Lightning Energy #90",
-        "precio": "$23.83",
-        "precio_psa_10": "$39.73",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_5.png"
+        "nombre": "#5 Kyurem Ex #168",
+        "precio": "$31.90",
+        "precio_psa_10": "$62.75",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_5.png"
       },
       {
-        "nombre": "#6 Medicham V #72",
-        "precio": "$21.71",
-        "precio_psa_10": "$74.10",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_6.png"
+        "nombre": "#6 Serperior ex #167",
+        "precio": "$22.48",
+        "precio_psa_10": "$62.85",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_6.png"
       },
       {
-        "nombre": "#7 Gyarados VMAX #81",
-        "precio": "$20.50",
-        "precio_psa_10": "$88.92",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_7.png"
+        "nombre": "#7 Meloetta Ex #170",
+        "precio": "$19.99",
+        "precio_psa_10": "$61.46",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_7.png"
       },
       {
-        "nombre": "#8 Shauna #77",
-        "precio": "$18.62",
-        "precio_psa_10": "$66.25",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_8.png"
+        "nombre": "#8 Genesect Ex #172",
+        "precio": "$18.49",
+        "precio_psa_10": "$67.45",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_8.png"
       },
       {
-        "nombre": "#9 Rayquaza V #75",
-        "precio": "$18.44",
-        "precio_psa_10": "$104.20",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_9.png"
+        "nombre": "#9 Victini [Master Ball] #12",
+        "precio": "$15.59",
+        "precio_psa_10": "$73.31",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_9.png"
       },
       {
-        "nombre": "#10 Zinnia's Resolve #79",
-        "precio": "$17.50",
-        "precio_psa_10": "$56.00",
-        "imagen": "images/cartas/blue-sky-pricecharting/blue-sky-pricecharting_10.png"
+        "nombre": "#10 Victini #97",
+        "precio": "$13.00",
+        "precio_psa_10": "$51.25",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_10.png"
       }
     ]
   },
@@ -2478,64 +2478,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Charizard ex #134",
-        "precio": "$154.60",
-        "precio_psa_10": "$424.99",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_1.png"
+        "nombre": "#1 Team Rocket's Mewtwo ex #125",
+        "precio": "$274.37",
+        "precio_psa_10": "$490.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_1.png"
       },
       {
-        "nombre": "#2 Charizard ex #139",
-        "precio": "$47.89",
-        "precio_psa_10": "$132.47",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_2.png"
+        "nombre": "#2 Team Rocket's Moltres ex #124",
+        "precio": "$97.63",
+        "precio_psa_10": "$158.75",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_2.png"
       },
       {
-        "nombre": "#3 Pidgeot ex #136",
-        "precio": "$23.45",
-        "precio_psa_10": "$55.00",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_3.png"
+        "nombre": "#3 Team Rocket's Nidoking ex #126",
+        "precio": "$62.66",
+        "precio_psa_10": "$100.98",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_3.png"
       },
       {
-        "nombre": "#4 Charizard ex #125",
-        "precio": "$18.59",
-        "precio_psa_10": "$70.69",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_4.png"
+        "nombre": "#4 Team Rocket's Crobat ex #127",
+        "precio": "$45.00",
+        "precio_psa_10": "$80.50",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_4.png"
       },
       {
-        "nombre": "#5 Poppy #138",
-        "precio": "$12.92",
-        "precio_psa_10": "$33.50",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_5.png"
+        "nombre": "#5 Team Rocket's Mewtwo ex #130",
+        "precio": "$41.49",
+        "precio_psa_10": "$76.22",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_5.png"
       },
       {
-        "nombre": "#6 Artazon #140",
-        "precio": "$11.07",
-        "precio_psa_10": "$25.58",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_6.png"
+        "nombre": "#6 Team Rocket's Giovanni #129",
+        "precio": "$19.99",
+        "precio_psa_10": "$80.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_6.png"
       },
       {
-        "nombre": "#7 Fire Energy #141",
-        "precio": "$10.90",
-        "precio_psa_10": "$39.99",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_7.png"
+        "nombre": "#7 Team Rocket's Ariana #128",
+        "precio": "$19.27",
+        "precio_psa_10": "$92.50",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_7.png"
       },
       {
-        "nombre": "#8 Ninetales #110",
-        "precio": "$10.55",
-        "precio_psa_10": "$56.72",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_8.png"
+        "nombre": "#8 Team Rocket's Mewtwo ex #114",
+        "precio": "$18.99",
+        "precio_psa_10": "$68.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_8.png"
       },
       {
-        "nombre": "#9 Cleffa #113",
-        "precio": "$10.46",
-        "precio_psa_10": "$61.60",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_9.png"
+        "nombre": "#9 Team Rocket's Crobat ex #131",
+        "precio": "$17.42",
+        "precio_psa_10": "$41.75",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_9.png"
       },
       {
-        "nombre": "#10 Geeta #137",
-        "precio": "$9.73",
-        "precio_psa_10": "$33.25",
-        "imagen": "images/cartas/black-flame-pricecharting/black-flame-pricecharting_10.png"
+        "nombre": "#10 Jamming Tower #132",
+        "precio": "$12.72",
+        "precio_psa_10": "$30.00",
+        "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_10.png"
       }
     ]
   },
