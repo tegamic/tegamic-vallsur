@@ -1062,64 +1062,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Son Goku [Super Alternate Art] FB01-139",
-        "precio": "$561.38",
-        "precio_psa_10": "$2,600.00",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_1.png"
+        "nombre": "#1 Monkey.D.Luffy [SP Gold] OP05-119",
+        "precio": "$1,786.28",
+        "precio_psa_10": "$5,875.78",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_1.png"
       },
       {
-        "nombre": "#2 Son Gohan: Childhood [Alternate Art] FB01-140",
-        "precio": "$203.75",
-        "precio_psa_10": "$237.47",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_2.png"
+        "nombre": "#2 Monkey.D.Luffy [SP Silver] OP05-119",
+        "precio": "$908.48",
+        "precio_psa_10": "$1,744.86",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_2.png"
       },
       {
-        "nombre": "#3 Son Goku [Alternate Art] FB01-139",
-        "precio": "$114.49",
-        "precio_psa_10": "$162.28",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_3.png"
+        "nombre": "#3 Monkey.D.Luffy [Manga] OP11-118",
+        "precio": "$649.94",
+        "precio_psa_10": "$797.00",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_3.png"
       },
       {
-        "nombre": "#4 Goku Black [Alternate Art] FB01-035",
-        "precio": "$72.99",
-        "precio_psa_10": "$101.28",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_4.png"
+        "nombre": "#4 Koby [Flagship Battle] OP11-119",
+        "precio": "$147.59",
+        "precio_psa_10": "$288.61",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_4.png"
       },
       {
-        "nombre": "#5 Son Gohan: Childhood [Alternate Art Holo] FB01-071",
-        "precio": "$70.00",
-        "precio_psa_10": "$120.00",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_5.png"
+        "nombre": "#5 Gear Two [Alternate Art] OP11-080",
+        "precio": "$136.81",
+        "precio_psa_10": "$321.43",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_5.png"
       },
       {
-        "nombre": "#6 Trunks: Future [Alternate Art] FB01-036",
-        "precio": "$55.00",
-        "precio_psa_10": "$77.84",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_6.png"
+        "nombre": "#6 Luffy-Tarou [SP] ST18-005",
+        "precio": "$134.87",
+        "precio_psa_10": "$289.99",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_6.png"
       },
       {
-        "nombre": "#7 Son Goku [Alternate Art] FB01-001",
-        "precio": "$50.43",
-        "precio_psa_10": "$73.85",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_7.png"
+        "nombre": "#7 Stussy [SP] OP07-085",
+        "precio": "$95.92",
+        "precio_psa_10": "$228.61",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_7.png"
       },
       {
-        "nombre": "#8 Cooler [Alternate Art] FB01-105",
-        "precio": "$32.98",
-        "precio_psa_10": "$30.00",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_8.png"
-      },
-      {
-        "nombre": "#9 Android 17 [Alternate Art Holo] FB01-070",
-        "precio": "$29.92",
+        "nombre": "#8 Zeus [Bandai Alternate Art] OP11-106",
+        "precio": "$86.00",
         "precio_psa_10": "",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_9.png"
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_8.png"
       },
       {
-        "nombre": "#10 Trunks : Future [Dokkan Battle Alternate Art] FB01-049",
-        "precio": "$27.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/dragon-ball-fusion-world-awakened-pulse/dragon-ball-fusion-world-awakened-pulse_10.png"
+        "nombre": "#9 Shanks [SP Alternate Art] ST16-004",
+        "precio": "$84.15",
+        "precio_psa_10": "$111.41",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_9.png"
+      },
+      {
+        "nombre": "#10 Sanji [SP] OP06-119",
+        "precio": "$78.79",
+        "precio_psa_10": "$206.10",
+        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_10.png"
       }
     ]
   },
@@ -1127,70 +1127,6 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Monkey.D.Luffy [Manga] EB02-061",
-        "precio": "$696.94",
-        "precio_psa_10": "$2,027.88",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_1.png"
-      },
-      {
-        "nombre": "#2 Boa Hancock OP07-038",
-        "precio": "$296.76",
-        "precio_psa_10": "$519.35",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_2.png"
-      },
-      {
-        "nombre": "#3 Monkey.D.Luffy [Alternate Art] EB02-010",
-        "precio": "$145.50",
-        "precio_psa_10": "$414.42",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_3.png"
-      },
-      {
-        "nombre": "#4 Monkey.D.Luffy OP05-060",
-        "precio": "$123.29",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_4.png"
-      },
-      {
-        "nombre": "#5 Tony Tony.Chopper OP08-001",
-        "precio": "$112.30",
-        "precio_psa_10": "$369.95",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_5.png"
-      },
-      {
-        "nombre": "#6 Jewelry Bonney OP07-019",
-        "precio": "$106.66",
-        "precio_psa_10": "$154.40",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_6.png"
-      },
-      {
-        "nombre": "#7 Perona OP06-021",
-        "precio": "$95.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_7.png"
-      },
-      {
-        "nombre": "#8 Uta OP06-001",
-        "precio": "$94.65",
-        "precio_psa_10": "$176.18",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_8.png"
-      },
-      {
-        "nombre": "#9 Vinsmoke Reiju OP06-042",
-        "precio": "$82.88",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_9.png"
-      },
-      {
-        "nombre": "#10 Kouzuki Oden EB01-001",
-        "precio": "$69.04",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_10.png"
-      }
-    ]
-  },
-  "A45": {
-    "coleccion": "",
-    "cartas": [{
         "nombre": "#1 Son Goku [Super Alternate Art] FB05-119",
         "precio": "$545.42",
         "precio_psa_10": "$5,154.64",
@@ -1249,11 +1185,76 @@
         "precio": "$128.48",
         "precio_psa_10": "$200.00",
         "imagen": "images/cartas/dragon-ball-fusion-world-manga-booster-01/dragon-ball-fusion-world-manga-booster-01_10.png"
-      }]
+      }
+    ]
+  },
+  "A45": {
+    "coleccion": "",
+    "cartas": []
   },
   "A46": {
     "coleccion": "",
     "cartas": [
+       {
+        "nombre": "#1 Monkey.D.Luffy [Manga] EB02-061",
+        "precio": "$855.57",
+        "precio_psa_10": "$2,115.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_1.png"
+      },
+      {
+        "nombre": "#2 Monkey.D.Luffy EB02-061",
+        "precio": "$7.65",
+        "precio_psa_10": "$25.12",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_2.png"
+      },
+      {
+        "nombre": "#3 Monkey.D.Luffy [Alternate Art] EB02-010",
+        "precio": "$157.72",
+        "precio_psa_10": "$384.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_3.png"
+      },
+      {
+        "nombre": "#4 Boa Hancock OP07-038",
+        "precio": "$350.46",
+        "precio_psa_10": "$619.67",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_4.png"
+      },
+      {
+        "nombre": "#5 We Are EB02-020",
+        "precio": "$2.00",
+        "precio_psa_10": "$52.22",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_5.png"
+      },
+      {
+        "nombre": "#6 Monkey.D.Luffy [Alternate Art] EB02-061",
+        "precio": "$21.85",
+        "precio_psa_10": "$57.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_6.png"
+      },
+      {
+        "nombre": "#7 Nami [Alternate Art] EB02-017",
+        "precio": "$17.54",
+        "precio_psa_10": "$68.39",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_7.png"
+      },
+      {
+        "nombre": "#8 Tony Tony.Chopper [Alternate Art] EB02-003",
+        "precio": "$7.93",
+        "precio_psa_10": "$88.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_8.png"
+      },
+      {
+        "nombre": "#9 Monkey.D.Luffy OP05-060",
+        "precio": "$61.59",
+        "precio_psa_10": "$640.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_9.png"
+      },
+      {
+        "nombre": "#10 UUUUUS FEB02-058",
+        "precio": "$1.75",
+        "precio_psa_10": "$77.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_10.png"
+      }
     ]
   },
   "A51": {
