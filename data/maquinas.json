@@ -710,64 +710,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Umbreon Ex #217",
-        "precio": "$328.00",
-        "precio_psa_10": "$520.00",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_1.png"
+        "nombre": "#1 Tony Tony.Chopper [Alternate Art Manga] EB01-006",
+        "precio": "$776.73",
+        "precio_psa_10": "$1,531.50",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_1.png"
       },
       {
-        "nombre": "#2 Sylveon Ex #212",
-        "precio": "$107.28",
-        "precio_psa_10": "$185.00",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_2.png"
+        "nombre": "#2 Cavendish [Flagship Battle] EB01-012",
+        "precio": "$55.70",
+        "precio_psa_10": "$89.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_2.png"
       },
       {
-        "nombre": "#3 Leafeon Ex #200",
-        "precio": "$57.18",
-        "precio_psa_10": "$109.99",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_3.png"
+        "nombre": "#3 Mr.2.Bon.Kurei Bentham [Alternate Art] EB01-061",
+        "precio": "$36.98",
+        "precio_psa_10": "$76.50",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_3.png"
       },
       {
-        "nombre": "#4 Espeon Ex #211",
-        "precio": "$57.15",
-        "precio_psa_10": "$113.51",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_4.png"
+        "nombre": "#4 Charlotte Flampe [SP] EB01-056",
+        "precio": "$35.03",
+        "precio_psa_10": "$39.19",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_4.png"
       },
       {
-        "nombre": "#5 Vaporeon Ex #205",
-        "precio": "$52.67",
-        "precio_psa_10": "$107.50",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_5.png"
+        "nombre": "#5 Spandine [Storage Box Set Gold] EB01-043",
+        "precio": "$25.73",
+        "precio_psa_10": "$133.53",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_5.png"
       },
       {
-        "nombre": "#6 Umbreon [Master Ball] #92",
-        "precio": "$49.99",
-        "precio_psa_10": "$143.32",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_6.png"
+        "nombre": "#6 Tony Tony.Chopper [Alternate Art] EB01-006",
+        "precio": "$16.00",
+        "precio_psa_10": "$97.22",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_6.png"
       },
       {
-        "nombre": "#7 Glaceon Ex #206",
-        "precio": "$48.50",
-        "precio_psa_10": "$107.50",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_7.png"
+        "nombre": "#7 Laboon [Alternate Art] EB01-048",
+        "precio": "$13.76",
+        "precio_psa_10": "$104.15",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_7.png"
       },
       {
-        "nombre": "#8 Flareon Ex #202",
-        "precio": "$46.39",
-        "precio_psa_10": "$95.99",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_8.png"
+        "nombre": "#8 Kouzuki Oden [Alternate Art] EB01-001",
+        "precio": "$12.97",
+        "precio_psa_10": "$49.85",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_8.png"
       },
       {
-        "nombre": "#9 Pikachu Ex #236",
-        "precio": "$44.25",
-        "precio_psa_10": "$141.50",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_9.png"
+        "nombre": "#9 Brook [Alternate Art] EB01-046",
+        "precio": "$11.85",
+        "precio_psa_10": "$73.34",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_9.png"
       },
       {
-        "nombre": "#10 Jolteon Ex #209",
-        "precio": "$40.13",
-        "precio_psa_10": "$99.99",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_10.png"
+        "nombre": "#10 Hannyabal [Alternate Art] EB01-021",
+        "precio": "$10.00",
+        "precio_psa_10": "$41.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_10.png"
       }
     ]
   },
@@ -849,7 +849,68 @@
   },
   "A33": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [
+      {
+        "nombre": "#1 Mega Gengar ex #240",
+        "precio": "$319.99",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
+      },
+      {
+        "nombre": "#2 Mega Dragonite ex #250",
+        "precio": "$206.65",
+        "precio_psa_10": "$610.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
+      },
+      {
+        "nombre": "#3 Mega Dragonite ex #246",
+        "precio": "$185.37",
+        "precio_psa_10": "$418.05",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
+      },
+      {
+        "nombre": "#4 Pikachu ex #234",
+        "precio": "$181.00",
+        "precio_psa_10": "$541.82",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
+      },
+      {
+        "nombre": "#5 Team Rocket's Mewtwo ex #237",
+        "precio": "$107.37",
+        "precio_psa_10": "$290.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
+      },
+      {
+        "nombre": "#6 N's Zoroark ex #242",
+        "precio": "$65.24",
+        "precio_psa_10": "$169.50",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
+      },
+      {
+        "nombre": "#7 Iono's Bellibolt ex #236",
+        "precio": "$48.10",
+        "precio_psa_10": "$145.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
+      },
+      {
+        "nombre": "#8 Canari #248",
+        "precio": "$39.94",
+        "precio_psa_10": "$205.01",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
+      },
+      {
+        "nombre": "#9 Mega Charizard X ex #223",
+        "precio": "$37.55",
+        "precio_psa_10": "$162.78",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
+      },
+      {
+        "nombre": "#10 Marnie's Grimmsnarl ex #243",
+        "precio": "$35.30",
+        "precio_psa_10": "$120.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
+      }
+    ]
   },
   "A34": {
     "coleccion": "",
@@ -2414,64 +2475,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Tony Tony.Chopper [Alternate Art Manga] EB01-006",
-        "precio": "$776.73",
-        "precio_psa_10": "$1,531.50",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_1.png"
+        "nombre": "#1 Morty's Confidence #97",
+        "precio": "$46.36",
+        "precio_psa_10": "$114.43",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_1.png"
       },
       {
-        "nombre": "#2 Cavendish [Flagship Battle] EB01-012",
-        "precio": "$55.70",
-        "precio_psa_10": "$89.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_2.png"
+        "nombre": "#2 Raging Bolt ex #95",
+        "precio": "$44.40",
+        "precio_psa_10": "$79.58",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_2.png"
       },
       {
-        "nombre": "#3 Mr.2.Bon.Kurei Bentham [Alternate Art] EB01-061",
-        "precio": "$36.98",
-        "precio_psa_10": "$76.50",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_3.png"
+        "nombre": "#3 Walking Wake ex #94",
+        "precio": "$29.76",
+        "precio_psa_10": "$64.35",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_3.png"
       },
       {
-        "nombre": "#4 Charlotte Flampe [SP] EB01-056",
-        "precio": "$35.03",
-        "precio_psa_10": "$39.19",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_4.png"
+        "nombre": "#4 Gengar ex #88",
+        "precio": "$28.62",
+        "precio_psa_10": "$140.23",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_4.png"
       },
       {
-        "nombre": "#5 Spandine [Storage Box Set Gold] EB01-043",
-        "precio": "$25.73",
-        "precio_psa_10": "$133.53",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_5.png"
+        "nombre": "#5 Gouging Fire ex #93",
+        "precio": "$24.45",
+        "precio_psa_10": "$51.00",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_5.png"
       },
       {
-        "nombre": "#6 Tony Tony.Chopper [Alternate Art] EB01-006",
-        "precio": "$16.00",
-        "precio_psa_10": "$97.22",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_6.png"
+        "nombre": "#6 Gastly #80",
+        "precio": "$21.30",
+        "precio_psa_10": "$70.50",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_6.png"
       },
       {
-        "nombre": "#7 Laboon [Alternate Art] EB01-048",
-        "precio": "$13.76",
-        "precio_psa_10": "$104.15",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_7.png"
+        "nombre": "#7 Raging Bolt ex #100",
+        "precio": "$15.76",
+        "precio_psa_10": "$45.90",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_7.png"
       },
       {
-        "nombre": "#8 Kouzuki Oden [Alternate Art] EB01-001",
-        "precio": "$12.97",
-        "precio_psa_10": "$49.85",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_8.png"
+        "nombre": "#8 Eri #96",
+        "precio": "$14.10",
+        "precio_psa_10": "$47.03",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_8.png"
       },
       {
-        "nombre": "#9 Brook [Alternate Art] EB01-046",
-        "precio": "$11.85",
-        "precio_psa_10": "$73.34",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_9.png"
+        "nombre": "#9 Gouging Fire ex #98",
+        "precio": "$9.00",
+        "precio_psa_10": "$29.08",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_9.png"
       },
       {
-        "nombre": "#10 Hannyabal [Alternate Art] EB01-021",
-        "precio": "$10.00",
-        "precio_psa_10": "$41.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-memorial-collection/one-piece-japanese-extra-booster-memorial-collection_10.png"
+        "nombre": "#10 Walking Wake ex #99",
+        "precio": "$8.28",
+        "precio_psa_10": "$40.25",
+        "imagen": "images/cartas/pokemon-japanese-wild-force/pokemon-japanese-wild-force_10.png"
       }
     ]
   },
