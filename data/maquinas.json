@@ -2016,65 +2016,55 @@
     "coleccion": "",
     "cartas": [
      {
-        "nombre": "#1 Trafalgar Law [Manga Alternate Art] OP10-119",
-        "precio": "$378.80",
-        "precio_psa_10": "$1,056.00",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_1.png"
-      },
-      {
-        "nombre": "#2 Sugar OP10-003",
-        "precio": "$37.21",
-        "precio_psa_10": "$7.50",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_2.png"
-      },
-      {
-        "nombre": "#3 Divine Departure [Alternate Art] OP10-019",
-        "precio": "$35.00",
-        "precio_psa_10": "$92.29",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_3.png"
-      },
-      {
-        "nombre": "#4 Monkey.D.Luffy [Alternate Art] OP10-118",
-        "precio": "$23.49",
-        "precio_psa_10": "$99.46",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_4.png"
-      },
-      {
-        "nombre": "#5 Usopp OP10-042",
-        "precio": "$22.91",
-        "precio_psa_10": "$29.00",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_5.png"
-      },
-      {
-        "nombre": "#6 Usopp [Playmat Limited Edition] OP10-042",
-        "precio": "$22.69",
-        "precio_psa_10": "$94.58",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_6.png"
-      },
-      {
-        "nombre": "#7 Trafalgar Law [Alternate Art] OP10-119",
-        "precio": "$17.12",
-        "precio_psa_10": "$81.33",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_7.png"
-      },
-      {
-        "nombre": "#8 Usopp [Alternate Art] OP10-042",
-        "precio": "$12.13",
-        "precio_psa_10": "$84.00",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_8.png"
-      },
-      {
-        "nombre": "#9 Trafalgar Law [Alternate Art] OP10-022",
-        "precio": "$12.00",
-        "precio_psa_10": "$41.00",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_9.png"
-      },
-      {
-        "nombre": "#10 Tashigi [Alternate Art] OP10-032",
-        "precio": "$10.50",
-        "precio_psa_10": "$23.52",
-        "imagen": "images/cartas/one-piece-japanese-royal-blood/one-piece-japanese-royal-blood_10.png"
-      }
+            "nombre": "#1 Charizard ex (sv3 134)",
+            "precio": "85.00€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_1.png"
+          },
+          {
+            "nombre": "#2 Charizard ex (sv3 139)",
+            "precio": "22.00€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_2.png"
+          },
+          {
+            "nombre": "#3 Pidgeot ex (sv3 136)",
+            "precio": "18.00€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_3.png"
+          },
+          {
+            "nombre": "#4 Ninetales (sv3 110)",
+            "precio": "7.49€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_4.png"
+          },
+          {
+            "nombre": "#5 Cleffa (sv3 113)",
+            "precio": "7.00€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_5.png"
+          },
+          {
+            "nombre": "#6 Basic Fire Energy (sv3 141)",
+            "precio": "6.50€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_6.png"
+          },
+          {
+            "nombre": "#7 Artazon (sv3 140)",
+            "precio": "4.99€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_7.png"
+          },
+          {
+            "nombre": "#8 Eiscue ex (sv3 133)",
+            "precio": "4.95€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_8.png"
+          },
+          {
+            "nombre": "#9 Geeta (sv3 137)",
+            "precio": "3.50€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_9.png"
+          },
+          {
+            "nombre": "#10 Revavroom ex (sv3 135)",
+            "precio": "3.00€",
+            "imagen": "images/cartas/ruler-of-the-black-flame/ruler-of-the-black-flame_10.png"
+          }
     ]
   },
   "A15": {
