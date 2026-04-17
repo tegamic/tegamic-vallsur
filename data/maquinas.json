@@ -1774,64 +1774,10 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Gengar ex #284",
+        "nombre": "#1 Coonuts",
         "precio": "$1,063.71",
         "precio_psa_10": "$3,075.00",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_1.png"
-      },
-      {
-        "nombre": "#2 Mega Dragonite ex #290",
-        "precio": "$617.50",
-        "precio_psa_10": "$2,002.41",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_2.png"
-      },
-      {
-        "nombre": "#3 Pikachu ex #276",
-        "precio": "$549.99",
-        "precio_psa_10": "$2,418.75",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_3.png"
-      },
-      {
-        "nombre": "#4 Mega Charizard Y ex #294",
-        "precio": "$473.12",
-        "precio_psa_10": "$3,669.13",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_4.png"
-      },
-      {
-        "nombre": "#5 Pikachu ex #277",
-        "precio": "$350.00",
-        "precio_psa_10": "$1,314.61",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_5.png"
-      },
-      {
-        "nombre": "#6 Team Rocket's Mewtwo Ex #281",
-        "precio": "$312.00",
-        "precio_psa_10": "$1,062.50",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_6.png"
-      },
-      {
-        "nombre": "#7 Mega Dragonite ex #295",
-        "precio": "$295.18",
-        "precio_psa_10": "$3,250.00",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_7.png"
-      },
-      {
-        "nombre": "#8 Lillie's Clefairy Ex #280",
-        "precio": "$189.99",
-        "precio_psa_10": "$562.00",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_8.png"
-      },
-      {
-        "nombre": "#9 N's Zoroark ex #286",
-        "precio": "$139.55",
-        "precio_psa_10": "$392.11",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_9.png"
-      },
-      {
-        "nombre": "#10 Mega Feraligatr Ex #274",
-        "precio": "$139.47",
-        "precio_psa_10": "$540.00",
-        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_10.png"
+        "imagen": "images/cartas/COONUTS/COONUTS.png"
       }
     ]
   }
