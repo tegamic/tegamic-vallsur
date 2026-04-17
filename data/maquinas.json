@@ -1774,9 +1774,9 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Coonuts",
-        "precio": "$1,063.71",
-        "precio_psa_10": "$3,075.00",
+        "nombre": "#1 Coonuts (incluye chicle)",
+        "precio": "2.90€",
+        "precio_psa_10": "No disponible",
         "imagen": "images/cartas/COONUTS/COONUTS.png"
       }
     ]
