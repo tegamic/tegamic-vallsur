@@ -987,26 +987,26 @@
     "cartas": [
       {
         "nombre": "#1 Ultimate Sparking [Alternate Art] FB05-115",
-        "precio": "$1.857.13",
-        "precio_psa_10": "$2.072.37",
+        "precio": "$1,857.13",
+        "precio_psa_10": "$2,072.37",
         "imagen": "images/cartas/dragon-ball-fusion-world-new-adventure/dragon-ball-fusion-world-new-adventure_1.png"
       },
       {
         "nombre": "#2 Frieza [Super Alternate Art] FB05-120",
         "precio": "$830.17",
-        "precio_psa_10": "$1.787.65",
+        "precio_psa_10": "$1,787.65",
         "imagen": "images/cartas/dragon-ball-fusion-world-new-adventure/dragon-ball-fusion-world-new-adventure_2.png"
       },
       {
         "nombre": "#3 Son Goku [Alternate Art] FB05-119",
         "precio": "$612.99",
-        "precio_psa_10": "$1.300.00",
+        "precio_psa_10": "$1,300.00",
         "imagen": "images/cartas/dragon-ball-fusion-world-new-adventure/dragon-ball-fusion-world-new-adventure_3.png"
       },
       {
         "nombre": "#4 Son Goku [Super Alternate Art] FB05-119",
         "precio": "$610.00",
-        "precio_psa_10": "$1.230.00",
+        "precio_psa_10": "$1,230.00",
         "imagen": "images/cartas/dragon-ball-fusion-world-new-adventure/dragon-ball-fusion-world-new-adventure_4.png"
       },
       {
