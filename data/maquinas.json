@@ -313,63 +313,62 @@
   "A15": {
     "coleccion": "",
     "cartas": [{
-      
         "nombre": "#1 Mega Greninja Ex #120",
-        "precio": "$501.00",
-        "precio_psa_10": "",
+        "precio": "$519.23",
+        "precio_psa_10": "$2,400.00",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_1.png"
       },
       {
-        "nombre": "#2 Mega Greninja Ex #144",
-        "precio": "$316.00",
-        "precio_psa_10": "",
+        "nombre": "#2 Mega Greninja Ex #114",
+        "precio": "$305.40",
+        "precio_psa_10": "$810.00",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_2.png"
       },
       {
         "nombre": "#3 Cinccino Ex #117",
-        "precio": "$40.12",
+        "precio": "$40.25",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_3.png"
       },
       {
-        "nombre": "#4 Mega Floette Ex #115",
-        "precio": "$28.63",
+        "nombre": "#4 Mega Greninja Ex #98",
+        "precio": "$26.30",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_4.png"
       },
       {
-        "nombre": "#5 Mega Greninja Ex #98",
-        "precio": "$27.16",
+        "nombre": "#5 Mega Dragalge Ex #116",
+        "precio": "$22.77",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_5.png"
       },
       {
-        "nombre": "#6 Mega Dragalge Ex #116",
-        "precio": "$25.32",
+        "nombre": "#6 Mega Floette Ex #115",
+        "precio": "$21.62",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_6.png"
       },
       {
         "nombre": "#7 Roxie's Performance #119",
-        "precio": "$24.99",
+        "precio": "$18.97",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_7.png"
       },
       {
-        "nombre": "#8 AZ's Tranquility #118",
-        "precio": "$17.92",
+        "nombre": "#8 Roxie's Performance",
+        "precio": "$15.00",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_8.png"
       },
       {
-        "nombre": "#9 Froakie #86",
-        "precio": "$11.73",
+        "nombre": "#9 AZ's Tranquility #118",
+        "precio": "$12.89",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_9.png"
       },
       {
-        "nombre": "#10 Emma #111",
-        "precio": "$10.49",
+        "nombre": "#10 Froakie #86",
+        "precio": "$8.61",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_10.png"
       }
@@ -1825,63 +1824,62 @@
   "A12": {
     "coleccion": "",
     "cartas": [{
-      
         "nombre": "#1 Mega Greninja Ex #120",
-        "precio": "$501.00",
-        "precio_psa_10": "",
+        "precio": "$519.23",
+        "precio_psa_10": "$2,400.00",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_1.png"
       },
       {
-        "nombre": "#2 Mega Greninja Ex #144",
-        "precio": "$316.00",
-        "precio_psa_10": "",
+        "nombre": "#2 Mega Greninja Ex #114",
+        "precio": "$305.40",
+        "precio_psa_10": "$810.00",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_2.png"
       },
       {
         "nombre": "#3 Cinccino Ex #117",
-        "precio": "$40.12",
+        "precio": "$40.25",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_3.png"
       },
       {
-        "nombre": "#4 Mega Floette Ex #115",
-        "precio": "$28.63",
+        "nombre": "#4 Mega Greninja Ex #98",
+        "precio": "$26.30",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_4.png"
       },
       {
-        "nombre": "#5 Mega Greninja Ex #98",
-        "precio": "$27.16",
+        "nombre": "#5 Mega Dragalge Ex #116",
+        "precio": "$22.77",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_5.png"
       },
       {
-        "nombre": "#6 Mega Dragalge Ex #116",
-        "precio": "$25.32",
+        "nombre": "#6 Mega Floette Ex #115",
+        "precio": "$21.62",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_6.png"
       },
       {
         "nombre": "#7 Roxie's Performance #119",
-        "precio": "$24.99",
+        "precio": "$18.97",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_7.png"
       },
       {
-        "nombre": "#8 AZ's Tranquility #118",
-        "precio": "$17.92",
+        "nombre": "#8 Roxie's Performance",
+        "precio": "$15.00",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_8.png"
       },
       {
-        "nombre": "#9 Froakie #86",
-        "precio": "$11.73",
+        "nombre": "#9 AZ's Tranquility #118",
+        "precio": "$12.89",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_9.png"
       },
       {
-        "nombre": "#10 Emma #111",
-        "precio": "$10.49",
+        "nombre": "#10 Froakie #86",
+        "precio": "$8.61",
         "precio_psa_10": "",
         "imagen": "images/cartas/pokemon-japanese-ninja-spinner/pokemon-japanese-ninja-spinner_10.png"
       }
