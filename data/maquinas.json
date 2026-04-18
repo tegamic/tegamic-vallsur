@@ -921,64 +921,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Monkey.D.Luffy [Alternate Art Manga] OP05-119",
-        "precio": "$3,190.00",
-        "precio_psa_10": "$5,359.50",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_1.png"
-      },
-      {
-        "nombre": "#2 Trafalgar Law [Alternate Art Manga] OP05-069",
-        "precio": "$723.98",
-        "precio_psa_10": "$720.00",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_2.png"
-      },
-      {
-        "nombre": "#3 EustassCaptainKid [Alternate Art Manga] OP05-074",
-        "precio": "$500.00",
-        "precio_psa_10": "$562.03",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_3.png"
-      },
-      {
-        "nombre": "#4 Monkey.D.Luffy [Manga PRB01] OP05-119",
-        "precio": "$375.00",
+        "nombre": "#1 Mega Gengar ex #240",
+        "precio": "$319.99",
         "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_4.png"
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
       },
       {
-        "nombre": "#5 Monkey.D.Luffy [Wanted] OP05-119",
-        "precio": "$224.99",
-        "precio_psa_10": "$280.00",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_5.png"
+        "nombre": "#2 Mega Dragonite ex #250",
+        "precio": "$206.65",
+        "precio_psa_10": "$610.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
       },
       {
-        "nombre": "#6 Monkey.D.Luffy [Alternate Art] OP05-119",
-        "precio": "$85.48",
-        "precio_psa_10": "$289.05",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_6.png"
+        "nombre": "#3 Mega Dragonite ex #246",
+        "precio": "$185.37",
+        "precio_psa_10": "$418.05",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
       },
       {
-        "nombre": "#7 Rob Lucci [Storage Box Set Gold] OP05-093",
-        "precio": "$78.72",
-        "precio_psa_10": "$249.99",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_7.png"
+        "nombre": "#4 Pikachu ex #234",
+        "precio": "$181.00",
+        "precio_psa_10": "$541.82",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
       },
       {
-        "nombre": "#8 Zoro-Juurou [SP Foil] OP05-067",
-        "precio": "$63.66",
-        "precio_psa_10": "$348.99",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_8.png"
+        "nombre": "#5 Team Rocket's Mewtwo ex #237",
+        "precio": "$107.37",
+        "precio_psa_10": "$290.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
       },
       {
-        "nombre": "#9 Enel [SP] OP05-100",
-        "precio": "$61.52",
-        "precio_psa_10": "$205.88",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_9.png"
+        "nombre": "#6 N's Zoroark ex #242",
+        "precio": "$65.24",
+        "precio_psa_10": "$169.50",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
       },
       {
-        "nombre": "#10 Rebecca [SP] OP05-091",
-        "precio": "$40.96",
-        "precio_psa_10": "$169.59",
-        "imagen": "images/cartas/one-piece-japanese-awakening-of-the-new-era/one-piece-japanese-awakening-of-the-new-era_10.png"
+        "nombre": "#7 Iono's Bellibolt ex #236",
+        "precio": "$48.10",
+        "precio_psa_10": "$145.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
+      },
+      {
+        "nombre": "#8 Canari #248",
+        "precio": "$39.94",
+        "precio_psa_10": "$205.01",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
+      },
+      {
+        "nombre": "#9 Mega Charizard X ex #223",
+        "precio": "$37.55",
+        "precio_psa_10": "$162.78",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
+      },
+      {
+        "nombre": "#10 Marnie's Grimmsnarl ex #243",
+        "precio": "$35.30",
+        "precio_psa_10": "$120.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
       }
     ]
   },
