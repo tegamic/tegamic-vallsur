@@ -449,66 +449,65 @@
   "A22": {
     "coleccion": "",
     "cartas": [{
-        "nombre": "#1 Buggy [SP Gold] OP09-051",
-        "precio": "$650.00",
-        "precio_psa_10": "$1,449.95",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_1.png"
+        "nombre": "#1 Son Goku : GT [Super Alternate Art Holo] FB03-140",
+        "precio": "$417.06",
+        "precio_psa_10": "$2,343.84",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_1.png"
       },
       {
-        "nombre": "#2 Dracule Mihawk [Manga] OP14-119",
-        "precio": "$464.07",
-        "precio_psa_10": "$625.38",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_2.png"
+        "nombre": "#2 Son Gohan: Youth [Alternate Art] FB03-139",
+        "precio": "$174.69",
+        "precio_psa_10": "$158.56",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_2.png"
       },
       {
-        "nombre": "#3 Buggy [SP Silver] OP09-051",
-        "precio": "$399.69",
-        "precio_psa_10": "$1,647.48",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_3.png"
+        "nombre": "#3 Son Gohan: Adolescence [Special Alternate Art] FB03-039",
+        "precio": "$131.23",
+        "precio_psa_10": "$146.82",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_3.png"
       },
       {
-        "nombre": "#4 Boa Hancock [SP] OP14-112",
-        "precio": "$296.50",
-        "precio_psa_10": "$715.00",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_4.png"
-      },
-      {
-        "nombre": "#5 You'll Frighten Me [Alternate Art] OP14-118",
-        "precio": "$165.79",
-        "precio_psa_10": "$339.99",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_5.png"
-      },
-      {
-        "nombre": "#6 Boa Hancock [Alternate Art] OP14-041",
-        "precio": "$90.47",
+        "nombre": "#4 Cheelai : BR [Special Alternate Art] FS04-09",
+        "precio": "$80.65",
         "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_6.png"
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_4.png"
       },
       {
-        "nombre": "#7 Dracule Mihawk [SP] OP12-030",
-        "precio": "$87.69",
-        "precio_psa_10": "$330.69",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_7.png"
+        "nombre": "#5 Final Explosion [Alternate Art] FB03-102",
+        "precio": "$75.00",
+        "precio_psa_10": "$110.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_5.png"
       },
       {
-        "nombre": "#8 Ground Death [Alternate Art] OP14-096",
-        "precio": "$83.99",
-        "precio_psa_10": "$384.70",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_8.png"
+        "nombre": "#6 Son Goku: GT [Alternate Art] FB03-104",
+        "precio": "$50.00",
+        "precio_psa_10": "$100.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_6.png"
       },
       {
-        "nombre": "#9 Perona [SP] OP06-093",
-        "precio": "$82.36",
-        "precio_psa_10": "$354.40",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_9.png"
+        "nombre": "#7 Son Goku: GT [Alternate Art] FB03-140",
+        "precio": "$50.00",
+        "precio_psa_10": "$68.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_7.png"
       },
       {
-        "nombre": "#10 Sugar [SP] OP10-065",
-        "precio": "$65.81",
+        "nombre": "#8 Videl [Special Alternate Art] FB03-042",
+        "precio": "$42.80",
+        "precio_psa_10": "$80.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_8.png"
+      },
+      {
+        "nombre": "#9 Trunks: Future [Alternate Art] FB01-049",
+        "precio": "$38.86",
         "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-azure-sea%27s-seven/one-piece-japanese-azure-sea%27s-seven_10.png"
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_9.png"
+      },
+      {
+        "nombre": "#10 Vegeta [Alternate Art] FB03-089",
+        "precio": "$35.00",
+        "precio_psa_10": "$150.37",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_10.png"
       }
-      
     ]
   },
   "A23": {
@@ -780,10 +779,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "Lamine Yamal Topps NOW",
-        "precio": "No disponible",
-        "precio_psa_10": "No disponible",
-        "imagen": "images/cartas/topps/lamine_yamal.png"
+        "nombre": "#1 Charizard EX #201",
+        "precio": "$359.09",
+        "precio_psa_10": "$661.69",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_1.png"
+      },
+      {
+        "nombre": "#2 Gengar [Master Ball] #94",
+        "precio": "$272.52",
+        "precio_psa_10": "$862.74",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_2.png"
+      },
+      {
+        "nombre": "#3 Pikachu [Master Ball] #25",
+        "precio": "$195.88",
+        "precio_psa_10": "$578.30",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_3.png"
+      },
+      {
+        "nombre": "#4 Mew EX #205",
+        "precio": "$153.04",
+        "precio_psa_10": "$315.90",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_4.png"
+      },
+      {
+        "nombre": "#5 Blastoise EX #202",
+        "precio": "$129.99",
+        "precio_psa_10": "$222.61",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_5.png"
+      },
+      {
+        "nombre": "#6 Venusaur EX #200",
+        "precio": "$93.82",
+        "precio_psa_10": "$189.00",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_6.png"
+      },
+      {
+        "nombre": "#7 Zapdos EX #204",
+        "precio": "$89.36",
+        "precio_psa_10": "$210.44",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_7.png"
+      },
+      {
+        "nombre": "#8 Dragonite [Master Ball] #149",
+        "precio": "$66.52",
+        "precio_psa_10": "$150.12",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_8.png"
+      },
+      {
+        "nombre": "#9 Haunter [Master Ball] #93",
+        "precio": "$60.50",
+        "precio_psa_10": "$146.25",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_9.png"
+      },
+      {
+        "nombre": "#10 Psyduck [Master Ball] #54",
+        "precio": "$60.18",
+        "precio_psa_10": "$120.48",
+        "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_10.png"
       }
     ]
   },
