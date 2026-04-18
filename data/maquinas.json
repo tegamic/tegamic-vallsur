@@ -312,8 +312,8 @@
   },
   "A15": {
     "coleccion": "",
-    "cartas": [
-      {
+    "cartas": [{
+      
         "nombre": "#1 Mega Greninja Ex #120",
         "precio": "$501.00",
         "precio_psa_10": "",
@@ -1824,8 +1824,8 @@
   },
   "A12": {
     "coleccion": "",
-    "cartas": [
-      {
+    "cartas": [{
+      
         "nombre": "#1 Mega Greninja Ex #120",
         "precio": "$501.00",
         "precio_psa_10": "",
