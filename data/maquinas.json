@@ -2533,64 +2533,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Umbreon Ex #217",
-        "precio": "$328.00",
-        "precio_psa_10": "$520.00",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_1.png"
+        "nombre": "#1 Victini #171",
+        "precio": "$507.31",
+        "precio_psa_10": "$1,271.70",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_1.png"
       },
       {
-        "nombre": "#2 Sylveon Ex #212",
-        "precio": "$107.28",
-        "precio_psa_10": "$185.00",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_2.png"
+        "nombre": "#2 Zekrom ex #172",
+        "precio": "$449.90",
+        "precio_psa_10": "$1,512.50",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_2.png"
       },
       {
-        "nombre": "#3 Leafeon Ex #200",
-        "precio": "$57.18",
-        "precio_psa_10": "$109.99",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_3.png"
+        "nombre": "#3 Zekrom ex #166",
+        "precio": "$229.75",
+        "precio_psa_10": "$544.63",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_3.png"
       },
       {
-        "nombre": "#4 Espeon Ex #211",
-        "precio": "$57.15",
-        "precio_psa_10": "$113.51",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_4.png"
+        "nombre": "#4 Seismitoad #105",
+        "precio": "$167.11",
+        "precio_psa_10": "$1,436.57",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_4.png"
       },
       {
-        "nombre": "#5 Vaporeon Ex #205",
-        "precio": "$52.67",
-        "precio_psa_10": "$107.50",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_5.png"
+        "nombre": "#5 Kyurem ex #165",
+        "precio": "$65.75",
+        "precio_psa_10": "$142.25",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_5.png"
       },
       {
-        "nombre": "#6 Umbreon [Master Ball] #92",
-        "precio": "$49.99",
-        "precio_psa_10": "$143.32",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_6.png"
+        "nombre": "#6 N's Plan #170",
+        "precio": "$56.28",
+        "precio_psa_10": "$107.59",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_6.png"
       },
       {
-        "nombre": "#7 Glaceon Ex #206",
-        "precio": "$48.50",
-        "precio_psa_10": "$107.50",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_7.png"
+        "nombre": "#7 Haxorus #147",
+        "precio": "$50.00",
+        "precio_psa_10": "$226.16",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_7.png"
       },
       {
-        "nombre": "#8 Flareon Ex #202",
-        "precio": "$46.39",
-        "precio_psa_10": "$95.99",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_8.png"
+        "nombre": "#8 Air Balloon [Great Ball League] #79",
+        "precio": "$49.09",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_8.png"
       },
       {
-        "nombre": "#9 Pikachu Ex #236",
-        "precio": "$44.25",
-        "precio_psa_10": "$141.50",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_9.png"
+        "nombre": "#9 Genesect ex #169",
+        "precio": "$41.75",
+        "precio_psa_10": "$84.85",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_9.png"
       },
       {
-        "nombre": "#10 Jolteon Ex #209",
-        "precio": "$40.13",
-        "precio_psa_10": "$99.99",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_10.png"
+        "nombre": "#10 Serperior ex #164",
+        "precio": "$41.00",
+        "precio_psa_10": "$97.48",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_10.png"
       }
     ]
   },
@@ -2598,64 +2598,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Gengar ex #240",
-        "precio": "$319.99",
+        "nombre": "#1 Victini #172",
+        "precio": "$422.50",
+        "precio_psa_10": "$1,175.00",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_1.png"
+      },
+      {
+        "nombre": "#2 Reshiram Ex [Great Ball League] #20",
+        "precio": "$403.68",
         "precio_psa_10": "",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_2.png"
       },
       {
-        "nombre": "#2 Mega Dragonite ex #250",
-        "precio": "$206.65",
-        "precio_psa_10": "$610.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
+        "nombre": "#3 Reshiram ex #173",
+        "precio": "$374.60",
+        "precio_psa_10": "$1,194.42",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_3.png"
       },
       {
-        "nombre": "#3 Mega Dragonite ex #246",
-        "precio": "$185.37",
-        "precio_psa_10": "$418.05",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
+        "nombre": "#4 Reshiram ex #166",
+        "precio": "$168.32",
+        "precio_psa_10": "$500.00",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_4.png"
       },
       {
-        "nombre": "#4 Pikachu ex #234",
-        "precio": "$181.00",
-        "precio_psa_10": "$541.82",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
+        "nombre": "#5 Unova Heavy Hitters Premium Collection",
+        "precio": "$125.00",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_5.png"
       },
       {
-        "nombre": "#5 Team Rocket's Mewtwo ex #237",
-        "precio": "$107.37",
-        "precio_psa_10": "$290.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
+        "nombre": "#6 Hydreigon ex #169",
+        "precio": "$66.00",
+        "precio_psa_10": "$187.57",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_6.png"
       },
       {
-        "nombre": "#6 N's Zoroark ex #242",
-        "precio": "$65.24",
-        "precio_psa_10": "$169.50",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
+        "nombre": "#7 Keldeo ex #167",
+        "precio": "$49.99",
+        "precio_psa_10": "$167.36",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_7.png"
       },
       {
-        "nombre": "#7 Iono's Bellibolt ex #236",
-        "precio": "$48.10",
-        "precio_psa_10": "$145.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
+        "nombre": "#8 Hilda #171",
+        "precio": "$49.34",
+        "precio_psa_10": "$123.58",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_8.png"
       },
       {
-        "nombre": "#8 Canari #248",
-        "precio": "$39.94",
-        "precio_psa_10": "$205.01",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
+        "nombre": "#9 Zoroark #143",
+        "precio": "$48.00",
+        "precio_psa_10": "$229.99",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_9.png"
       },
       {
-        "nombre": "#9 Mega Charizard X ex #223",
-        "precio": "$37.55",
-        "precio_psa_10": "$162.78",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
-      },
-      {
-        "nombre": "#10 Marnie's Grimmsnarl ex #243",
-        "precio": "$35.30",
-        "precio_psa_10": "$120.00",
-        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
+        "nombre": "#10 Oshawott #105",
+        "precio": "$46.48",
+        "precio_psa_10": "$495.00",
+        "imagen": "images/cartas/pokemon-white-flare/pokemon-white-flare_10.png"
       }
     ]
   },
