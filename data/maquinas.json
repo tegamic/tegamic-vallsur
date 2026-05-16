@@ -377,66 +377,6 @@
   "A16": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Koby [Manga] EB04-044",
-        "precio": "$608.70",
-        "precio_psa_10": "$798.59",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_1.png"
-      },
-      {
-        "nombre": "#2 Roronoa Zoro [SP] PRB02-006",
-        "precio": "$417.50",
-        "precio_psa_10": "$1,500.00",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_2.png"
-      },
-      {
-        "nombre": "#3 Zeus [SP] OP11-106",
-        "precio": "$283.75",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_3.png"
-      },
-      {
-        "nombre": "#4 Sabo [SP] PRB02-014",
-        "precio": "$165.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_4.png"
-      },
-      {
-        "nombre": "#5 Jewelry Bonney [Alternate Art] EB04-001",
-        "precio": "$154.25",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_5.png"
-      },
-      {
-        "nombre": "#6 Smoker & Tashigi [SP] EB04-003",
-        "precio": "$104.29",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_6.png"
-      },
-      {
-        "nombre": "#7 Monkey.D.Luffy EB04-061",
-        "precio": "$72.42",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_7.png"
-      },
-      {
-        "nombre": "#8 EustassCaptainKid [SP] EB04-039",
-        "precio": "$69.99",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_8.png"
-      },
-      {
-        "nombre": "#9 Monkey.D.Luffy [Alternate Art] EB04-061",
-        "precio": "$62.49",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_9.png"
-      },
-      {
-        "nombre": "#10 Roronoa Zoro [Alternate Art] EB04-007",
-        "precio": "$54.48",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-extra-booster-egghead-crisis/one-piece-japanese-extra-booster-egghead-crisis_10.png"
-      }
     ]
   },
   "A21": {
@@ -448,64 +388,64 @@
   "A22": {
     "coleccion": "",
     "cartas": [{
-        "nombre": "#1 Son Goku : GT [Super Alternate Art Holo] FB03-140",
-        "precio": "$417.06",
-        "precio_psa_10": "$2,343.84",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_1.png"
+        "nombre": "#1 Mega Gengar ex #240",
+        "precio": "$487.50",
+        "precio_psa_10": "$990.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
       },
       {
-        "nombre": "#2 Son Gohan: Youth [Alternate Art] FB03-139",
-        "precio": "$174.69",
-        "precio_psa_10": "$158.56",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_2.png"
+        "nombre": "#2 Pikachu ex #234",
+        "precio": "$289.44",
+        "precio_psa_10": "$712.65",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
       },
       {
-        "nombre": "#3 Son Gohan: Adolescence [Special Alternate Art] FB03-039",
-        "precio": "$131.23",
-        "precio_psa_10": "$146.82",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_3.png"
+        "nombre": "#3 Mega Dragonite ex #246",
+        "precio": "$265.00",
+        "precio_psa_10": "$625.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
       },
       {
-        "nombre": "#4 Cheelai : BR [Special Alternate Art] FS04-09",
-        "precio": "$80.65",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_4.png"
+        "nombre": "#4 Mega Dragonite ex #250",
+        "precio": "$202.46",
+        "precio_psa_10": "$828.49",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
       },
       {
-        "nombre": "#5 Final Explosion [Alternate Art] FB03-102",
-        "precio": "$75.00",
-        "precio_psa_10": "$110.00",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_5.png"
+        "nombre": "#5 Team Rocket's Mewtwo ex #237",
+        "precio": "$141.89",
+        "precio_psa_10": "$460.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
       },
       {
-        "nombre": "#6 Son Goku: GT [Alternate Art] FB03-104",
-        "precio": "$50.00",
-        "precio_psa_10": "$100.00",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_6.png"
+        "nombre": "#6 N's Zoroark ex #242",
+        "precio": "$67.77",
+        "precio_psa_10": "$185.95",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
       },
       {
-        "nombre": "#7 Son Goku: GT [Alternate Art] FB03-140",
-        "precio": "$50.00",
-        "precio_psa_10": "$68.00",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_7.png"
+        "nombre": "#7 Mega Charizard X ex #223",
+        "precio": "$45.22",
+        "precio_psa_10": "$243.83",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
       },
       {
-        "nombre": "#8 Videl [Special Alternate Art] FB03-042",
-        "precio": "$42.80",
-        "precio_psa_10": "$80.00",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_8.png"
+        "nombre": "#8 Iono's Bellibolt ex #236",
+        "precio": "$39.71",
+        "precio_psa_10": "$133.63",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
       },
       {
-        "nombre": "#9 Trunks: Future [Alternate Art] FB01-049",
-        "precio": "$38.86",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_9.png"
+        "nombre": "#9 Steven's Metagross ex #245",
+        "precio": "$36.34",
+        "precio_psa_10": "$133.99",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
       },
       {
-        "nombre": "#10 Vegeta [Alternate Art] FB03-089",
-        "precio": "$35.00",
-        "precio_psa_10": "$150.37",
-        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_10.png"
+        "nombre": "#10 Marnie's Grimmsnarl ex #243",
+        "precio": "$34.56",
+        "precio_psa_10": "$110.34",
+        "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
       }
     ]
   },
@@ -1753,64 +1693,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Charizard X Ex #116",
-        "precio": "$575.33",
-        "precio_psa_10": "$2,239.02",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_1.png"
+        "nombre": "#1 Son Goku : GT [Super Alternate Art Holo] FB03-140",
+        "precio": "$417.06",
+        "precio_psa_10": "$2,343.84",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_1.png"
       },
       {
-        "nombre": "#2 Mega Charizard X Ex #110",
-        "precio": "$550.37",
-        "precio_psa_10": "$1,052.78",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_2.png"
+        "nombre": "#2 Son Gohan: Youth [Alternate Art] FB03-139",
+        "precio": "$174.69",
+        "precio_psa_10": "$158.56",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_2.png"
       },
       {
-        "nombre": "#3 Oricorio Ex #111",
-        "precio": "$37.42",
-        "precio_psa_10": "$99.94",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_3.png"
+        "nombre": "#3 Son Gohan: Adolescence [Special Alternate Art] FB03-039",
+        "precio": "$131.23",
+        "precio_psa_10": "$146.82",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_3.png"
       },
       {
-        "nombre": "#4 Mega Charizard X Ex #94",
-        "precio": "$29.67",
-        "precio_psa_10": "$84.75",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_4.png"
+        "nombre": "#4 Cheelai : BR [Special Alternate Art] FS04-09",
+        "precio": "$80.65",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_4.png"
       },
       {
-        "nombre": "#5 Dawn #115",
-        "precio": "$29.50",
-        "precio_psa_10": "$71.18",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_5.png"
+        "nombre": "#5 Final Explosion [Alternate Art] FB03-102",
+        "precio": "$75.00",
+        "precio_psa_10": "$110.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_5.png"
       },
       {
-        "nombre": "#6 Mega Sharpedo Ex #113",
-        "precio": "$12.07",
-        "precio_psa_10": "$40.50",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_6.png"
+        "nombre": "#6 Son Goku: GT [Alternate Art] FB03-104",
+        "precio": "$50.00",
+        "precio_psa_10": "$100.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_6.png"
       },
       {
-        "nombre": "#7 Mega Lopunny Ex #114",
-        "precio": "$11.55",
-        "precio_psa_10": "$40.00",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_7.png"
+        "nombre": "#7 Son Goku: GT [Alternate Art] FB03-140",
+        "precio": "$50.00",
+        "precio_psa_10": "$68.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_7.png"
       },
       {
-        "nombre": "#8 Dawn #106",
-        "precio": "$10.24",
-        "precio_psa_10": "$54.70",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_8.png"
+        "nombre": "#8 Videl [Special Alternate Art] FB03-042",
+        "precio": "$42.80",
+        "precio_psa_10": "$80.00",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_8.png"
       },
       {
-        "nombre": "#9 Rotom Ex #112",
-        "precio": "$10.00",
-        "precio_psa_10": "$39.15",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_9.png"
+        "nombre": "#9 Trunks: Future [Alternate Art] FB01-049",
+        "precio": "$38.86",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_9.png"
       },
       {
-        "nombre": "#10 Piplup #85",
-        "precio": "$6.87",
-        "precio_psa_10": "$41.50",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_10.png"
+        "nombre": "#10 Vegeta [Alternate Art] FB03-089",
+        "precio": "$35.00",
+        "precio_psa_10": "$150.37",
+        "imagen": "images/cartas/dragon-ball-fusion-world-raging-roar/dragon-ball-fusion-world-raging-roar_10.png"
       }
     ]
   },
