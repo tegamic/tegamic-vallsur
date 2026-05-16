@@ -1175,63 +1175,63 @@
     "cartas": [
      {
         "nombre": "#1 Mega Charizard X Ex #116",
-        "precio": "$575.33",
-        "precio_psa_10": "$2,239.02",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_1.png"
+        "precio": "$722.50",
+        "precio_psa_10": "$3,225.00",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_1.png"
       },
       {
         "nombre": "#2 Mega Charizard X Ex #110",
-        "precio": "$550.37",
-        "precio_psa_10": "$1,052.78",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_2.png"
+        "precio": "$721.41",
+        "precio_psa_10": "$1,406.50",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_2.png"
       },
       {
         "nombre": "#3 Oricorio Ex #111",
-        "precio": "$37.42",
-        "precio_psa_10": "$99.94",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_3.png"
+        "precio": "$35.00",
+        "precio_psa_10": "$135.00",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_3.png"
       },
       {
         "nombre": "#4 Mega Charizard X Ex #94",
-        "precio": "$29.67",
-        "precio_psa_10": "$84.75",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_4.png"
+        "precio": "$34.97",
+        "precio_psa_10": "$152.31",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_4.png"
       },
       {
         "nombre": "#5 Dawn #115",
-        "precio": "$29.50",
-        "precio_psa_10": "$71.18",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_5.png"
+        "precio": "$26.76",
+        "precio_psa_10": "$83.50",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_5.png"
       },
       {
         "nombre": "#6 Mega Sharpedo Ex #113",
-        "precio": "$12.07",
-        "precio_psa_10": "$40.50",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_6.png"
+        "precio": "$12.02",
+        "precio_psa_10": "$45.93",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_6.png"
       },
       {
         "nombre": "#7 Mega Lopunny Ex #114",
-        "precio": "$11.55",
-        "precio_psa_10": "$40.00",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_7.png"
+        "precio": "$11.13",
+        "precio_psa_10": "$43.23",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_7.png"
       },
       {
-        "nombre": "#8 Dawn #106",
-        "precio": "$10.24",
-        "precio_psa_10": "$54.70",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_8.png"
+        "nombre": "#8 Rotom Ex #112",
+        "precio": "$9.99",
+        "precio_psa_10": "$41.50",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_8.png"
       },
       {
-        "nombre": "#9 Rotom Ex #112",
-        "precio": "$10.00",
-        "precio_psa_10": "$39.15",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_9.png"
+        "nombre": "#9 Dawn #106",
+        "precio": "$8.00",
+        "precio_psa_10": "$51.00",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_9.png"
       },
       {
         "nombre": "#10 Piplup #85",
-        "precio": "$6.87",
-        "precio_psa_10": "$41.50",
-        "imagen": "images/cartas/inferno-x-pricecharting/inferno-x-pricecharting_10.png"
+        "precio": "$6.99",
+        "precio_psa_10": "$51.98",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_10.png"
       }
     ]
   },
