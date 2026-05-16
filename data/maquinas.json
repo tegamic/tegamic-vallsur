@@ -453,64 +453,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mega Zygarde ex #117",
-        "precio": "$221.42",
-        "precio_psa_10": "$1,825.00",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_1.png"
+        "nombre": "#1 Rayquaza VMAX #83",
+        "precio": "$1,200.00",
+        "precio_psa_10": "$6,177.75",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_1.png"
       },
       {
-        "nombre": "#2 Rosa's Encouragement #115",
-        "precio": "$141.41",
-        "precio_psa_10": "$1,150.00",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_2.png"
+        "nombre": "#2 Dragonite V #74",
+        "precio": "$315.66",
+        "precio_psa_10": "$755.36",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_2.png"
       },
       {
-        "nombre": "#3 Meowth ex #114",
-        "precio": "$81.00",
-        "precio_psa_10": "$232.55",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_3.png"
+        "nombre": "#3 Rayquaza V #76",
+        "precio": "$294.20",
+        "precio_psa_10": "$1,534.53",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_3.png"
       },
       {
-        "nombre": "#4 Mega Gallade Ex Special Card Set",
-        "precio": "$44.98",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_4.png"
+        "nombre": "#4 Rayquaza VMAX #82",
+        "precio": "$57.28",
+        "precio_psa_10": "$204.99",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_4.png"
       },
       {
-        "nombre": "#5 Mega Starmie ex #111",
-        "precio": "$38.60",
-        "precio_psa_10": "$155.00",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_5.png"
+        "nombre": "#5 Lightning Energy #90",
+        "precio": "$26.16",
+        "precio_psa_10": "$39.73",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_5.png"
       },
       {
-        "nombre": "#6 Mega Zygarde ex #113",
-        "precio": "$37.50",
-        "precio_psa_10": "$221.07",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_6.png"
+        "nombre": "#6 Gyarados VMAX #81",
+        "precio": "$25.00",
+        "precio_psa_10": "$76.16",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_6.png"
       },
       {
-        "nombre": "#7 Mega Clefable ex #112",
-        "precio": "$29.13",
-        "precio_psa_10": "$145.75",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_7.png"
+        "nombre": "#7 Rayquaza V #75",
+        "precio": "$24.54",
+        "precio_psa_10": "$135.84",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_7.png"
       },
       {
-        "nombre": "#8 Rosa's Encouragement #107",
-        "precio": "$19.99",
-        "precio_psa_10": "$128.16",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_8.png"
+        "nombre": "#8 Shauna #77",
+        "precio": "$23.63",
+        "precio_psa_10": "$99.28",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_8.png"
       },
       {
-        "nombre": "#9 Meowth ex #100",
-        "precio": "$19.38",
-        "precio_psa_10": "$225.00",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_9.png"
+        "nombre": "#9 Medicham V #72",
+        "precio": "$21.04",
+        "precio_psa_10": "$61.75",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_9.png"
       },
       {
-        "nombre": "#10 Jacinthe #116",
-        "precio": "$19.36",
-        "precio_psa_10": "$129.74",
-        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_10.png"
+        "nombre": "#10 Dragonite V #73",
+        "precio": "$20.30",
+        "precio_psa_10": "$98.43",
+        "imagen": "images/cartas/pokemon-japanese-blue-sky-stream/pokemon-japanese-blue-sky-stream_10.png"
       }
     ]
   },
