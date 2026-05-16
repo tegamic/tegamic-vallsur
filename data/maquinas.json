@@ -1692,7 +1692,68 @@
   },
   "A55": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [
+      {
+        "nombre": "#1 Mega Zygarde ex #117",
+        "precio": "$221.42",
+        "precio_psa_10": "$1,825.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_1.png"
+      },
+      {
+        "nombre": "#2 Rosa's Encouragement #115",
+        "precio": "$141.41",
+        "precio_psa_10": "$1,150.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_2.png"
+      },
+      {
+        "nombre": "#3 Meowth ex #114",
+        "precio": "$81.00",
+        "precio_psa_10": "$232.55",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_3.png"
+      },
+      {
+        "nombre": "#4 Mega Gallade Ex Special Card Set",
+        "precio": "$44.98",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_4.png"
+      },
+      {
+        "nombre": "#5 Mega Starmie ex #111",
+        "precio": "$38.60",
+        "precio_psa_10": "$155.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_5.png"
+      },
+      {
+        "nombre": "#6 Mega Zygarde ex #113",
+        "precio": "$37.50",
+        "precio_psa_10": "$221.07",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_6.png"
+      },
+      {
+        "nombre": "#7 Mega Clefable ex #112",
+        "precio": "$29.13",
+        "precio_psa_10": "$145.75",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_7.png"
+      },
+      {
+        "nombre": "#8 Rosa's Encouragement #107",
+        "precio": "$19.99",
+        "precio_psa_10": "$128.16",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_8.png"
+      },
+      {
+        "nombre": "#9 Meowth ex #100",
+        "precio": "$19.38",
+        "precio_psa_10": "$225.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_9.png"
+      },
+      {
+        "nombre": "#10 Jacinthe #116",
+        "precio": "$19.36",
+        "precio_psa_10": "$129.74",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_10.png"
+      }
+    ]
   },
   "A56": {
     "coleccion": "",
@@ -1827,65 +1888,65 @@
   "A62": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Enel [Manga] OP15-118",
-        "precio": "$889.99",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_1.png"
+       {
+        "nombre": "#1 Monkey.D.Luffy [Manga] EB02-061",
+        "precio": "$855.57",
+        "precio_psa_10": "$2,013.19",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_1.png"
       },
       {
-        "nombre": "#2 Boa Hancock [SP] OP12-014",
-        "precio": "$380.50",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_2.png"
+        "nombre": "#2 Boa Hancock OP07-038",
+        "precio": "$472.57",
+        "precio_psa_10": "$740.50",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_2.png"
       },
       {
-        "nombre": "#3 Monkey.D.Luffy [SP] ST26-005",
-        "precio": "$234.33",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_3.png"
+        "nombre": "#3 Monkey.D.Luffy OP05-060",
+        "precio": "$334.08",
+        "precio_psa_10": "$1,384.14",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_3.png"
       },
       {
-        "nombre": "#4 Trafalgar Law [SP] OP13-031",
-        "precio": "$177.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_4.png"
+        "nombre": "#4 Monkey.D.Luffy [Alternate Art] EB02-010",
+        "precio": "$186.54",
+        "precio_psa_10": "$382.50",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_4.png"
       },
       {
-        "nombre": "#5 Lightning Dragon [Alternate Art] OP15-077",
-        "precio": "$175.00",
+        "nombre": "#5 Monkey.D.Luffy [Sound Loader] EB02-010",
+        "precio": "$154.30",
         "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_5.png"
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_5.png"
       },
       {
-        "nombre": "#6 Gum-Gum Golden Rifle [Alternate Art] OP15-116",
-        "precio": "$165.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_6.png"
+        "nombre": "#6 Uta OP06-001",
+        "precio": "$114.00",
+        "precio_psa_10": "$311.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_6.png"
       },
       {
-        "nombre": "#7 Lightning Dragon OP15-077",
-        "precio": "$135.00",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_7.png"
+        "nombre": "#7 Jewelry Bonney OP07-019",
+        "precio": "$113.00",
+        "precio_psa_10": "$154.40",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_7.png"
       },
       {
-        "nombre": "#8 Enel [SP] EB02-052",
-        "precio": "$130.07",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_8.png"
+        "nombre": "#8 Perona OP06-021",
+        "precio": "$109.92",
+        "precio_psa_10": "$99.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_8.png"
       },
       {
-        "nombre": "#9 Edward.Newgate [SP] OP13-042",
-        "precio": "$89.99",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_9.png"
+        "nombre": "#9 Tony Tony.Chopper OP08-001",
+        "precio": "$106.00",
+        "precio_psa_10": "$750.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_9.png"
       },
       {
-        "nombre": "#10 Sabo [SP] P-105",
-        "precio": "$87.69",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_10.png"
+        "nombre": "#10 Enel OP05-098",
+        "precio": "$97.87",
+        "precio_psa_10": "$164.77",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_10.png"
       }
     ]
   },
