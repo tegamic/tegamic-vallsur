@@ -248,64 +248,64 @@
   "A14": {
     "coleccion": "",
     "cartas": [
-      {
+       {
         "nombre": "#1 Team Rocket's Mewtwo ex #125",
-        "precio": "$274.37",
-        "precio_psa_10": "$490.00",
+        "precio": "$361.17",
+        "precio_psa_10": "$792.50",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_1.png"
       },
       {
         "nombre": "#2 Team Rocket's Moltres ex #124",
-        "precio": "$97.63",
-        "precio_psa_10": "$158.75",
+        "precio": "$99.52",
+        "precio_psa_10": "$214.37",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_2.png"
       },
       {
         "nombre": "#3 Team Rocket's Nidoking ex #126",
-        "precio": "$62.66",
-        "precio_psa_10": "$100.98",
+        "precio": "$64.32",
+        "precio_psa_10": "$125.00",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_3.png"
       },
       {
         "nombre": "#4 Team Rocket's Crobat ex #127",
-        "precio": "$45.00",
-        "precio_psa_10": "$80.50",
+        "precio": "$44.69",
+        "precio_psa_10": "$85.50",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_4.png"
       },
       {
         "nombre": "#5 Team Rocket's Mewtwo ex #130",
-        "precio": "$41.49",
-        "precio_psa_10": "$76.22",
+        "precio": "$39.95",
+        "precio_psa_10": "$190.00",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_5.png"
       },
       {
-        "nombre": "#6 Team Rocket's Giovanni #129",
-        "precio": "$19.99",
-        "precio_psa_10": "$80.00",
+        "nombre": "#6 Team Rocket's Ariana #128",
+        "precio": "$21.49",
+        "precio_psa_10": "$64.26",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_6.png"
       },
       {
-        "nombre": "#7 Team Rocket's Ariana #128",
-        "precio": "$19.27",
-        "precio_psa_10": "$92.50",
+        "nombre": "#7 Team Rocket's Mewtwo ex #114",
+        "precio": "$18.58",
+        "precio_psa_10": "$96.91",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_7.png"
       },
       {
-        "nombre": "#8 Team Rocket's Mewtwo ex #114",
-        "precio": "$18.99",
-        "precio_psa_10": "$68.00",
+        "nombre": "#8 Team Rocket's Giovanni #129",
+        "precio": "$18.05",
+        "precio_psa_10": "$92.24",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_8.png"
       },
       {
         "nombre": "#9 Team Rocket's Crobat ex #131",
-        "precio": "$17.42",
-        "precio_psa_10": "$41.75",
+        "precio": "$15.70",
+        "precio_psa_10": "$40.55",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_9.png"
       },
       {
         "nombre": "#10 Jamming Tower #132",
-        "precio": "$12.72",
-        "precio_psa_10": "$30.00",
+        "precio": "$15.64",
+        "precio_psa_10": "$15.73",
         "imagen": "images/cartas/pokemon-japanese-glory-of-team-rocket/pokemon-japanese-glory-of-team-rocket_10.png"
       }
     ]
