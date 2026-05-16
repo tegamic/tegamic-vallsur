@@ -980,62 +980,62 @@
     "cartas": [
       {
         "nombre": "#1 Mega Gengar ex #240",
-        "precio": "$319.99",
-        "precio_psa_10": "",
+        "precio": "$487.50",
+        "precio_psa_10": "$990.00",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_1.png"
       },
       {
-        "nombre": "#2 Mega Dragonite ex #250",
-        "precio": "$206.65",
-        "precio_psa_10": "$610.00",
+        "nombre": "#2 Pikachu ex #234",
+        "precio": "$289.44",
+        "precio_psa_10": "$712.65",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_2.png"
       },
       {
         "nombre": "#3 Mega Dragonite ex #246",
-        "precio": "$185.37",
-        "precio_psa_10": "$418.05",
+        "precio": "$265.00",
+        "precio_psa_10": "$625.00",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_3.png"
       },
       {
-        "nombre": "#4 Pikachu ex #234",
-        "precio": "$181.00",
-        "precio_psa_10": "$541.82",
+        "nombre": "#4 Mega Dragonite ex #250",
+        "precio": "$202.46",
+        "precio_psa_10": "$828.49",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_4.png"
       },
       {
         "nombre": "#5 Team Rocket's Mewtwo ex #237",
-        "precio": "$107.37",
-        "precio_psa_10": "$290.00",
+        "precio": "$141.89",
+        "precio_psa_10": "$460.00",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_5.png"
       },
       {
         "nombre": "#6 N's Zoroark ex #242",
-        "precio": "$65.24",
-        "precio_psa_10": "$169.50",
+        "precio": "$67.77",
+        "precio_psa_10": "$185.95",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_6.png"
       },
       {
-        "nombre": "#7 Iono's Bellibolt ex #236",
-        "precio": "$48.10",
-        "precio_psa_10": "$145.00",
+        "nombre": "#7 Mega Charizard X ex #223",
+        "precio": "$45.22",
+        "precio_psa_10": "$243.83",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_7.png"
       },
       {
-        "nombre": "#8 Canari #248",
-        "precio": "$39.94",
-        "precio_psa_10": "$205.01",
+        "nombre": "#8 Iono's Bellibolt ex #236",
+        "precio": "$39.71",
+        "precio_psa_10": "$133.63",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_8.png"
       },
       {
-        "nombre": "#9 Mega Charizard X ex #223",
-        "precio": "$37.55",
-        "precio_psa_10": "$162.78",
+        "nombre": "#9 Steven's Metagross ex #245",
+        "precio": "$36.34",
+        "precio_psa_10": "$133.99",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_9.png"
       },
       {
         "nombre": "#10 Marnie's Grimmsnarl ex #243",
-        "precio": "$35.30",
-        "precio_psa_10": "$120.00",
+        "precio": "$34.56",
+        "precio_psa_10": "$110.34",
         "imagen": "images/cartas/pokemon-japanese-mega-dream-ex/pokemon-japanese-mega-dream-ex_10.png"
       }
     ]
