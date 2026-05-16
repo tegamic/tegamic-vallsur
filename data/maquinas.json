@@ -778,63 +778,63 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Charizard EX #201",
-        "precio": "$359.09",
-        "precio_psa_10": "$661.69",
+        "nombre": "#1 Gengar [Master Ball] #94",
+        "precio": "$419.99",
+        "precio_psa_10": "$1,087.49",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_1.png"
       },
       {
-        "nombre": "#2 Gengar [Master Ball] #94",
-        "precio": "$272.52",
-        "precio_psa_10": "$862.74",
+        "nombre": "#2 Charizard EX #201",
+        "precio": "$392.29",
+        "precio_psa_10": "$852.71",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_2.png"
       },
       {
         "nombre": "#3 Pikachu [Master Ball] #25",
-        "precio": "$195.88",
-        "precio_psa_10": "$578.30",
+        "precio": "$285.00",
+        "precio_psa_10": "$924.50",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_3.png"
       },
       {
         "nombre": "#4 Mew EX #205",
-        "precio": "$153.04",
-        "precio_psa_10": "$315.90",
+        "precio": "$205.55",
+        "precio_psa_10": "$739.54",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_4.png"
       },
       {
         "nombre": "#5 Blastoise EX #202",
-        "precio": "$129.99",
-        "precio_psa_10": "$222.61",
+        "precio": "$150.00",
+        "precio_psa_10": "$290.00",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_5.png"
       },
       {
         "nombre": "#6 Venusaur EX #200",
-        "precio": "$93.82",
-        "precio_psa_10": "$189.00",
+        "precio": "$134.36",
+        "precio_psa_10": "$245.03",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_6.png"
       },
       {
         "nombre": "#7 Zapdos EX #204",
-        "precio": "$89.36",
-        "precio_psa_10": "$210.44",
+        "precio": "$103.25",
+        "precio_psa_10": "$225.06",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_7.png"
       },
       {
         "nombre": "#8 Dragonite [Master Ball] #149",
-        "precio": "$66.52",
-        "precio_psa_10": "$150.12",
+        "precio": "$103.00",
+        "precio_psa_10": "$191.25",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_8.png"
       },
       {
         "nombre": "#9 Haunter [Master Ball] #93",
-        "precio": "$60.50",
-        "precio_psa_10": "$146.25",
+        "precio": "$97.71",
+        "precio_psa_10": "$237.22",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_9.png"
       },
       {
-        "nombre": "#10 Psyduck [Master Ball] #54",
-        "precio": "$60.18",
-        "precio_psa_10": "$120.48",
+        "nombre": "#10 Mewtwo [Master Ball] #150",
+        "precio": "$89.18",
+        "precio_psa_10": "$340.00",
         "imagen": "images/cartas/pokemon-japanese-scarlet-&-violet-151/pokemon-japanese-scarlet-&-violet-151_10.png"
       }
     ]
