@@ -713,64 +713,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Gol.D.Roger [Manga] OP09-118",
-        "precio": "$3,160.21",
-        "precio_psa_10": "$3,868.82",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_1.png"
+        "nombre": "#1 Giratina V #111",
+        "precio": "$991.50",
+        "precio_psa_10": "$2,155.57",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_1.png"
       },
       {
-        "nombre": "#2 Monkey.D.Luffy [Manga] OP09-119",
-        "precio": "$709.87",
-        "precio_psa_10": "$1,355.00",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_2.png"
+        "nombre": "#2 Aerodactyl V #106",
+        "precio": "$93.38",
+        "precio_psa_10": "$195.09",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_2.png"
       },
       {
-        "nombre": "#3 Shanks [Manga] OP09-004",
-        "precio": "$599.64",
-        "precio_psa_10": "$914.10",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_3.png"
+        "nombre": "#3 Giratina VSTAR #125",
+        "precio": "$31.67",
+        "precio_psa_10": "$150.00",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_3.png"
       },
       {
-        "nombre": "#4 Marshall.D.Teach [Manga] OP09-093",
-        "precio": "$588.48",
-        "precio_psa_10": "$979.81",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_4.png"
+        "nombre": "#4 Rotom V #104",
+        "precio": "$24.24",
+        "precio_psa_10": "$44.37",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_4.png"
       },
       {
-        "nombre": "#5 Buggy [Alternate Art Manga] OP09-051",
-        "precio": "$506.89",
-        "precio_psa_10": "$699.13",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_5.png"
+        "nombre": "#5 Giratina VSTAR #120",
+        "precio": "$19.00",
+        "precio_psa_10": "$84.43",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_5.png"
       },
       {
-        "nombre": "#6 Uta [Flagship Battle Winner] OP09-002",
-        "precio": "$427.00",
-        "precio_psa_10": "$436.74",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_6.png"
+        "nombre": "#6 Giratina V #110",
+        "precio": "$17.74",
+        "precio_psa_10": "$119.30",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_6.png"
       },
       {
-        "nombre": "#7 Monkey.D.Luffy [2nd Anniversary] OP09-061",
-        "precio": "$272.50",
-        "precio_psa_10": "$456.36",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_7.png"
+        "nombre": "#7 Lady #114",
+        "precio": "$14.66",
+        "precio_psa_10": "$41.85",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_7.png"
       },
       {
-        "nombre": "#8 Shanks [Wanted Poster] OP09-004",
-        "precio": "$90.96",
-        "precio_psa_10": "$164.40",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_8.png"
+        "nombre": "#8 Aerodactyl VSTAR #118",
+        "precio": "$11.71",
+        "precio_psa_10": "$60.38",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_8.png"
       },
       {
-        "nombre": "#9 Marshall.D.Teach [Wanted Poster] OP09-093",
-        "precio": "$82.32",
-        "precio_psa_10": "$104.31",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_9.png"
+        "nombre": "#9 Galarian Perrserker V #109",
+        "precio": "$10.44",
+        "precio_psa_10": "$31.36",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_9.png"
       },
       {
-        "nombre": "#10 Buggy [Wanted Poster Foil] OP09-051",
-        "precio": "$66.30",
-        "precio_psa_10": "$153.75",
-        "imagen": "images/cartas/one-piece-japanese-emperors-in-the-new-world/one-piece-japanese-emperors-in-the-new-world_10.png"
+        "nombre": "#10 Collapsed Stadium #127",
+        "precio": "$7.60",
+        "precio_psa_10": "$34.14",
+        "imagen": "images/cartas/pokemon-japanese-lost-abyss/pokemon-japanese-lost-abyss_10.png"
       }
     ]
   },
