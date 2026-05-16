@@ -1628,6 +1628,66 @@
   "A54": {
     "coleccion": "",
     "cartas": [
+      {
+        "nombre": "#1 Cynthia's Garchomp ex #87",
+        "precio": "$171.26",
+        "precio_psa_10": "$337.50",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_1.png"
+      },
+      {
+        "nombre": "#2 Ethan's Ho-Oh ex #86",
+        "precio": "$137.10",
+        "precio_psa_10": "$266.27",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_2.png"
+      },
+      {
+        "nombre": "#3 Ethan's Adventure #89",
+        "precio": "$43.27",
+        "precio_psa_10": "$95.00",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_3.png"
+      },
+      {
+        "nombre": "#4 Misty's Psyduck #71",
+        "precio": "$31.99",
+        "precio_psa_10": "$124.25",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_4.png"
+      },
+      {
+        "nombre": "#5 Cynthia's Garchomp ex #91",
+        "precio": "$25.00",
+        "precio_psa_10": "$65.12",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_5.png"
+      },
+      {
+        "nombre": "#6 Ethan's Ho-oh ex #90",
+        "precio": "$23.50",
+        "precio_psa_10": "$64.02",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_6.png"
+      },
+      {
+        "nombre": "#7 Arven's Mabosstiff ex #88",
+        "precio": "$16.00",
+        "precio_psa_10": "$42.38",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_7.png"
+      },
+      {
+        "nombre": "#8 Ethan's Typhlosion #70",
+        "precio": "$15.14",
+        "precio_psa_10": "$65.00",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_8.png"
+      },
+      {
+        "nombre": "#9 Yanmega ex #85",
+        "precio": "$13.92",
+        "precio_psa_10": "$37.00",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_9.png"
+      },
+      {
+        "nombre": "#10 Misty's Lapras #72",
+        "precio": "$13.00",
+        "precio_psa_10": "$62.50",
+        "imagen": "images/cartas/pokemon-japanese-heat-wave-arena/pokemon-japanese-heat-wave-arena_10.png"
+      }
     ]
   },
   "A55": {
