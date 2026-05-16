@@ -1109,64 +1109,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Monkey.D.Luffy [SP Gold] OP05-119",
-        "precio": "$1,786.28",
-        "precio_psa_10": "$5,875.78",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_1.png"
+        "nombre": "#1 Mega Zygarde ex #117",
+        "precio": "$221.42",
+        "precio_psa_10": "$1,825.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_1.png"
       },
       {
-        "nombre": "#2 Monkey.D.Luffy [SP Silver] OP05-119",
-        "precio": "$908.48",
-        "precio_psa_10": "$1,744.86",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_2.png"
+        "nombre": "#2 Rosa's Encouragement #115",
+        "precio": "$141.41",
+        "precio_psa_10": "$1,150.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_2.png"
       },
       {
-        "nombre": "#3 Monkey.D.Luffy [Manga] OP11-118",
-        "precio": "$649.94",
-        "precio_psa_10": "$797.00",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_3.png"
+        "nombre": "#3 Meowth ex #114",
+        "precio": "$81.00",
+        "precio_psa_10": "$232.55",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_3.png"
       },
       {
-        "nombre": "#4 Koby [Flagship Battle] OP11-119",
-        "precio": "$147.59",
-        "precio_psa_10": "$288.61",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_4.png"
-      },
-      {
-        "nombre": "#5 Gear Two [Alternate Art] OP11-080",
-        "precio": "$136.81",
-        "precio_psa_10": "$321.43",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_5.png"
-      },
-      {
-        "nombre": "#6 Luffy-Tarou [SP] ST18-005",
-        "precio": "$134.87",
-        "precio_psa_10": "$289.99",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_6.png"
-      },
-      {
-        "nombre": "#7 Stussy [SP] OP07-085",
-        "precio": "$95.92",
-        "precio_psa_10": "$228.61",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_7.png"
-      },
-      {
-        "nombre": "#8 Zeus [Bandai Alternate Art] OP11-106",
-        "precio": "$86.00",
+        "nombre": "#4 Mega Gallade Ex Special Card Set",
+        "precio": "$44.98",
         "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_8.png"
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_4.png"
       },
       {
-        "nombre": "#9 Shanks [SP Alternate Art] ST16-004",
-        "precio": "$84.15",
-        "precio_psa_10": "$111.41",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_9.png"
+        "nombre": "#5 Mega Starmie ex #111",
+        "precio": "$38.60",
+        "precio_psa_10": "$155.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_5.png"
       },
       {
-        "nombre": "#10 Sanji [SP] OP06-119",
-        "precio": "$78.79",
-        "precio_psa_10": "$206.10",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_10.png"
+        "nombre": "#6 Mega Zygarde ex #113",
+        "precio": "$37.50",
+        "precio_psa_10": "$221.07",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_6.png"
+      },
+      {
+        "nombre": "#7 Mega Clefable ex #112",
+        "precio": "$29.13",
+        "precio_psa_10": "$145.75",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_7.png"
+      },
+      {
+        "nombre": "#8 Rosa's Encouragement #107",
+        "precio": "$19.99",
+        "precio_psa_10": "$128.16",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_8.png"
+      },
+      {
+        "nombre": "#9 Meowth ex #100",
+        "precio": "$19.38",
+        "precio_psa_10": "$225.00",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_9.png"
+      },
+      {
+        "nombre": "#10 Jacinthe #116",
+        "precio": "$19.36",
+        "precio_psa_10": "$129.74",
+        "imagen": "images/cartas/pokemon-japanese-nihil-zero/pokemon-japanese-nihil-zero_10.png"
       }
     ]
   },
