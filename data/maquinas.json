@@ -1955,69 +1955,130 @@
     "cartas": [
        {
         "nombre": "#1 Pikachu ex #132",
-        "precio": "$242.24",
-        "precio_psa_10": "$514.43",
+        "precio": "$350.00",
+        "precio_psa_10": "$802.54",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_1.png"
       },
       {
         "nombre": "#2 Milotic ex #131",
-        "precio": "$72.22",
-        "precio_psa_10": "$102.00",
+        "precio": "$79.43",
+        "precio_psa_10": "$129.99",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_2.png"
       },
       {
         "nombre": "#3 Pikachu Ex #136",
-        "precio": "$57.89",
-        "precio_psa_10": "$200.00",
+        "precio": "$67.00",
+        "precio_psa_10": "$377.40",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_3.png"
       },
       {
         "nombre": "#4 Hydreigon ex #133",
-        "precio": "$27.41",
-        "precio_psa_10": "$47.76",
+        "precio": "$29.92",
+        "precio_psa_10": "$57.98",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_4.png"
       },
       {
         "nombre": "#5 Pikachu ex #122",
-        "precio": "$20.94",
-        "precio_psa_10": "$109.64",
+        "precio": "$26.85",
+        "precio_psa_10": "$183.25",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_5.png"
       },
       {
         "nombre": "#6 Jasmine's Gaze #135",
-        "precio": "$19.36",
-        "precio_psa_10": "$53.50",
+        "precio": "$19.66",
+        "precio_psa_10": "$61.00",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_6.png"
       },
       {
         "nombre": "#7 Durant Ex #130",
-        "precio": "$14.07",
-        "precio_psa_10": "$43.15",
+        "precio": "$13.75",
+        "precio_psa_10": "$53.52",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_7.png"
       },
       {
-        "nombre": "#8 Clemont's Wit #134",
-        "precio": "$9.63",
-        "precio_psa_10": "$33.00",
+        "nombre": "#8 Magneton #112",
+        "precio": "$9.50",
+        "precio_psa_10": "$68.95",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_8.png"
       },
       {
-        "nombre": "#9 Magneton #112",
-        "precio": "$9.20",
-        "precio_psa_10": "$53.00",
+        "nombre": "#9 Clemont's Wit #134",
+        "precio": "$8.93",
+        "precio_psa_10": "$41.37",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_9.png"
       },
       {
-        "nombre": "#10 Night Stretcher #137",
-        "precio": "$8.43",
-        "precio_psa_10": "$39.99",
+        "nombre": "#10 Gravity Mountain #138",
+        "precio": "$7.65",
+        "precio_psa_10": "$31.49",
         "imagen": "images/cartas/pokemon-japanese-super-electric-breaker/pokemon-japanese-super-electric-breaker_10.png"
       }
     ]
   },
   "A64": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [
+       {
+        "nombre": "#1 Mega Gardevoir Ex #92",
+        "precio": "$237.37",
+        "precio_psa_10": "$933.97",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_1.png"
+      },
+      {
+        "nombre": "#2 Mega Gardevoir ex #87",
+        "precio": "$124.05",
+        "precio_psa_10": "$226.43",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_2.png"
+      },
+      {
+        "nombre": "#3 Mega Latias Ex #88",
+        "precio": "$42.73",
+        "precio_psa_10": "$92.50",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_3.png"
+      },
+      {
+        "nombre": "#4 Mega Kangaskhan ex #89",
+        "precio": "$28.60",
+        "precio_psa_10": "$72.38",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_4.png"
+      },
+      {
+        "nombre": "#5 Acerola's Mischief #90",
+        "precio": "$28.10",
+        "precio_psa_10": "$125.20",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_5.png"
+      },
+      {
+        "nombre": "#6 Wally's Compassion #91",
+        "precio": "$11.26",
+        "precio_psa_10": "$38.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_6.png"
+      },
+      {
+        "nombre": "#7 Acerola's Mischief #84",
+        "precio": "$6.01",
+        "precio_psa_10": "$56.48",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_7.png"
+      },
+      {
+        "nombre": "#8 Alakazam #71",
+        "precio": "$5.84",
+        "precio_psa_10": "$46.39",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_8.png"
+      },
+      {
+        "nombre": "#9 Mega Gardevoir Ex #78",
+        "precio": "$5.48",
+        "precio_psa_10": "$38.76",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_9.png"
+      },
+      {
+        "nombre": "#10 Mega Latias Ex #79",
+        "precio": "$4.90",
+        "precio_psa_10": "$36.39",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_10.png"
+      }
+    ]
   },
   "A65": {
     "coleccion": "",
