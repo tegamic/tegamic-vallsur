@@ -1239,64 +1239,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Monkey.D.Luffy [SP Gold] OP05-119",
-        "precio": "$1,786.28",
-        "precio_psa_10": "$5,875.78",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_1.png"
+        "nombre": "#1 Enel [Manga] OP15-118",
+        "precio": "$1,099.99",
+        "precio_psa_10": "$1,430.25",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_1.png"
       },
       {
-        "nombre": "#2 Monkey.D.Luffy [SP Silver] OP05-119",
-        "precio": "$908.48",
-        "precio_psa_10": "$1,744.86",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_2.png"
+        "nombre": "#2 Boa Hancock [SP] OP12-014",
+        "precio": "$310.02",
+        "precio_psa_10": "$716.04",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_2.png"
       },
       {
-        "nombre": "#3 Monkey.D.Luffy [Manga] OP11-118",
-        "precio": "$649.94",
-        "precio_psa_10": "$797.00",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_3.png"
-      },
-      {
-        "nombre": "#4 Koby [Flagship Battle] OP11-119",
-        "precio": "$147.59",
-        "precio_psa_10": "$288.61",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_4.png"
-      },
-      {
-        "nombre": "#5 Gear Two [Alternate Art] OP11-080",
-        "precio": "$136.81",
-        "precio_psa_10": "$321.43",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_5.png"
-      },
-      {
-        "nombre": "#6 Luffy-Tarou [SP] ST18-005",
-        "precio": "$134.87",
-        "precio_psa_10": "$289.99",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_6.png"
-      },
-      {
-        "nombre": "#7 Stussy [SP] OP07-085",
-        "precio": "$95.92",
-        "precio_psa_10": "$228.61",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_7.png"
-      },
-      {
-        "nombre": "#8 Zeus [Bandai Alternate Art] OP11-106",
-        "precio": "$86.00",
+        "nombre": "#3 Monkey.D.Luffy [SP] ST26-005",
+        "precio": "$212.48",
         "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_8.png"
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_3.png"
       },
       {
-        "nombre": "#9 Shanks [SP Alternate Art] ST16-004",
-        "precio": "$84.15",
-        "precio_psa_10": "$111.41",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_9.png"
+        "nombre": "#4 Gum-Gum Golden Rifle [Alternate Art] OP15-116",
+        "precio": "$150.65",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_4.png"
       },
       {
-        "nombre": "#10 Sanji [SP] OP06-119",
-        "precio": "$78.79",
-        "precio_psa_10": "$206.10",
-        "imagen": "images/cartas/one-piece-japanese-fist-of-divine-speed/one-piece-japanese-fist-of-divine-speed_10.png"
+        "nombre": "#5 Trafalgar Law [SP] OP13-031",
+        "precio": "$141.00",
+        "precio_psa_10": "$235.45",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_5.png"
+      },
+      {
+        "nombre": "#6 Enel [SP] EB02-052",
+        "precio": "$120.04",
+        "precio_psa_10": "$315.00",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_6.png"
+      },
+      {
+        "nombre": "#7 Lightning Dragon [Alternate Art] OP15-077",
+        "precio": "$102.72",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_7.png"
+      },
+      {
+        "nombre": "#8 Edward.Newgate [SP] OP13-042",
+        "precio": "$98.33",
+        "precio_psa_10": "$338.00",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_8.png"
+      },
+      {
+        "nombre": "#9 Monkey.D.Luffy [Alternate Art] OP15-119",
+        "precio": "$73.84",
+        "precio_psa_10": "$110.50",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_9.png"
+      },
+      {
+        "nombre": "#10 Nami [Alternate Art] OP15-086",
+        "precio": "$70.00",
+        "precio_psa_10": "$860.00",
+        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_10.png"
       }
     ]
   },
