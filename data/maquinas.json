@@ -185,63 +185,63 @@
     "cartas": [
       {
         "nombre": "#1 Umbreon VMAX #95",
-        "precio": "$1,995.45",
-        "precio_psa_10": "$4,057.51",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_1.png"
+        "precio": "$2,077.93",
+        "precio_psa_10": "$5,129.38",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_1.png"
       },
       {
         "nombre": "#2 Sylveon VMAX #93",
-        "precio": "$579.19",
-        "precio_psa_10": "$1,164.69",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_2.png"
+        "precio": "$533.41",
+        "precio_psa_10": "$1,359.78",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_2.png"
       },
       {
-        "nombre": "#3 Glaceon VMAX #91",
-        "precio": "$336.07",
-        "precio_psa_10": "$754.00",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_3.png"
+        "nombre": "#3 Leafeon VMAX #89",
+        "precio": "$381.65",
+        "precio_psa_10": "$640.48",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_3.png"
       },
       {
-        "nombre": "#4 Leafeon VMAX #89",
-        "precio": "$330.00",
-        "precio_psa_10": "$599.94",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_4.png"
+        "nombre": "#4 Glaceon VMAX #91",
+        "precio": "$369.71",
+        "precio_psa_10": "$750.00",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_4.png"
       },
       {
         "nombre": "#5 Umbreon V #85",
-        "precio": "$230.56",
-        "precio_psa_10": "$481.00",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_5.png"
+        "precio": "$280.44",
+        "precio_psa_10": "$696.00",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_5.png"
       },
       {
         "nombre": "#6 Sealed Promo Box",
         "precio": "$229.99",
         "precio_psa_10": "",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_6.png"
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_6.png"
       },
       {
-        "nombre": "#7 Espeon V #81",
-        "precio": "$119.28",
-        "precio_psa_10": "$200.26",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_7.png"
+        "nombre": "#7 Sylveon V #83",
+        "precio": "$139.07",
+        "precio_psa_10": "$274.19",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_7.png"
       },
       {
-        "nombre": "#8 Sylveon V #83",
-        "precio": "$112.76",
-        "precio_psa_10": "$219.79",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_8.png"
+        "nombre": "#8 Espeon V #81",
+        "precio": "$119.50",
+        "precio_psa_10": "$349.95",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_8.png"
       },
       {
-        "nombre": "#9 Glaceon V #77",
-        "precio": "$102.30",
-        "precio_psa_10": "$175.78",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_9.png"
+        "nombre": "#9 Vaporeon V #75",
+        "precio": "$104.20",
+        "precio_psa_10": "$211.68",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_9.png"
       },
       {
-        "nombre": "#10 Vaporeon V #75",
-        "precio": "$101.83",
-        "precio_psa_10": "$190.39",
-        "imagen": "images/cartas/eevee-heroes-pricecharting/eevee-heroes-pricecharting_10.png"
+        "nombre": "#10 Glaceon V #77",
+        "precio": "$104.00",
+        "precio_psa_10": "$209.65",
+        "imagen": "images/cartas/pokemon-japanese-eevee-heroes/pokemon-japanese-eevee-heroes_10.png"
       }
     ]
   },
