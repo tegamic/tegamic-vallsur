@@ -1563,55 +1563,65 @@
   "A53": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Sanji (OP06-119) (V.2)",
-        "precio": "520.00€",
-        "imagen": "images/cartas/prb-02/prb-02_1.png"
+       {
+        "nombre": "#1 Zekrom ex #174",
+        "precio": "$289.42",
+        "precio_psa_10": "$850.00",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_1.png"
       },
       {
-        "nombre": "#2 Gum-Gum Giant (OP09-078) (V.2)",
-        "precio": "250.00€",
-        "imagen": "images/cartas/prb-02/prb-02_2.png"
+        "nombre": "#2 Zekrom Ex #169",
+        "precio": "$139.75",
+        "precio_psa_10": "$250.00",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_2.png"
       },
       {
-        "nombre": "#3 Come On!! We'll Fight You!! (OP09-020) (V.2)",
-        "precio": "164.95€",
-        "imagen": "images/cartas/prb-02/prb-02_3.png"
+        "nombre": "#3 Seismitoad #109",
+        "precio": "$59.99",
+        "precio_psa_10": "$135.00",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_3.png"
       },
       {
-        "nombre": "#4 Monkey.D.Luffy (EB02-061) (V.2)",
-        "precio": "160.00€",
-        "imagen": "images/cartas/prb-02/prb-02_4.png"
+        "nombre": "#4 N's Plot #173",
+        "precio": "$46.92",
+        "precio_psa_10": "$129.73",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_4.png"
       },
       {
-        "nombre": "#5 DON!! (PRB02 - Shanks) (V.3)",
-        "precio": "149.99€",
-        "imagen": "images/cartas/prb-02/prb-02_5.png"
+        "nombre": "#5 Kyurem Ex #168",
+        "precio": "$33.03",
+        "precio_psa_10": "$67.81",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_5.png"
       },
       {
-        "nombre": "#6 Cross Guild (OP09-057) (V.2)",
-        "precio": "146.00€",
-        "imagen": "images/cartas/prb-02/prb-02_6.png"
+        "nombre": "#6 Serperior ex #167",
+        "precio": "$22.03",
+        "precio_psa_10": "$63.27",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_6.png"
       },
       {
-        "nombre": "#7 My Era...Begins!! (OP09-096) (V.2)",
-        "precio": "141.00€",
-        "imagen": "images/cartas/prb-02/prb-02_7.png"
+        "nombre": "#7 Genesect Ex #172",
+        "precio": "$21.60",
+        "precio_psa_10": "$54.50",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_7.png"
       },
       {
-        "nombre": "#8 Charlotte Pudding (OP06-047) (V.2)",
-        "precio": "87.75€",
-        "imagen": "images/cartas/prb-02/prb-02_8.png"
+        "nombre": "#8 Meloetta Ex #170",
+        "precio": "$20.03",
+        "precio_psa_10": "$50.03",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_8.png"
       },
       {
-        "nombre": "#9 DON!! (PRB02 - Chopper) (V.3)",
-        "precio": "36.00€",
-        "imagen": "images/cartas/prb-02/prb-02_9.png"
+        "nombre": "#9 Solosis #123",
+        "precio": "$18.99",
+        "precio_psa_10": "$64.11",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_9.png"
       },
       {
-        "nombre": "#10 DON!! (PRB02 - Nika) (V.3)",
-        "precio": "34.99€",
-        "imagen": "images/cartas/prb-02/prb-02_10.png"
+        "nombre": "#10 Victini [Master Ball] #12",
+        "precio": "$17.34",
+        "precio_psa_10": "$98.75",
+        "imagen": "images/cartas/pokemon-japanese-black-bolt/pokemon-japanese-black-bolt_10.png"
       }
     ]
   },
