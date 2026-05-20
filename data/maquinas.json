@@ -2082,7 +2082,9 @@
   },
   "A65": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [
+
+    ]
   },
   "A66": {
     "coleccion": "",
@@ -3980,64 +3982,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Mew ex #347",
-        "precio": "$307.59",
-        "precio_psa_10": "$676.50",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_1.png"
+        "nombre": "#1 Charizard V #103",
+        "precio": "$186.45",
+        "precio_psa_10": "$469.00",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_1.png"
       },
       {
-        "nombre": "#2 Charizard ex #349",
-        "precio": "$211.08",
-        "precio_psa_10": "$410.73",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_2.png"
+        "nombre": "#2 Charizard VSTAR #118",
+        "precio": "$57.00",
+        "precio_psa_10": "$185.00",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_2.png"
       },
       {
-        "nombre": "#3 Gardevoir ex #348",
-        "precio": "$98.00",
-        "precio_psa_10": "$181.38",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_3.png"
+        "nombre": "#3 Arceus V #112",
+        "precio": "$52.52",
+        "precio_psa_10": "$137.50",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_3.png"
       },
       {
-        "nombre": "#4 Iono #350",
-        "precio": "$33.50",
-        "precio_psa_10": "$136.35",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_4.png"
+        "nombre": "#4 Ultra Ball #126",
+        "precio": "$26.50",
+        "precio_psa_10": "$44.00",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_4.png"
       },
       {
-        "nombre": "#5 Pikachu #236",
-        "precio": "$21.89",
-        "precio_psa_10": "$124.00",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_5.png"
+        "nombre": "#5 Charizard V #102",
+        "precio": "$21.64",
+        "precio_psa_10": "$102.47",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_5.png"
       },
       {
-        "nombre": "#6 Penny #354",
-        "precio": "$17.46",
-        "precio_psa_10": "$54.80",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_6.png"
+        "nombre": "#6 Cynthia's Ambition #114",
+        "precio": "$19.94",
+        "precio_psa_10": "$55.75",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_6.png"
       },
       {
-        "nombre": "#7 Mew ex #327",
+        "nombre": "#7 Lumineon V #105",
+        "precio": "$16.54",
+        "precio_psa_10": "$35.00",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_7.png"
+      },
+      {
+        "nombre": "#8 Arceus VSTAR #125",
         "precio": "$15.99",
-        "precio_psa_10": "$67.14",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_7.png"
+        "precio_psa_10": "$53.79",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_8.png"
       },
       {
-        "nombre": "#8 Charizard ex #331",
-        "precio": "$15.89",
-        "precio_psa_10": "$67.24",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_8.png"
+        "nombre": "#9 Arceus VSTAR #120",
+        "precio": "$11.99",
+        "precio_psa_10": "$43.24",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_9.png"
       },
       {
-        "nombre": "#9 Clive #352",
-        "precio": "$14.61",
-        "precio_psa_10": "$63.28",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_9.png"
-      },
-      {
-        "nombre": "#10 Mimikyu #341",
-        "precio": "$12.99",
-        "precio_psa_10": "$53.13",
-        "imagen": "images/cartas/pokemon-japanese-shiny-treasure-ex/pokemon-japanese-shiny-treasure-ex_10.png"
+        "nombre": "#10 Cynthia's Ambition #122",
+        "precio": "$11.24",
+        "precio_psa_10": "$39.06",
+        "imagen": "images/cartas/pokemon-japanese-star-birth/pokemon-japanese-star-birth_10.png"
       }
     ]
   },
