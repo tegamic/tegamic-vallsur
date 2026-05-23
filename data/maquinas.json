@@ -517,65 +517,65 @@
   "A24": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Victini #171",
-        "precio": "$507.31",
-        "precio_psa_10": "$1,271.70",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_1.png"
+     {
+        "nombre": "#1 Mega Gengar ex #284",
+        "precio": "$1,406.12",
+        "precio_psa_10": "$3,375.50",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_1.png"
       },
       {
-        "nombre": "#2 Zekrom ex #172",
-        "precio": "$449.90",
-        "precio_psa_10": "$1,512.50",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_2.png"
+        "nombre": "#2 Pikachu ex #276",
+        "precio": "$1,180.00",
+        "precio_psa_10": "$3,811.59",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_2.png"
       },
       {
-        "nombre": "#3 Zekrom ex #166",
-        "precio": "$229.75",
-        "precio_psa_10": "$544.63",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_3.png"
+        "nombre": "#3 Mega Dragonite ex #290",
+        "precio": "$820.63",
+        "precio_psa_10": "$2,475.00",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_3.png"
       },
       {
-        "nombre": "#4 Seismitoad #105",
-        "precio": "$167.11",
-        "precio_psa_10": "$1,436.57",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_4.png"
+        "nombre": "#4 Mega Charizard Y ex #294",
+        "precio": "$600.20",
+        "precio_psa_10": "$3,986.37",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_4.png"
       },
       {
-        "nombre": "#5 Kyurem ex #165",
-        "precio": "$65.75",
-        "precio_psa_10": "$142.25",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_5.png"
+        "nombre": "#5 Pikachu ex #277",
+        "precio": "$544.76",
+        "precio_psa_10": "$2,126.54",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_5.png"
       },
       {
-        "nombre": "#6 N's Plan #170",
-        "precio": "$56.28",
-        "precio_psa_10": "$107.59",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_6.png"
+        "nombre": "#6 Team Rocket's Mewtwo Ex #281",
+        "precio": "$450.00",
+        "precio_psa_10": "$1,462.50",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_6.png"
       },
       {
-        "nombre": "#7 Haxorus #147",
-        "precio": "$50.00",
-        "precio_psa_10": "$226.16",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_7.png"
+        "nombre": "#7 Mega Dragonite ex #295",
+        "precio": "$303.67",
+        "precio_psa_10": "$2,317.57",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_7.png"
       },
       {
-        "nombre": "#8 Air Balloon [Great Ball League] #79",
-        "precio": "$49.09",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_8.png"
+        "nombre": "#8 Lillie's Clefairy Ex #280",
+        "precio": "$200.00",
+        "precio_psa_10": "$735.00",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_8.png"
       },
       {
-        "nombre": "#9 Genesect ex #169",
-        "precio": "$41.75",
-        "precio_psa_10": "$84.85",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_9.png"
+        "nombre": "#9 N's Zoroark ex #286",
+        "precio": "$176.77",
+        "precio_psa_10": "$740.00",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_9.png"
       },
       {
-        "nombre": "#10 Serperior ex #164",
-        "precio": "$41.00",
-        "precio_psa_10": "$97.48",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_10.png"
+        "nombre": "#10 Mega Feraligatr Ex #274",
+        "precio": "$168.69",
+        "precio_psa_10": "$690.00",
+        "imagen": "images/cartas/pokemon-ascended-heroes/pokemon-ascended-heroes_10.png"
       }
     ]
   },
