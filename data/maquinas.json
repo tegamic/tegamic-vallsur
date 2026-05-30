@@ -3771,7 +3771,68 @@
   },
   "A55": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [
+       {
+        "nombre": "#1 Monkey.D.Luffy [Manga] EB02-061",
+        "precio": "$855.57",
+        "precio_psa_10": "$2,013.19",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_1.png"
+      },
+      {
+        "nombre": "#2 Boa Hancock OP07-038",
+        "precio": "$510.41",
+        "precio_psa_10": "$740.50",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_2.png"
+      },
+      {
+        "nombre": "#3 Monkey.D.Luffy OP05-060",
+        "precio": "$349.99",
+        "precio_psa_10": "$1,350.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_3.png"
+      },
+      {
+        "nombre": "#4 Monkey.D.Luffy [Alternate Art] EB02-010",
+        "precio": "$205.00",
+        "precio_psa_10": "$350.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_4.png"
+      },
+      {
+        "nombre": "#5 Monkey.D.Luffy [Sound Loader] EB02-010",
+        "precio": "$154.30",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_5.png"
+      },
+      {
+        "nombre": "#6 Jewelry Bonney OP07-019",
+        "precio": "$113.00",
+        "precio_psa_10": "$276.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_6.png"
+      },
+      {
+        "nombre": "#7 Perona OP06-021",
+        "precio": "$109.92",
+        "precio_psa_10": "$99.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_7.png"
+      },
+      {
+        "nombre": "#8 Enel OP05-098",
+        "precio": "$106.35",
+        "precio_psa_10": "$188.32",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_8.png"
+      },
+      {
+        "nombre": "#9 Tony Tony.Chopper OP08-001",
+        "precio": "$106.00",
+        "precio_psa_10": "$850.00",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_9.png"
+      },
+      {
+        "nombre": "#10 Kouzuki Oden EB01-001",
+        "precio": "$91.57",
+        "precio_psa_10": "$517.50",
+        "imagen": "images/cartas/one-piece-japanese-extra-booster-anime-25th-collection/one-piece-japanese-extra-booster-anime-25th-collection_10.png"
+      }
+    ]
   },
   "A56": {
     "coleccion": "",
