@@ -2394,64 +2394,64 @@
     "coleccion": "",
     "cartas": [
       {
-        "nombre": "#1 Parasol Lady #89",
-        "precio": "$39.99",
-        "precio_psa_10": "$110.01",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_1.png"
+        "nombre": "#1 Mega Darkrai ex #118",
+        "precio": "$1,069.99",
+        "precio_psa_10": "$6,110.27",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_1.png"
       },
       {
-        "nombre": "#2 Gholdengo ex #87",
-        "precio": "$33.79",
-        "precio_psa_10": "$86.76",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_2.png"
+        "nombre": "#2 Mega Darkrai ex #114",
+        "precio": "$526.62",
+        "precio_psa_10": "$2,719.36",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_2.png"
       },
       {
-        "nombre": "#3 Garchomp ex #85",
-        "precio": "$31.25",
-        "precio_psa_10": "$70.10",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_3.png"
+        "nombre": "#3 Gwynn #117",
+        "precio": "$126.19",
+        "precio_psa_10": "$700.83",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_3.png"
       },
       {
-        "nombre": "#4 Garchomp ex #90",
-        "precio": "$23.79",
-        "precio_psa_10": "$49.22",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_4.png"
+        "nombre": "#4 Morpeko ex #115",
+        "precio": "$62.96",
+        "precio_psa_10": "$333.61",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_4.png"
       },
       {
-        "nombre": "#5 Rika #88",
-        "precio": "$23.05",
-        "precio_psa_10": "$54.86",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_5.png"
+        "nombre": "#5 Mega Zeraora ex #112",
+        "precio": "$59.78",
+        "precio_psa_10": "$329.13",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_5.png"
       },
       {
-        "nombre": "#6 Groudon #69",
-        "precio": "$21.99",
-        "precio_psa_10": "$71.50",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_6.png"
+        "nombre": "#6 Misty's Spirit #108",
+        "precio": "$45.56",
+        "precio_psa_10": "$255.63",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_6.png"
       },
       {
-        "nombre": "#7 Tapu Koko ex #86",
-        "precio": "$21.58",
-        "precio_psa_10": "$69.99",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_7.png"
+        "nombre": "#7 Mega Chandelure ex #113",
+        "precio": "$40.10",
+        "precio_psa_10": "$249.25",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_7.png"
       },
       {
-        "nombre": "#8 Plusle #65",
-        "precio": "$15.22",
-        "precio_psa_10": "$56.96",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_8.png"
+        "nombre": "#8 Gwynn #111",
+        "precio": "$35.00",
+        "precio_psa_10": "$215.21",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_8.png"
       },
       {
-        "nombre": "#9 Minun #66",
-        "precio": "$10.66",
-        "precio_psa_10": "$48.99",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_9.png"
+        "nombre": "#9 Gladion's Showdown #116",
+        "precio": "$29.63",
+        "precio_psa_10": "$179.46",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_9.png"
       },
       {
-        "nombre": "#10 Parasol Lady #84",
-        "precio": "$10.25",
-        "precio_psa_10": "$37.00",
-        "imagen": "images/cartas/raging-surf-pricecharting/raging-surf-pricecharting_10.png"
+        "nombre": "#10 Mega Darkrai ex #99",
+        "precio": "$21.93",
+        "precio_psa_10": "$144.38",
+        "imagen": "images/cartas/pokemon-japanese-abyss-eye/pokemon-japanese-abyss-eye_10.png"
       }
     ]
   },
