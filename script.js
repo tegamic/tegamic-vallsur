@@ -1,5 +1,5 @@
 let datosMaquinas = null;
-let ciudadActual = "zamora1";
+let ciudadActual = "zamora";
 let rankingCargado = false;
 
 const maquina = document.getElementById("maquina");
