@@ -1,7 +1,7 @@
 {
   "zamora1": {
     "nombre": "Zamora",
-    "titulo": "CC Valderaduey",
+    "titulo": "CC Valderaduey (máquina 1)",
     "espiralesOrden": [
       "A11",
       "A12",
@@ -2101,7 +2101,7 @@
   },
   "zamora": {
     "nombre": "Zamora",
-    "titulo": "CC Valderaduey",
+    "titulo": "CC Valderaduey (máquina 2)",
     "espiralesOrden": [
       "A11",
       "A12",
