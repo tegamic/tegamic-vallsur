@@ -3597,6 +3597,66 @@
   "A63": {
     "coleccion": "",
     "cartas": [
+       {
+        "nombre": "#1 Umbreon Ex #217",
+        "precio": "$429.85",
+        "precio_psa_10": "$782.50",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_1.png"
+      },
+      {
+        "nombre": "#2 Sylveon Ex #212",
+        "precio": "$153.75",
+        "precio_psa_10": "$287.35",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_2.png"
+      },
+      {
+        "nombre": "#3 Leafeon Ex #200",
+        "precio": "$70.19",
+        "precio_psa_10": "$157.01",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_3.png"
+      },
+      {
+        "nombre": "#4 Espeon Ex #211",
+        "precio": "$70.00",
+        "precio_psa_10": "$167.86",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_4.png"
+      },
+      {
+        "nombre": "#5 Glaceon Ex #206",
+        "precio": "$65.00",
+        "precio_psa_10": "$148.85",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_5.png"
+      },
+      {
+        "nombre": "#6 Vaporeon Ex #205",
+        "precio": "$56.14",
+        "precio_psa_10": "$149.99",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_6.png"
+      },
+      {
+        "nombre": "#7 Pikachu Ex #236",
+        "precio": "$55.00",
+        "precio_psa_10": "$294.03",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_7.png"
+      },
+      {
+        "nombre": "#8 Umbreon [Master Ball] #92",
+        "precio": "$53.73",
+        "precio_psa_10": "$215.19",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_8.png"
+      },
+      {
+        "nombre": "#9 Flareon Ex #202",
+        "precio": "$53.50",
+        "precio_psa_10": "$133.18",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_9.png"
+      },
+      {
+        "nombre": "#10 Jolteon Ex #209",
+        "precio": "$44.44",
+        "precio_psa_10": "$116.51",
+        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_10.png"
+      }
       
     ]
   },
