@@ -2093,7 +2093,68 @@
   },
   "A22": {
     "coleccion": "",
-    "cartas": []
+    "cartas": [
+      {
+        "nombre": "#1 Mega Gardevoir Ex #92",
+        "precio": "$250.00",
+        "precio_psa_10": "$866.92",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_1.png"
+      },
+      {
+        "nombre": "#2 Mega Gardevoir ex #87",
+        "precio": "$104.23",
+        "precio_psa_10": "$211.49",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_2.png"
+      },
+      {
+        "nombre": "#3 Mega Latias Ex #88",
+        "precio": "$39.09",
+        "precio_psa_10": "$97.55",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_3.png"
+      },
+      {
+        "nombre": "#4 Mega Kangaskhan ex #89",
+        "precio": "$32.30",
+        "precio_psa_10": "$76.97",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_4.png"
+      },
+      {
+        "nombre": "#5 Acerola's Mischief #90",
+        "precio": "$28.89",
+        "precio_psa_10": "$125.51",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_5.png"
+      },
+      {
+        "nombre": "#6 Wally's Compassion #91",
+        "precio": "$11.99",
+        "precio_psa_10": "$34.00",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_6.png"
+      },
+      {
+        "nombre": "#7 Mega Gardevoir Ex #78",
+        "precio": "$5.95",
+        "precio_psa_10": "$38.72",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_7.png"
+      },
+      {
+        "nombre": "#8 Alakazam #71",
+        "precio": "$5.03",
+        "precio_psa_10": "$49.99",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_8.png"
+      },
+      {
+        "nombre": "#9 Mega Latias Ex #79",
+        "precio": "$4.99",
+        "precio_psa_10": "$41.01",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_9.png"
+      },
+      {
+        "nombre": "#10 Acerola's Mischief #84",
+        "precio": "$4.81",
+        "precio_psa_10": "$56.50",
+        "imagen": "images/cartas/pokemon-japanese-mega-symphonia/pokemon-japanese-mega-symphonia_10.png"
+      }
+    ]
   },
   "A23": {
     "coleccion": "",
@@ -2754,65 +2815,65 @@
   "A42": {
     "coleccion": "",
     "cartas": [
-       {
-        "nombre": "#1 Enel [Manga] OP15-118",
-        "precio": "$1,099.99",
-        "precio_psa_10": "$1,430.25",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_1.png"
+        {
+        "nombre": "#1 Mega Charizard X Ex #116",
+        "precio": "$764.64",
+        "precio_psa_10": "$3,400.00",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_1.png"
       },
       {
-        "nombre": "#2 Boa Hancock [SP] OP12-014",
-        "precio": "$310.02",
-        "precio_psa_10": "$716.04",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_2.png"
+        "nombre": "#2 Mega Charizard X Ex #110",
+        "precio": "$693.49",
+        "precio_psa_10": "$1,348.61",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_2.png"
       },
       {
-        "nombre": "#3 Monkey.D.Luffy [SP] ST26-005",
-        "precio": "$212.48",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_3.png"
+        "nombre": "#3 Mega Charizard X Ex #94",
+        "precio": "$35.00",
+        "precio_psa_10": "$127.70",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_3.png"
       },
       {
-        "nombre": "#4 Gum-Gum Golden Rifle [Alternate Art] OP15-116",
-        "precio": "$150.65",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_4.png"
+        "nombre": "#4 Oricorio Ex #111",
+        "precio": "$29.88",
+        "precio_psa_10": "$127.25",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_4.png"
       },
       {
-        "nombre": "#5 Trafalgar Law [SP] OP13-031",
-        "precio": "$141.00",
-        "precio_psa_10": "$235.45",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_5.png"
+        "nombre": "#5 Dawn #115",
+        "precio": "$28.42",
+        "precio_psa_10": "$76.58",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_5.png"
       },
       {
-        "nombre": "#6 Enel [SP] EB02-052",
-        "precio": "$120.04",
-        "precio_psa_10": "$315.00",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_6.png"
+        "nombre": "#6 Mega Sharpedo Ex #113",
+        "precio": "$13.47",
+        "precio_psa_10": "$54.66",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_6.png"
       },
       {
-        "nombre": "#7 Lightning Dragon [Alternate Art] OP15-077",
-        "precio": "$102.72",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_7.png"
+        "nombre": "#7 Mega Lopunny Ex #114",
+        "precio": "$12.63",
+        "precio_psa_10": "$42.00",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_7.png"
       },
       {
-        "nombre": "#8 Edward.Newgate [SP] OP13-042",
-        "precio": "$98.33",
-        "precio_psa_10": "$338.00",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_8.png"
+        "nombre": "#8 Rotom Ex #112",
+        "precio": "$10.21",
+        "precio_psa_10": "$41.00",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_8.png"
       },
       {
-        "nombre": "#9 Monkey.D.Luffy [Alternate Art] OP15-119",
-        "precio": "$73.84",
-        "precio_psa_10": "$110.50",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_9.png"
+        "nombre": "#9 Dawn #106",
+        "precio": "$7.80",
+        "precio_psa_10": "$54.34",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_9.png"
       },
       {
-        "nombre": "#10 Nami [Alternate Art] OP15-086",
-        "precio": "$70.00",
-        "precio_psa_10": "$860.00",
-        "imagen": "images/cartas/one-piece-japanese-adventure-on-kami%27s-island/one-piece-japanese-adventure-on-kami%27s-island_10.png"
+        "nombre": "#10 Piplup #85",
+        "precio": "$6.61",
+        "precio_psa_10": "$51.84",
+        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_10.png"
       }
     ]
   },
@@ -3538,67 +3599,66 @@
   "A63": {
     "coleccion": "",
     "cartas": [
-       {
-        "nombre": "#1 Umbreon Ex #217",
-        "precio": "$429.85",
-        "precio_psa_10": "$782.50",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_1.png"
+        {
+        "nombre": "#1 Iono #96",
+        "precio": "$280.00",
+        "precio_psa_10": "$547.07",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_1.png"
       },
       {
-        "nombre": "#2 Sylveon Ex #212",
-        "precio": "$153.75",
-        "precio_psa_10": "$287.35",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_2.png"
+        "nombre": "#2 Tinkaton ex #93",
+        "precio": "$38.80",
+        "precio_psa_10": "$97.35",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_2.png"
       },
       {
-        "nombre": "#3 Leafeon Ex #200",
-        "precio": "$70.19",
-        "precio_psa_10": "$157.01",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_3.png"
+        "nombre": "#3 Chi-Yu ex #92",
+        "precio": "$36.47",
+        "precio_psa_10": "$135.99",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_3.png"
       },
       {
-        "nombre": "#4 Espeon Ex #211",
-        "precio": "$70.00",
-        "precio_psa_10": "$167.86",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_4.png"
+        "nombre": "#4 Maushold #81",
+        "precio": "$29.43",
+        "precio_psa_10": "$94.00",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_4.png"
       },
       {
-        "nombre": "#5 Glaceon Ex #206",
-        "precio": "$65.00",
-        "precio_psa_10": "$148.85",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_5.png"
+        "nombre": "#5 Iono #91",
+        "precio": "$28.68",
+        "precio_psa_10": "$89.99",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_5.png"
       },
       {
-        "nombre": "#6 Vaporeon Ex #205",
-        "precio": "$56.14",
-        "precio_psa_10": "$149.99",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_6.png"
+        "nombre": "#6 Raichu #74",
+        "precio": "$19.99",
+        "precio_psa_10": "$77.16",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_6.png"
       },
       {
-        "nombre": "#7 Pikachu Ex #236",
-        "precio": "$55.00",
-        "precio_psa_10": "$294.03",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_7.png"
+        "nombre": "#7 Grass Energy #99",
+        "precio": "$15.00",
+        "precio_psa_10": "$31.00",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_7.png"
       },
       {
-        "nombre": "#8 Umbreon [Master Ball] #92",
-        "precio": "$53.73",
-        "precio_psa_10": "$215.19",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_8.png"
+        "nombre": "#8 Tyranitar #79",
+        "precio": "$12.22",
+        "precio_psa_10": "$65.00",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_8.png"
       },
       {
-        "nombre": "#9 Flareon Ex #202",
-        "precio": "$53.50",
-        "precio_psa_10": "$133.18",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_9.png"
+        "nombre": "#9 Saguaro #95",
+        "precio": "$11.14",
+        "precio_psa_10": "$71.92",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_9.png"
       },
       {
-        "nombre": "#10 Jolteon Ex #209",
-        "precio": "$44.44",
-        "precio_psa_10": "$116.51",
-        "imagen": "images/cartas/pokemon-japanese-terastal-festival/pokemon-japanese-terastal-festival_10.png"
+        "nombre": "#10 Ting-Lu ex #94",
+        "precio": "$8.78",
+        "precio_psa_10": "$31.50",
+        "imagen": "images/cartas/pokemon-japanese-clay-burst/pokemon-japanese-clay-burst_10.png"
       }
-      
     ]
   },
   "A64": {
@@ -3734,66 +3794,7 @@
   "A66": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Mega Charizard X Ex #116",
-        "precio": "$764.64",
-        "precio_psa_10": "$3,400.00",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_1.png"
-      },
-      {
-        "nombre": "#2 Mega Charizard X Ex #110",
-        "precio": "$693.49",
-        "precio_psa_10": "$1,348.61",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_2.png"
-      },
-      {
-        "nombre": "#3 Mega Charizard X Ex #94",
-        "precio": "$35.00",
-        "precio_psa_10": "$127.70",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_3.png"
-      },
-      {
-        "nombre": "#4 Oricorio Ex #111",
-        "precio": "$29.88",
-        "precio_psa_10": "$127.25",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_4.png"
-      },
-      {
-        "nombre": "#5 Dawn #115",
-        "precio": "$28.42",
-        "precio_psa_10": "$76.58",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_5.png"
-      },
-      {
-        "nombre": "#6 Mega Sharpedo Ex #113",
-        "precio": "$13.47",
-        "precio_psa_10": "$54.66",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_6.png"
-      },
-      {
-        "nombre": "#7 Mega Lopunny Ex #114",
-        "precio": "$12.63",
-        "precio_psa_10": "$42.00",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_7.png"
-      },
-      {
-        "nombre": "#8 Rotom Ex #112",
-        "precio": "$10.21",
-        "precio_psa_10": "$41.00",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_8.png"
-      },
-      {
-        "nombre": "#9 Dawn #106",
-        "precio": "$7.80",
-        "precio_psa_10": "$54.34",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_9.png"
-      },
-      {
-        "nombre": "#10 Piplup #85",
-        "precio": "$6.61",
-        "precio_psa_10": "$51.84",
-        "imagen": "images/cartas/pokemon-japanese-inferno-x/pokemon-japanese-inferno-x_10.png"
-      }
+     
     ]
   }
 }
