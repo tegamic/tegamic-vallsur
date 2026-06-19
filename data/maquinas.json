@@ -2484,66 +2484,7 @@
   "A32": {
     "coleccion": "",
     "cartas": [
-      {
-        "nombre": "#1 Victini #171",
-        "precio": "$507.31",
-        "precio_psa_10": "$1,271.70",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_1.png"
-      },
-      {
-        "nombre": "#2 Zekrom ex #172",
-        "precio": "$449.90",
-        "precio_psa_10": "$1,512.50",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_2.png"
-      },
-      {
-        "nombre": "#3 Zekrom ex #166",
-        "precio": "$229.75",
-        "precio_psa_10": "$544.63",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_3.png"
-      },
-      {
-        "nombre": "#4 Seismitoad #105",
-        "precio": "$167.11",
-        "precio_psa_10": "$1,436.57",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_4.png"
-      },
-      {
-        "nombre": "#5 Kyurem ex #165",
-        "precio": "$65.75",
-        "precio_psa_10": "$142.25",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_5.png"
-      },
-      {
-        "nombre": "#6 N's Plan #170",
-        "precio": "$56.28",
-        "precio_psa_10": "$107.59",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_6.png"
-      },
-      {
-        "nombre": "#7 Haxorus #147",
-        "precio": "$50.00",
-        "precio_psa_10": "$226.16",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_7.png"
-      },
-      {
-        "nombre": "#8 Air Balloon [Great Ball League] #79",
-        "precio": "$49.09",
-        "precio_psa_10": "",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_8.png"
-      },
-      {
-        "nombre": "#9 Genesect ex #169",
-        "precio": "$41.75",
-        "precio_psa_10": "$84.85",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_9.png"
-      },
-      {
-        "nombre": "#10 Serperior ex #164",
-        "precio": "$41.00",
-        "precio_psa_10": "$97.48",
-        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_10.png"
-      }
+     
     ]
   },
   "A33": {
