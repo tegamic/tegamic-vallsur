@@ -2484,7 +2484,66 @@
   "A32": {
     "coleccion": "",
     "cartas": [
-     
+      {
+        "nombre": "#1 Victini #171",
+        "precio": "$569.95",
+        "precio_psa_10": "$1,400.00",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_1.png"
+      },
+      {
+        "nombre": "#2 Zekrom ex #172",
+        "precio": "$555.00",
+        "precio_psa_10": "$1,645.00",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_2.png"
+      },
+      {
+        "nombre": "#3 Zekrom ex #166",
+        "precio": "$252.21",
+        "precio_psa_10": "$615.85",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_3.png"
+      },
+      {
+        "nombre": "#4 Seismitoad #105",
+        "precio": "$226.01",
+        "precio_psa_10": "$2,155.00",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_4.png"
+      },
+      {
+        "nombre": "#5 Kyurem ex #165",
+        "precio": "$70.19",
+        "precio_psa_10": "$229.22",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_5.png"
+      },
+      {
+        "nombre": "#6 Haxorus #147",
+        "precio": "$69.55",
+        "precio_psa_10": "$320.00",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_6.png"
+      },
+      {
+        "nombre": "#7 N's Plan #170",
+        "precio": "$65.90",
+        "precio_psa_10": "$135.63",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_7.png"
+      },
+      {
+        "nombre": "#8 Professor's Research: Professor Juniper [Professor Program] #85",
+        "precio": "$63.67",
+        "precio_psa_10": "",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_8.png"
+      },
+      {
+        "nombre": "#9 Dwebble #129",
+        "precio": "$59.28",
+        "precio_psa_10": "$400.00",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_9.png"
+      },
+      {
+        "nombre": "#10 Krookodile #137",
+        "precio": "$53.44",
+        "precio_psa_10": "$445.17",
+        "imagen": "images/cartas/pokemon-black-bolt/pokemon-black-bolt_10.png"
+      }
     ]
   },
   "A33": {
